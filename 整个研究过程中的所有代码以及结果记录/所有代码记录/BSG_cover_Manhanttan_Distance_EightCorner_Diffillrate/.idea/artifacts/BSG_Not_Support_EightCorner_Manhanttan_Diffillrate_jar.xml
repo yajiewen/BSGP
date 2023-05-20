@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BSG_Not_Support_EightCorner_Manhanttan_Diffillrate:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BSG_Not_Support_EightCorner_Manhanttan_Diffillrate_jar</output-path>
+    <root id="archive" name="BSG_Not_Support_EightCorner_Manhanttan_Diffillrate.jar">
+      <element id="module-output" name="BSG_cover_Manhanttan_Distance_EightCorner_Diffillrate" />
+    </root>
+  </artifact>
+</component>

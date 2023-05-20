@@ -1,0 +1,3214 @@
+BSGP-VCS-UNSUPPORT-150s 0-7
+***运行时间：150秒
+***多线程运行
+***TASK 0_7
+***开启状态检测
+
+simple blocks zhang 块生成完毕:203块
+生成时间1ms
+simple blocks zhang 块生成完毕:1739块
+生成时间1ms
+simple blocks zhang 块生成完毕:942块
+生成时间1ms
+simple blocks zhang 块生成完毕:1317块
+生成时间1ms
+simple blocks zhang 块生成完毕:880块
+生成时间1ms
+simple blocks zhang 块生成完毕:1108块
+生成时间1ms
+simple blocks zhang 块生成完毕:1111块
+生成时间1ms
+simple blocks zhang 块生成完毕:763块
+生成时间1ms
+运行时间:150001ms
+BR0 problem 1 : 0.9165579359260768
+运行时间:150158ms
+运行时间:150162ms
+BR2 problem 1 : 0.9600909549539011
+运行时间:150174ms
+运行时间:150166ms
+BR4 problem 1 : 0.9646938047074041
+运行时间:150169ms
+BR1 problem 1 : 0.9507361674889879
+运行时间:150186ms
+BR6 problem 1 : 0.9638656453620883
+运行时间:150179ms
+BR7 problem 1 : 0.9608504195134402
+BR5 problem 1 : 0.962350205818485
+BR3 problem 1 : 0.9677573861019182
+simple blocks zhang 块生成完毕:3742块
+生成时间4ms
+simple blocks zhang 块生成完毕:1658块
+生成时间1ms
+simple blocks zhang 块生成完毕:1997块
+生成时间1ms
+simple blocks zhang 块生成完毕:1923块
+生成时间1ms
+simple blocks zhang 块生成完毕:2222块
+生成时间1ms
+simple blocks zhang 块生成完毕:1875块
+生成时间0ms
+simple blocks zhang 块生成完毕:2494块
+生成时间1ms
+simple blocks zhang 块生成完毕:1991块
+生成时间1ms
+运行时间:150000ms
+BR0 problem 2 : 0.9626691862509397
+运行时间:150197ms
+运行时间:150203ms
+运行时间:150210ms
+BR5 problem 2 : 0.9650842383519632
+运行时间:150232ms
+BR4 problem 2 : 0.9719350061582699
+BR6 problem 2 : 0.9711108681332632
+运行时间:150247ms
+BR2 problem 2 : 0.9637455042635965
+BR3 problem 2 : 0.9748355080589253
+运行时间:150220ms
+BR1 problem 2 : 0.9749592384350484
+运行时间:150193ms
+BR7 problem 2 : 0.9650306982939632
+simple blocks zhang 块生成完毕:208块
+生成时间0ms
+simple blocks zhang 块生成完毕:1972块
+生成时间1ms
+simple blocks zhang 块生成完毕:1797块
+生成时间0ms
+simple blocks zhang 块生成完毕:1850块
+生成时间1ms
+simple blocks zhang 块生成完毕:1782块
+生成时间0ms
+simple blocks zhang 块生成完毕:1901块
+生成时间1ms
+simple blocks zhang 块生成完毕:688块
+生成时间0ms
+simple blocks zhang 块生成完毕:1767块
+生成时间1ms
+运行时间:150000ms
+BR0 problem 3 : 0.7896267217731563
+运行时间:150217ms
+BR7 problem 3 : 0.9607383875236709
+运行时间:150241ms
+BR6 problem 3 : 0.9672978588629567
+运行时间:150237ms
+运行时间:150232ms
+运行时间:150228ms
+BR5 problem 3 : 0.9617890820821267
+BR2 problem 3 : 0.9575174761263187
+运行时间:150224ms
+BR4 problem 3 : 0.9708376177565553
+BR3 problem 3 : 0.959994210628117
+运行时间:150221ms
+BR1 problem 3 : 0.9345375249006136
+simple blocks zhang 块生成完毕:132块
+生成时间0ms
+simple blocks zhang 块生成完毕:2473块
+生成时间1ms
+simple blocks zhang 块生成完毕:2396块
+生成时间0ms
+simple blocks zhang 块生成完毕:2274块
+生成时间1ms
+simple blocks zhang 块生成完毕:2633块
+生成时间1ms
+simple blocks zhang 块生成完毕:3075块
+生成时间1ms
+simple blocks zhang 块生成完毕:2912块
+生成时间1ms
+simple blocks zhang 块生成完毕:3126块
+生成时间1ms
+运行时间:150001ms
+BR0 problem 4 : 0.8209108656074753
+运行时间:150132ms
+BR1 problem 4 : 0.9322460370054524
+运行时间:150137ms
+运行时间:150190ms
+运行时间:150159ms
+BR5 problem 4 : 0.9691918674945047
+运行时间:150174ms
+BR6 problem 4 : 0.970025543692476
+运行时间:150143ms
+BR2 problem 4 : 0.9563851587358032
+运行时间:150150ms
+BR7 problem 4 : 0.9687221041674837
+BR3 problem 4 : 0.9704172069969644
+BR4 problem 4 : 0.9706231251840336
+simple blocks zhang 块生成完毕:460块
+生成时间0ms
+simple blocks zhang 块生成完毕:1030块
+生成时间1ms
+simple blocks zhang 块生成完毕:1764块
+生成时间1ms
+simple blocks zhang 块生成完毕:1805块
+生成时间1ms
+simple blocks zhang 块生成完毕:1321块
+生成时间0ms
+simple blocks zhang 块生成完毕:1667块
+生成时间1ms
+simple blocks zhang 块生成完毕:1989块
+生成时间1ms
+simple blocks zhang 块生成完毕:1243块
+生成时间1ms
+运行时间:150001ms
+BR0 problem 5 : 0.9300392627092
+运行时间:150208ms
+运行时间:150264ms
+运行时间:150292ms
+运行时间:150236ms
+运行时间:150249ms
+运行时间:150223ms
+BR5 problem 5 : 0.9680549638047938
+BR3 problem 5 : 0.9677976657731138
+运行时间:150214ms
+BR1 problem 5 : 0.9523291753102897
+BR7 problem 5 : 0.9595571828424553
+BR4 problem 5 : 0.9670299924026957
+BR6 problem 5 : 0.9655545998919228
+BR2 problem 5 : 0.9607410462478423
+simple blocks zhang 块生成完毕:320块
+生成时间0ms
+simple blocks zhang 块生成完毕:2233块
+生成时间0ms
+simple blocks zhang 块生成完毕:1975块
+生成时间0ms
+simple blocks zhang 块生成完毕:2183块
+生成时间0ms
+simple blocks zhang 块生成完毕:2255块
+生成时间0ms
+simple blocks zhang 块生成完毕:1464块
+生成时间0ms
+simple blocks zhang 块生成完毕:2266块
+生成时间0ms
+simple blocks zhang 块生成完毕:2371块
+生成时间0ms
+运行时间:150001ms
+BR0 problem 6 : 0.8426906022741397
+运行时间:150227ms
+运行时间:150239ms
+运行时间:150256ms
+运行时间:150262ms
+BR7 problem 6 : 0.9643618629946141
+BR3 problem 6 : 0.9661685325371341
+运行时间:150250ms
+BR4 problem 6 : 0.9652766635138629
+运行时间:150245ms
+运行时间:150233ms
+BR2 problem 6 : 0.9757122888225241
+BR1 problem 6 : 0.9638018027479244
+BR6 problem 6 : 0.9618960292619182
+BR5 problem 6 : 0.9674798152984319
+simple blocks zhang 块生成完毕:114块
+生成时间0ms
+simple blocks zhang 块生成完毕:1484块
+生成时间0ms
+simple blocks zhang 块生成完毕:2036块
+生成时间0ms
+simple blocks zhang 块生成完毕:2171块
+生成时间1ms
+simple blocks zhang 块生成完毕:2723块
+生成时间0ms
+simple blocks zhang 块生成完毕:1271块
+生成时间0ms
+simple blocks zhang 块生成完毕:1729块
+生成时间1ms
+simple blocks zhang 块生成完毕:1936块
+生成时间1ms
+运行时间:150001ms
+BR0 problem 7 : 0.8532107750114492
+运行时间:150203ms
+运行时间:150216ms
+运行时间:150209ms
+BR6 problem 7 : 0.9613525860412993
+BR1 problem 7 : 0.9567075290415764
+运行时间:150225ms
+BR2 problem 7 : 0.9703750329847968
+运行时间:150236ms
+BR5 problem 7 : 0.9689169221811376
+BR3 problem 7 : 0.9707827483364695
+运行时间:150265ms
+运行时间:150244ms
+BR7 problem 7 : 0.958856609023311
+BR4 problem 7 : 0.9685761402104779
+simple blocks zhang 块生成完毕:508块
+生成时间0ms
+simple blocks zhang 块生成完毕:2032块
+生成时间0ms
+simple blocks zhang 块生成完毕:1705块
+生成时间1ms
+simple blocks zhang 块生成完毕:1366块
+生成时间1ms
+simple blocks zhang 块生成完毕:1622块
+生成时间0ms
+simple blocks zhang 块生成完毕:1169块
+生成时间0ms
+simple blocks zhang 块生成完毕:1447块
+生成时间1ms
+simple blocks zhang 块生成完毕:1987块
+生成时间1ms
+运行时间:150001ms
+BR0 problem 8 : 0.9229229215922301
+运行时间:150250ms
+运行时间:150255ms
+运行时间:150270ms
+BR6 problem 8 : 0.9599211289474576
+BR4 problem 8 : 0.9631695581399832
+运行时间:150282ms
+运行时间:150276ms
+运行时间:150265ms
+BR2 problem 8 : 0.9643937012165658
+运行时间:150260ms
+BR5 problem 8 : 0.9624808821115055
+BR3 problem 8 : 0.9612909701086289
+BR7 problem 8 : 0.9624864654322653
+BR1 problem 8 : 0.9771226755273081
+simple blocks zhang 块生成完毕:312块
+生成时间1ms
+simple blocks zhang 块生成完毕:2154块
+生成时间1ms
+simple blocks zhang 块生成完毕:1802块
+生成时间0ms
+simple blocks zhang 块生成完毕:1246块
+生成时间0ms
+simple blocks zhang 块生成完毕:1822块
+生成时间0ms
+simple blocks zhang 块生成完毕:1905块
+生成时间1ms
+simple blocks zhang 块生成完毕:528块
+生成时间1ms
+simple blocks zhang 块生成完毕:1905块
+生成时间1ms
+运行时间:150000ms
+BR0 problem 9 : 0.9365322659442027
+运行时间:150291ms
+运行时间:150297ms
+运行时间:150361ms
+BR1 problem 9 : 0.9401075852735927
+BR4 problem 9 : 0.966127455248687
+运行时间:150339ms
+BR6 problem 9 : 0.9619901480975832
+运行时间:150323ms
+BR2 problem 9 : 0.9660261578577596
+运行时间:150313ms
+BR3 problem 9 : 0.9635690979148291
+BR5 problem 9 : 0.9658625798531187
+运行时间:150362ms
+BR7 problem 9 : 0.9606455648160396
+simple blocks zhang 块生成完毕:336块
+生成时间0ms
+simple blocks zhang 块生成完毕:911块
+生成时间0ms
+simple blocks zhang 块生成完毕:2423块
+生成时间1ms
+simple blocks zhang 块生成完毕:2071块
+生成时间1ms
+simple blocks zhang 块生成完毕:2089块
+生成时间0ms
+simple blocks zhang 块生成完毕:1837块
+生成时间0ms
+simple blocks zhang 块生成完毕:1881块
+生成时间1ms
+simple blocks zhang 块生成完毕:2569块
+生成时间0ms
+运行时间:150000ms
+BR0 problem 10 : 0.7767962506671736
+运行时间:150175ms
+运行时间:150170ms
+运行时间:150182ms
+运行时间:150192ms
+BR6 problem 10 : 0.9654062098491107
+运行时间:150198ms
+BR3 problem 10 : 0.969100374148959
+BR2 problem 10 : 0.9759975699261074
+运行时间:150212ms
+运行时间:150188ms
+BR1 problem 10 : 0.9553396819235338
+BR4 problem 10 : 0.9680333616709018
+BR7 problem 10 : 0.9685811917864035
+BR5 problem 10 : 0.9686899336050107
+simple blocks zhang 块生成完毕:396块
+生成时间1ms
+simple blocks zhang 块生成完毕:1446块
+生成时间0ms
+simple blocks zhang 块生成完毕:791块
+生成时间0ms
+simple blocks zhang 块生成完毕:1499块
+生成时间1ms
+simple blocks zhang 块生成完毕:1960块
+生成时间0ms
+simple blocks zhang 块生成完毕:1948块
+生成时间1ms
+simple blocks zhang 块生成完毕:847块
+生成时间0ms
+simple blocks zhang 块生成完毕:1969块
+生成时间0ms
+运行时间:150000ms
+BR0 problem 11 : 0.7655444635060197
+运行时间:150142ms
+运行时间:150149ms
+BR2 problem 11 : 0.9620602719476019
+运行时间:150154ms
+BR7 problem 11 : 0.9659395166838265
+BR6 problem 11 : 0.9638643492340548
+运行时间:150209ms
+运行时间:150188ms
+运行时间:150228ms
+BR3 problem 11 : 0.9676424627496126
+运行时间:150169ms
+BR4 problem 11 : 0.9594830709061796
+BR1 problem 11 : 0.9313517418963749
+BR5 problem 11 : 0.9595880572768948
+simple blocks zhang 块生成完毕:262块
+生成时间0ms
+simple blocks zhang 块生成完毕:903块
+生成时间1ms
+simple blocks zhang 块生成完毕:1475块
+生成时间1ms
+simple blocks zhang 块生成完毕:1419块
+生成时间1ms
+simple blocks zhang 块生成完毕:757块
+生成时间0ms
+simple blocks zhang 块生成完毕:1427块
+生成时间1ms
+simple blocks zhang 块生成完毕:1684块
+生成时间1ms
+simple blocks zhang 块生成完毕:2265块
+生成时间0ms
+运行时间:150000ms
+BR0 problem 12 : 0.9214074488145746
+运行时间:150222ms
+运行时间:150228ms
+BR7 problem 12 : 0.9678567226837693
+运行时间:150234ms
+运行时间:150241ms
+BR1 problem 12 : 0.9498775989859626
+运行时间:150258ms
+运行时间:150251ms
+BR4 problem 12 : 0.9643952299829642
+BR2 problem 12 : 0.9584152940449231
+运行时间:150245ms
+BR5 problem 12 : 0.9618221167299554
+BR3 problem 12 : 0.9580946519098613
+BR6 problem 12 : 0.9627107288161166
+simple blocks zhang 块生成完毕:2186块
+生成时间2ms
+simple blocks zhang 块生成完毕:2316块
+生成时间0ms
+simple blocks zhang 块生成完毕:2983块
+生成时间1ms
+simple blocks zhang 块生成完毕:2432块
+生成时间1ms
+simple blocks zhang 块生成完毕:2827块
+生成时间1ms
+simple blocks zhang 块生成完毕:2869块
+生成时间1ms
+simple blocks zhang 块生成完毕:3060块
+生成时间1ms
+simple blocks zhang 块生成完毕:2822块
+生成时间1ms
+运行时间:150000ms
+BR0 problem 13 : 0.9829835006224737
+运行时间:150289ms
+运行时间:150301ms
+BR3 problem 13 : 0.9803721017413979
+运行时间:150307ms
+BR2 problem 13 : 0.9729771927993773
+运行时间:150316ms
+BR4 problem 13 : 0.9741061867846785
+运行时间:150330ms
+BR1 problem 13 : 0.9831055360619376
+运行时间:150344ms
+BR7 problem 13 : 0.9633640438131156
+运行时间:150521ms
+BR6 problem 13 : 0.9702548586522528
+BR5 problem 13 : 0.969607459316535
+simple blocks zhang 块生成完毕:916块
+生成时间0ms
+simple blocks zhang 块生成完毕:1663块
+生成时间1ms
+simple blocks zhang 块生成完毕:1096块
+生成时间0ms
+simple blocks zhang 块生成完毕:1542块
+生成时间0ms
+simple blocks zhang 块生成完毕:1042块
+生成时间0ms
+simple blocks zhang 块生成完毕:1385块
+生成时间0ms
+simple blocks zhang 块生成完毕:1953块
+生成时间1ms
+simple blocks zhang 块生成完毕:2415块
+生成时间2ms
+运行时间:150000ms
+BR0 problem 14 : 0.9684732475850476
+运行时间:150030ms
+BR2 problem 14 : 0.9595626664610587
+运行时间:150042ms
+运行时间:150036ms
+BR4 problem 14 : 0.9693749538877526
+BR1 problem 14 : 0.9692190197151044
+运行时间:150050ms
+BR7 problem 14 : 0.9679828791456988
+运行时间:150010ms
+运行时间:150024ms
+BR6 problem 14 : 0.9686516147428914
+BR3 problem 14 : 0.9639034989474776
+运行时间:150017ms
+BR5 problem 14 : 0.9691025675964003
+simple blocks zhang 块生成完毕:555块
+生成时间0ms
+simple blocks zhang 块生成完毕:1627块
+生成时间1ms
+simple blocks zhang 块生成完毕:1261块
+生成时间0ms
+simple blocks zhang 块生成完毕:1567块
+生成时间0ms
+simple blocks zhang 块生成完毕:1686块
+生成时间1ms
+simple blocks zhang 块生成完毕:1705块
+生成时间0ms
+simple blocks zhang 块生成完毕:1534块
+生成时间0ms
+simple blocks zhang 块生成完毕:1366块
+生成时间0ms
+运行时间:150000ms
+BR0 problem 15 : 0.9197856270700661
+运行时间:150291ms
+BR6 problem 15 : 0.9649308632013299
+运行时间:150297ms
+BR3 problem 15 : 0.9735696562469051
+运行时间:150375ms
+BR5 problem 15 : 0.9669701046407366
+运行时间:150380ms
+BR7 problem 15 : 0.9628367523418375
+运行时间:150393ms
+运行时间:150393ms
+BR4 problem 15 : 0.9718132698252753
+BR1 problem 15 : 0.9723100524366874
+运行时间:150407ms
+BR2 problem 15 : 0.9768052903293561
+simple blocks zhang 块生成完毕:2100块
+生成时间1ms
+simple blocks zhang 块生成完毕:1782块
+生成时间0ms
+simple blocks zhang 块生成完毕:1906块
+生成时间0ms
+simple blocks zhang 块生成完毕:1998块
+生成时间0ms
+simple blocks zhang 块生成完毕:1951块
+生成时间1ms
+simple blocks zhang 块生成完毕:2121块
+生成时间1ms
+simple blocks zhang 块生成完毕:1561块
+生成时间0ms
+simple blocks zhang 块生成完毕:1660块
+生成时间1ms
+运行时间:150000ms
+BR0 problem 16 : 0.8360025816211704
+运行时间:150134ms
+BR5 problem 16 : 0.9638467019523677
+运行时间:150140ms
+BR7 problem 16 : 0.9630657017270408
+运行时间:150204ms
+运行时间:150198ms
+BR1 problem 16 : 0.9601408392661656
+BR4 problem 16 : 0.9645745941623722
+运行时间:150211ms
+运行时间:150225ms
+BR6 problem 16 : 0.9637172885533284
+运行时间:150216ms
+BR2 problem 16 : 0.9672747944307705
+BR3 problem 16 : 0.9682786289757066
+simple blocks zhang 块生成完毕:774块
+生成时间1ms
+simple blocks zhang 块生成完毕:1381块
+生成时间0ms
+simple blocks zhang 块生成完毕:2092块
+生成时间0ms
+simple blocks zhang 块生成完毕:1647块
+生成时间1ms
+simple blocks zhang 块生成完毕:1109块
+生成时间0ms
+simple blocks zhang 块生成完毕:1689块
+生成时间0ms
+simple blocks zhang 块生成完毕:1008块
+生成时间0ms
+simple blocks zhang 块生成完毕:1482块
+生成时间1ms
+运行时间:150022ms
+BR0 problem 17 : 0.9274454114076549
+运行时间:150154ms
+BR2 problem 17 : 0.9745397582289175
+运行时间:150162ms
+运行时间:150169ms
+BR6 problem 17 : 0.9623277728332894
+运行时间:150245ms
+运行时间:150271ms
+BR5 problem 17 : 0.9617249735955455
+运行时间:150181ms
+运行时间:150191ms
+BR1 problem 17 : 0.9797262311720786
+BR7 problem 17 : 0.9627304698430887
+BR3 problem 17 : 0.9508489970960086
+BR4 problem 17 : 0.9563623601760342
+simple blocks zhang 块生成完毕:572块
+生成时间0ms
+simple blocks zhang 块生成完毕:1169块
+生成时间0ms
+simple blocks zhang 块生成完毕:614块
+生成时间0ms
+simple blocks zhang 块生成完毕:991块
+生成时间1ms
+simple blocks zhang 块生成完毕:1313块
+生成时间0ms
+simple blocks zhang 块生成完毕:1129块
+生成时间1ms
+simple blocks zhang 块生成完毕:980块
+生成时间0ms
+simple blocks zhang 块生成完毕:915块
+生成时间1ms
+运行时间:150027ms
+BR0 problem 18 : 0.9466919156838803
+运行时间:150211ms
+BR4 problem 18 : 0.9481695681101988
+运行时间:150217ms
+BR3 problem 18 : 0.9539510635229026
+运行时间:150247ms
+BR1 problem 18 : 0.9115996812189718
+运行时间:150259ms
+BR2 problem 18 : 0.9520321625863005
+运行时间:150238ms
+运行时间:150228ms
+BR6 problem 18 : 0.9566620648582468
+运行时间:150222ms
+BR7 problem 18 : 0.958205853048327
+BR5 problem 18 : 0.9582774724306921
+simple blocks zhang 块生成完毕:1224块
+生成时间0ms
+simple blocks zhang 块生成完毕:2360块
+生成时间0ms
+simple blocks zhang 块生成完毕:1664块
+生成时间1ms
+simple blocks zhang 块生成完毕:3106块
+生成时间1ms
+simple blocks zhang 块生成完毕:2236块
+生成时间1ms
+simple blocks zhang 块生成完毕:2252块
+生成时间0ms
+simple blocks zhang 块生成完毕:1838块
+生成时间0ms
+simple blocks zhang 块生成完毕:1744块
+生成时间0ms
+运行时间:150000ms
+BR0 problem 19 : 0.9635415801196558
+运行时间:150184ms
+BR6 problem 19 : 0.9649100586846893
+运行时间:150191ms
+运行时间:150198ms
+BR5 problem 19 : 0.9680157143892146
+运行时间:150210ms
+运行时间:150220ms
+运行时间:150232ms
+BR3 problem 19 : 0.9790406126763981
+运行时间:150205ms
+BR1 problem 19 : 0.955232003594595
+BR4 problem 19 : 0.9730922158538393
+BR2 problem 19 : 0.9636278557190154
+BR7 problem 19 : 0.9634047887610412
+simple blocks zhang 块生成完毕:254块
+生成时间0ms
+simple blocks zhang 块生成完毕:2027块
+生成时间0ms
+simple blocks zhang 块生成完毕:1970块
+生成时间0ms
+simple blocks zhang 块生成完毕:1815块
+生成时间1ms
+simple blocks zhang 块生成完毕:710块
+生成时间0ms
+simple blocks zhang 块生成完毕:1978块
+生成时间1ms
+simple blocks zhang 块生成完毕:1294块
+生成时间1ms
+simple blocks zhang 块生成完毕:1818块
+生成时间0ms
+运行时间:150000ms
+BR0 problem 20 : 0.9502058184849127
+运行时间:150134ms
+运行时间:150146ms
+BR7 problem 20 : 0.9664807996910563
+运行时间:150140ms
+运行时间:150223ms
+运行时间:150196ms
+运行时间:150176ms
+BR3 problem 20 : 0.9660946200051712
+BR4 problem 20 : 0.9675940075015903
+BR6 problem 20 : 0.967419761366212
+运行时间:150238ms
+BR1 problem 20 : 0.9512411256772269
+BR5 problem 20 : 0.9689061543482437
+BR2 problem 20 : 0.9612670083570347
+simple blocks zhang 块生成完毕:196块
+生成时间0ms
+simple blocks zhang 块生成完毕:1758块
+生成时间0ms
+simple blocks zhang 块生成完毕:818块
+生成时间0ms
+simple blocks zhang 块生成完毕:1162块
+生成时间0ms
+simple blocks zhang 块生成完毕:561块
+生成时间0ms
+simple blocks zhang 块生成完毕:1497块
+生成时间0ms
+simple blocks zhang 块生成完毕:705块
+生成时间0ms
+simple blocks zhang 块生成完毕:1449块
+生成时间1ms
+运行时间:150000ms
+BR0 problem 21 : 0.8732281763611505
+运行时间:150117ms
+运行时间:150124ms
+运行时间:150130ms
+BR6 problem 21 : 0.9616574420015939
+运行时间:150139ms
+运行时间:150161ms
+BR3 problem 21 : 0.9648127161459666
+BR5 problem 21 : 0.9653223935696097
+运行时间:150149ms
+运行时间:150175ms
+BR4 problem 21 : 0.9634703263118644
+BR1 problem 21 : 0.9440680207991992
+BR2 problem 21 : 0.9542453510546162
+BR7 problem 21 : 0.9637123034455071
+simple blocks zhang 块生成完毕:296块
+生成时间0ms
+simple blocks zhang 块生成完毕:1882块
+生成时间0ms
+simple blocks zhang 块生成完毕:1298块
+生成时间0ms
+simple blocks zhang 块生成完毕:1871块
+生成时间0ms
+simple blocks zhang 块生成完毕:1515块
+生成时间0ms
+simple blocks zhang 块生成完毕:1137块
+生成时间1ms
+simple blocks zhang 块生成完毕:1643块
+生成时间1ms
+simple blocks zhang 块生成完毕:1744块
+生成时间1ms
+运行时间:150001ms
+BR0 problem 22 : 0.9113076203687518
+运行时间:150162ms
+运行时间:150167ms
+运行时间:150193ms
+BR5 problem 22 : 0.9691068880231788
+BR6 problem 22 : 0.9675040429224431
+运行时间:150188ms
+BR3 problem 22 : 0.9694601659974437
+运行时间:150182ms
+运行时间:150177ms
+BR7 problem 22 : 0.9618745268301826
+运行时间:150172ms
+BR4 problem 22 : 0.9659547046456552
+BR1 problem 22 : 0.9618021762986705
+BR2 problem 22 : 0.954054454659115
+simple blocks zhang 块生成完毕:234块
+生成时间1ms
+simple blocks zhang 块生成完毕:2069块
+生成时间0ms
+simple blocks zhang 块生成完毕:1523块
+生成时间1ms
+simple blocks zhang 块生成完毕:1235块
+生成时间0ms
+simple blocks zhang 块生成完毕:1010块
+生成时间0ms
+simple blocks zhang 块生成完毕:2220块
+生成时间0ms
+simple blocks zhang 块生成完毕:1578块
+生成时间0ms
+simple blocks zhang 块生成完毕:1502块
+生成时间1ms
+运行时间:150010ms
+BR0 problem 23 : 0.6553087742550421
+运行时间:150164ms
+BR6 problem 23 : 0.9617648876921676
+运行时间:150169ms
+运行时间:150254ms
+BR3 problem 23 : 0.9651605437356803
+运行时间:150260ms
+运行时间:150249ms
+运行时间:150244ms
+运行时间:150239ms
+BR1 problem 23 : 0.9592868902963879
+BR4 problem 23 : 0.9630765692620911
+BR5 problem 23 : 0.9666098807495741
+BR2 problem 23 : 0.9379709680614112
+BR7 problem 23 : 0.9712632462623323
+simple blocks zhang 块生成完毕:168块
+生成时间1ms
+simple blocks zhang 块生成完毕:1177块
+生成时间0ms
+simple blocks zhang 块生成完毕:1411块
+生成时间0ms
+simple blocks zhang 块生成完毕:1492块
+生成时间0ms
+simple blocks zhang 块生成完毕:956块
+生成时间0ms
+simple blocks zhang 块生成完毕:990块
+生成时间0ms
+simple blocks zhang 块生成完毕:1077块
+生成时间0ms
+simple blocks zhang 块生成完毕:1374块
+生成时间0ms
+运行时间:150000ms
+BR0 problem 24 : 0.8538386327245077
+运行时间:150198ms
+运行时间:150203ms
+BR5 problem 24 : 0.9602088361368472
+运行时间:150249ms
+BR6 problem 24 : 0.955337854050666
+运行时间:150220ms
+BR4 problem 24 : 0.9560793057539444
+运行时间:150214ms
+BR2 problem 24 : 0.9517387059058905
+运行时间:150208ms
+BR1 problem 24 : 0.9481449084435097
+BR7 problem 24 : 0.9619714040921753
+运行时间:150234ms
+BR3 problem 24 : 0.9629111966186346
+simple blocks zhang 块生成完毕:708块
+生成时间1ms
+simple blocks zhang 块生成完毕:1911块
+生成时间0ms
+simple blocks zhang 块生成完毕:1986块
+生成时间1ms
+simple blocks zhang 块生成完毕:1780块
+生成时间1ms
+simple blocks zhang 块生成完毕:1810块
+生成时间1ms
+simple blocks zhang 块生成完毕:1322块
+生成时间0ms
+simple blocks zhang 块生成完毕:1722块
+生成时间1ms
+simple blocks zhang 块生成完毕:1564块
+生成时间1ms
+运行时间:150000ms
+BR0 problem 25 : 0.9516072319956185
+运行时间:150109ms
+运行时间:150126ms
+BR7 problem 25 : 0.956091901459706
+运行时间:150123ms
+BR1 problem 25 : 0.9563670129433339
+运行时间:150145ms
+运行时间:150132ms
+BR4 problem 25 : 0.959023277794801
+运行时间:150156ms
+BR6 problem 25 : 0.9567310919845449
+BR5 problem 25 : 0.959478484606984
+BR3 problem 25 : 0.9603806229523669
+运行时间:150168ms
+BR2 problem 25 : 0.9625282074017552
+simple blocks zhang 块生成完毕:344块
+生成时间0ms
+simple blocks zhang 块生成完毕:2034块
+生成时间1ms
+simple blocks zhang 块生成完毕:898块
+生成时间0ms
+simple blocks zhang 块生成完毕:2452块
+生成时间0ms
+simple blocks zhang 块生成完毕:2118块
+生成时间0ms
+simple blocks zhang 块生成完毕:2403块
+生成时间0ms
+simple blocks zhang 块生成完毕:1921块
+生成时间0ms
+simple blocks zhang 块生成完毕:1869块
+生成时间0ms
+运行时间:150000ms
+BR0 problem 26 : 0.9068813099002248
+运行时间:150193ms
+运行时间:150198ms
+BR2 problem 26 : 0.962868324691372
+BR3 problem 26 : 0.9722587390601809
+运行时间:150205ms
+BR4 problem 26 : 0.9696889492123862
+运行时间:150220ms
+运行时间:150212ms
+运行时间:150204ms
+BR5 problem 26 : 0.9684328682116956
+BR1 problem 26 : 0.9548818496212315
+运行时间:150236ms
+BR7 problem 26 : 0.9588086522860707
+BR6 problem 26 : 0.9667090511611646
+simple blocks zhang 块生成完毕:164块
+生成时间0ms
+simple blocks zhang 块生成完毕:1023块
+生成时间0ms
+simple blocks zhang 块生成完毕:1740块
+生成时间1ms
+simple blocks zhang 块生成完毕:632块
+生成时间0ms
+simple blocks zhang 块生成完毕:1720块
+生成时间1ms
+simple blocks zhang 块生成完毕:1646块
+生成时间0ms
+simple blocks zhang 块生成完毕:1882块
+生成时间0ms
+simple blocks zhang 块生成完毕:1671块
+生成时间1ms
+运行时间:150001ms
+BR0 problem 27 : 0.8758698846977795
+运行时间:150115ms
+运行时间:150121ms
+BR7 problem 27 : 0.9679453246667787
+运行时间:150127ms
+BR6 problem 27 : 0.9643209186423757
+运行时间:150147ms
+BR5 problem 27 : 0.965437017815446
+运行时间:150140ms
+BR1 problem 27 : 0.934866043506033
+运行时间:150157ms
+运行时间:150133ms
+BR3 problem 27 : 0.9704936120828379
+BR2 problem 27 : 0.9581460982225765
+BR4 problem 27 : 0.9662595938400019
+simple blocks zhang 块生成完毕:630块
+生成时间0ms
+simple blocks zhang 块生成完毕:2090块
+生成时间0ms
+simple blocks zhang 块生成完毕:2101块
+生成时间1ms
+simple blocks zhang 块生成完毕:1424块
+生成时间1ms
+simple blocks zhang 块生成完毕:2182块
+生成时间0ms
+simple blocks zhang 块生成完毕:1902块
+生成时间1ms
+simple blocks zhang 块生成完毕:2994块
+生成时间1ms
+simple blocks zhang 块生成完毕:3035块
+生成时间1ms
+运行时间:150000ms
+BR0 problem 28 : 0.9166390270133022
+运行时间:150234ms
+BR4 problem 28 : 0.9757982320813623
+运行时间:150234ms
+BR5 problem 28 : 0.9727537602668296
+运行时间:150241ms
+运行时间:150259ms
+运行时间:150273ms
+BR6 problem 28 : 0.974621813103655
+BR3 problem 28 : 0.9657982387281727
+运行时间:150245ms
+BR1 problem 28 : 0.9568889869662695
+运行时间:150234ms
+BR7 problem 28 : 0.9653040151387754
+BR2 problem 28 : 0.9652619740628163
+simple blocks zhang 块生成完毕:424块
+生成时间0ms
+simple blocks zhang 块生成完毕:2071块
+生成时间0ms
+simple blocks zhang 块生成完毕:1793块
+生成时间0ms
+simple blocks zhang 块生成完毕:2174块
+生成时间0ms
+simple blocks zhang 块生成完毕:1068块
+生成时间1ms
+simple blocks zhang 块生成完毕:1646块
+生成时间0ms
+simple blocks zhang 块生成完毕:3391块
+生成时间1ms
+simple blocks zhang 块生成完毕:2250块
+生成时间1ms
+运行时间:150001ms
+BR0 problem 29 : 0.8798531852512594
+运行时间:150110ms
+运行时间:150116ms
+BR2 problem 29 : 0.9783611757144158
+运行时间:150128ms
+运行时间:150134ms
+BR1 problem 29 : 0.9595044404017067
+BR6 problem 29 : 0.9646437542248789
+运行时间:150147ms
+运行时间:150167ms
+BR4 problem 29 : 0.9736221328152366
+BR3 problem 29 : 0.9787603831487404
+运行时间:150177ms
+BR5 problem 29 : 0.9602258187374916
+BR7 problem 29 : 0.9632791640439461
+simple blocks zhang 块生成完毕:882块
+生成时间0ms
+simple blocks zhang 块生成完毕:4985块
+生成时间1ms
+simple blocks zhang 块生成完毕:3328块
+生成时间1ms
+simple blocks zhang 块生成完毕:2198块
+生成时间0ms
+simple blocks zhang 块生成完毕:2347块
+生成时间1ms
+simple blocks zhang 块生成完毕:2601块
+生成时间0ms
+simple blocks zhang 块生成完毕:2245块
+生成时间1ms
+simple blocks zhang 块生成完毕:2111块
+生成时间0ms
+运行时间:150012ms
+运行时间:150067ms
+BR1 problem 30 : 0.9811535007753505
+运行时间:150123ms
+运行时间:150261ms
+BR2 problem 30 : 0.9798242716258962
+运行时间:150220ms
+BR6 problem 30 : 0.9697071282389076
+BR5 problem 30 : 0.9705253838366852
+BR0 problem 30 : 0.9198760236918911
+运行时间:150296ms
+BR4 problem 30 : 0.9744516879907423
+运行时间:150291ms
+BR3 problem 30 : 0.9687128651009883
+运行时间:150285ms
+BR7 problem 30 : 0.9675549574903239
+simple blocks zhang 块生成完毕:1273块
+生成时间1ms
+simple blocks zhang 块生成完毕:1696块
+生成时间1ms
+simple blocks zhang 块生成完毕:1875块
+生成时间0ms
+simple blocks zhang 块生成完毕:2349块
+生成时间1ms
+simple blocks zhang 块生成完毕:606块
+生成时间1ms
+simple blocks zhang 块生成完毕:1881块
+生成时间0ms
+simple blocks zhang 块生成完毕:1972块
+生成时间0ms
+simple blocks zhang 块生成完毕:2105块
+生成时间0ms
+运行时间:150000ms
+BR1 problem 31 : 0.9555560356029754
+运行时间:150077ms
+BR7 problem 31 : 0.9594388363827792
+运行时间:150089ms
+运行时间:150094ms
+BR3 problem 31 : 0.9664162591617973
+BR0 problem 31 : 0.9192379298907729
+运行时间:150192ms
+运行时间:150170ms
+BR5 problem 31 : 0.961767081139609
+BR2 problem 31 : 0.9650395053177807
+运行时间:150310ms
+运行时间:150289ms
+BR4 problem 31 : 0.9607789663013359
+BR6 problem 31 : 0.9619868579264211
+simple blocks zhang 块生成完毕:1289块
+生成时间0ms
+simple blocks zhang 块生成完毕:1883块
+生成时间1ms
+simple blocks zhang 块生成完毕:272块
+生成时间0ms
+simple blocks zhang 块生成完毕:2659块
+生成时间1ms
+simple blocks zhang 块生成完毕:2316块
+生成时间0ms
+simple blocks zhang 块生成完毕:2140块
+生成时间0ms
+simple blocks zhang 块生成完毕:2041块
+生成时间1ms
+simple blocks zhang 块生成完毕:1533块
+生成时间1ms
+运行时间:150000ms
+BR1 problem 32 : 0.973966836404049
+运行时间:150078ms
+运行时间:150133ms
+BR0 problem 32 : 0.95020143159003
+BR3 problem 32 : 0.9710358256435275
+运行时间:150036ms
+BR5 problem 32 : 0.9692488638939275
+运行时间:150131ms
+BR2 problem 32 : 0.9780615375003074
+运行时间:150137ms
+BR7 problem 32 : 0.9670642567104536
+运行时间:150177ms
+BR6 problem 32 : 0.9661094091583742
+运行时间:150242ms
+BR4 problem 32 : 0.9687575981351708
+simple blocks zhang 块生成完毕:3933块
+生成时间2ms
+simple blocks zhang 块生成完毕:5064块
+生成时间3ms
+simple blocks zhang 块生成完毕:2037块
+生成时间1ms
+simple blocks zhang 块生成完毕:1982块
+生成时间1ms
+simple blocks zhang 块生成完毕:2262块
+生成时间0ms
+simple blocks zhang 块生成完毕:1985块
+生成时间1ms
+simple blocks zhang 块生成完毕:2199块
+生成时间0ms
+simple blocks zhang 块生成完毕:2176块
+生成时间1ms
+运行时间:150000ms
+BR1 problem 33 : 0.9805768899706943
+运行时间:150177ms
+BR0 problem 33 : 0.9838927842890671
+运行时间:150011ms
+运行时间:150019ms
+BR4 problem 33 : 0.9708176440912182
+BR6 problem 33 : 0.9699674505693325
+运行时间:150036ms
+运行时间:150069ms
+BR5 problem 33 : 0.9713309107924926
+运行时间:150164ms
+BR3 problem 33 : 0.9675348508887782
+运行时间:150131ms
+BR2 problem 33 : 0.9692449422757748
+BR7 problem 33 : 0.9609315770687699
+simple blocks zhang 块生成完毕:1186块
+生成时间0ms
+simple blocks zhang 块生成完毕:1530块
+生成时间1ms
+simple blocks zhang 块生成完毕:1537块
+生成时间0ms
+simple blocks zhang 块生成完毕:1891块
+生成时间1ms
+simple blocks zhang 块生成完毕:1912块
+生成时间1ms
+simple blocks zhang 块生成完毕:1592块
+生成时间0ms
+simple blocks zhang 块生成完毕:1485块
+生成时间1ms
+simple blocks zhang 块生成完毕:1466块
+生成时间0ms
+运行时间:150001ms
+BR1 problem 34 : 0.9523434327186585
+运行时间:150029ms
+BR6 problem 34 : 0.9574552287466574
+运行时间:150065ms
+BR0 problem 34 : 0.9653003261589878
+运行时间:150061ms
+运行时间:150071ms
+运行时间:150085ms
+BR5 problem 34 : 0.9557885410317578
+运行时间:150098ms
+BR7 problem 34 : 0.9631801930366685
+运行时间:150114ms
+BR4 problem 34 : 0.9650711441354195
+BR3 problem 34 : 0.9729203625702152
+BR2 problem 34 : 0.967633622491743
+simple blocks zhang 块生成完毕:1019块
+生成时间0ms
+simple blocks zhang 块生成完毕:909块
+生成时间0ms
+simple blocks zhang 块生成完毕:2094块
+生成时间1ms
+simple blocks zhang 块生成完毕:1970块
+生成时间0ms
+simple blocks zhang 块生成完毕:2359块
+生成时间1ms
+simple blocks zhang 块生成完毕:2070块
+生成时间1ms
+simple blocks zhang 块生成完毕:1759块
+生成时间1ms
+simple blocks zhang 块生成完毕:2231块
+生成时间0ms
+运行时间:150001ms
+BR1 problem 35 : 0.9561532515199593
+运行时间:150122ms
+运行时间:150182ms
+BR6 problem 35 : 0.9658595223203218
+BR0 problem 35 : 0.9519561895431049
+运行时间:150162ms
+BR5 problem 35 : 0.9621888212612855
+运行时间:150000ms
+BR7 problem 35 : 0.9651061728263767
+运行时间:150127ms
+BR3 problem 35 : 0.9675099253496721
+运行时间:150140ms
+BR4 problem 35 : 0.9639695017750307
+运行时间:150182ms
+BR2 problem 35 : 0.9662153925506537
+simple blocks zhang 块生成完毕:2382块
+生成时间1ms
+simple blocks zhang 块生成完毕:1876块
+生成时间0ms
+simple blocks zhang 块生成完毕:3420块
+生成时间1ms
+simple blocks zhang 块生成完毕:2159块
+生成时间1ms
+simple blocks zhang 块生成完毕:2066块
+生成时间1ms
+simple blocks zhang 块生成完毕:2375块
+生成时间0ms
+simple blocks zhang 块生成完毕:1954块
+生成时间0ms
+simple blocks zhang 块生成完毕:1697块
+生成时间0ms
+运行时间:150001ms
+BR1 problem 36 : 0.9706043479445736
+运行时间:150073ms
+BR5 problem 36 : 0.9643864561931988
+运行时间:150207ms
+BR0 problem 36 : 0.9326289265201754
+运行时间:150311ms
+运行时间:150072ms
+BR2 problem 36 : 0.9613310836095637
+运行时间:150080ms
+BR3 problem 36 : 0.9636531800667473
+运行时间:150111ms
+BR4 problem 36 : 0.9713301464092933
+BR6 problem 36 : 0.9685399150936436
+运行时间:150260ms
+BR7 problem 36 : 0.9626269125366156
+simple blocks zhang 块生成完毕:1113块
+生成时间0ms
+simple blocks zhang 块生成完毕:1754块
+生成时间0ms
+simple blocks zhang 块生成完毕:308块
+生成时间0ms
+simple blocks zhang 块生成完毕:2008块
+生成时间1ms
+simple blocks zhang 块生成完毕:1665块
+生成时间1ms
+simple blocks zhang 块生成完毕:1521块
+生成时间0ms
+simple blocks zhang 块生成完毕:1274块
+生成时间0ms
+simple blocks zhang 块生成完毕:1236块
+生成时间1ms
+运行时间:150000ms
+BR1 problem 37 : 0.96015503020643
+运行时间:150040ms
+运行时间:150255ms
+BR5 problem 37 : 0.967169508953586
+BR0 problem 37 : 0.9624379437161387
+运行时间:150202ms
+BR2 problem 37 : 0.965480454721595
+运行时间:150210ms
+运行时间:150337ms
+运行时间:150283ms
+BR6 problem 37 : 0.966212401485961
+运行时间:150274ms
+BR7 problem 37 : 0.959580346976798
+BR4 problem 37 : 0.9704426975149569
+BR3 problem 37 : 0.9666792734504457
+simple blocks zhang 块生成完毕:665块
+生成时间0ms
+simple blocks zhang 块生成完毕:1672块
+生成时间0ms
+simple blocks zhang 块生成完毕:172块
+生成时间0ms
+simple blocks zhang 块生成完毕:1477块
+生成时间1ms
+simple blocks zhang 块生成完毕:1865块
+生成时间1ms
+simple blocks zhang 块生成完毕:1593块
+生成时间1ms
+simple blocks zhang 块生成完毕:1741块
+生成时间0ms
+simple blocks zhang 块生成完毕:1297块
+生成时间1ms
+运行时间:150000ms
+BR1 problem 38 : 0.9236030232352552
+运行时间:150033ms
+运行时间:150091ms
+BR0 problem 38 : 0.7797506249663505
+BR5 problem 38 : 0.9669333145450159
+运行时间:150112ms
+BR2 problem 38 : 0.9629549326312529
+运行时间:150071ms
+运行时间:150078ms
+BR7 problem 38 : 0.9697064967919169
+运行时间:150174ms
+BR4 problem 38 : 0.9583696969253849
+运行时间:150093ms
+BR3 problem 38 : 0.952113519545943
+BR6 problem 38 : 0.9665752508672426
+simple blocks zhang 块生成完毕:3104块
+生成时间1ms
+simple blocks zhang 块生成完毕:548块
+生成时间0ms
+simple blocks zhang 块生成完毕:3412块
+生成时间1ms
+simple blocks zhang 块生成完毕:4177块
+生成时间1ms
+simple blocks zhang 块生成完毕:2791块
+生成时间1ms
+simple blocks zhang 块生成完毕:4241块
+生成时间2ms
+simple blocks zhang 块生成完毕:3764块
+生成时间1ms
+simple blocks zhang 块生成完毕:3028块
+生成时间1ms
+运行时间:150000ms
+BR1 problem 39 : 0.9684561652822469
+运行时间:150042ms
+运行时间:150233ms
+BR2 problem 39 : 0.9797456398585292
+运行时间:150131ms
+BR0 problem 39 : 0.909355452145956
+BR5 problem 39 : 0.973045654946789
+运行时间:150123ms
+BR7 problem 39 : 0.969792174178338
+运行时间:150097ms
+运行时间:150089ms
+BR4 problem 39 : 0.9805146758250852
+运行时间:150082ms
+BR6 problem 39 : 0.9708577908262052
+BR3 problem 39 : 0.982104858751955
+simple blocks zhang 块生成完毕:958块
+生成时间0ms
+simple blocks zhang 块生成完毕:1052块
+生成时间0ms
+simple blocks zhang 块生成完毕:1278块
+生成时间0ms
+simple blocks zhang 块生成完毕:1536块
+生成时间1ms
+simple blocks zhang 块生成完毕:1448块
+生成时间0ms
+simple blocks zhang 块生成完毕:264块
+生成时间0ms
+simple blocks zhang 块生成完毕:1031块
+生成时间0ms
+simple blocks zhang 块生成完毕:1394块
+生成时间1ms
+运行时间:150000ms
+BR1 problem 40 : 0.9641283605442674
+运行时间:150001ms
+运行时间:150006ms
+BR5 problem 40 : 0.9610665405545168
+运行时间:150160ms
+BR2 problem 40 : 0.9620336182377843
+运行时间:150058ms
+运行时间:150065ms
+运行时间:150071ms
+BR3 problem 40 : 0.960766104723157
+BR0 problem 40 : 0.9575092673154397
+BR6 problem 40 : 0.9581617514611351
+BR7 problem 40 : 0.9596881250078931
+运行时间:150167ms
+BR4 problem 40 : 0.9662185830196592
+simple blocks zhang 块生成完毕:1311块
+生成时间1ms
+simple blocks zhang 块生成完毕:1270块
+生成时间0ms
+simple blocks zhang 块生成完毕:1939块
+生成时间0ms
+simple blocks zhang 块生成完毕:208块
+生成时间0ms
+simple blocks zhang 块生成完毕:1777块
+生成时间1ms
+simple blocks zhang 块生成完毕:1485块
+生成时间0ms
+simple blocks zhang 块生成完毕:1773块
+生成时间0ms
+simple blocks zhang 块生成完毕:1414块
+生成时间1ms
+运行时间:150000ms
+BR1 problem 41 : 0.9550447629448294
+运行时间:150141ms
+BR4 problem 41 : 0.9622959013772856
+运行时间:150143ms
+运行时间:150149ms
+BR3 problem 41 : 0.9612433124778578
+运行时间:150164ms
+BR0 problem 41 : 0.9459102507775107
+运行时间:150321ms
+BR2 problem 41 : 0.9565862247512598
+运行时间:150242ms
+BR5 problem 41 : 0.9669813709844126
+运行时间:150458ms
+BR6 problem 41 : 0.9671367069441222
+BR7 problem 41 : 0.9653116257367158
+simple blocks zhang 块生成完毕:1694块
+生成时间0ms
+simple blocks zhang 块生成完毕:412块
+生成时间0ms
+simple blocks zhang 块生成完毕:1792块
+生成时间0ms
+simple blocks zhang 块生成完毕:1727块
+生成时间0ms
+simple blocks zhang 块生成完毕:1767块
+生成时间0ms
+simple blocks zhang 块生成完毕:1719块
+生成时间0ms
+simple blocks zhang 块生成完毕:1804块
+生成时间1ms
+simple blocks zhang 块生成完毕:1373块
+生成时间0ms
+运行时间:150001ms
+BR1 problem 42 : 0.966233538343123
+运行时间:150017ms
+运行时间:150023ms
+BR7 problem 42 : 0.9601291076457595
+运行时间:150050ms
+BR4 problem 42 : 0.9641696372370272
+运行时间:150147ms
+BR2 problem 42 : 0.9738596898199445
+运行时间:150387ms
+BR0 problem 42 : 0.8504328070610396
+运行时间:150686ms
+BR3 problem 42 : 0.9671585749504314
+运行时间:150625ms
+BR5 problem 42 : 0.959615076561286
+BR6 problem 42 : 0.9619600048122907
+simple blocks zhang 块生成完毕:1211块
+生成时间0ms
+simple blocks zhang 块生成完毕:1058块
+生成时间1ms
+simple blocks zhang 块生成完毕:232块
+生成时间0ms
+simple blocks zhang 块生成完毕:1442块
+生成时间0ms
+simple blocks zhang 块生成完毕:1407块
+生成时间0ms
+simple blocks zhang 块生成完毕:1183块
+生成时间1ms
+simple blocks zhang 块生成完毕:985块
+生成时间1ms
+simple blocks zhang 块生成完毕:1082块
+生成时间0ms
+运行时间:150000ms
+BR1 problem 43 : 0.9653989648257439
+运行时间:150000ms
+BR2 problem 43 : 0.9580539069619357
+运行时间:150000ms
+BR0 problem 43 : 0.8668291590256042
+运行时间:150127ms
+运行时间:150132ms
+运行时间:150152ms
+BR3 problem 43 : 0.9520772944291088
+运行时间:150145ms
+BR5 problem 43 : 0.9589019735044843
+运行时间:150137ms
+BR7 problem 43 : 0.9624999584574349
+BR6 problem 43 : 0.9653843418428016
+BR4 problem 43 : 0.9615186233657985
+simple blocks zhang 块生成完毕:521块
+生成时间0ms
+simple blocks zhang 块生成完毕:815块
+生成时间0ms
+simple blocks zhang 块生成完毕:248块
+生成时间1ms
+simple blocks zhang 块生成完毕:1289块
+生成时间0ms
+simple blocks zhang 块生成完毕:2179块
+生成时间1ms
+simple blocks zhang 块生成完毕:1453块
+生成时间0ms
+simple blocks zhang 块生成完毕:1591块
+生成时间1ms
+simple blocks zhang 块生成完毕:1742块
+生成时间0ms
+运行时间:150001ms
+BR1 problem 44 : 0.9005328083239337
+运行时间:150000ms
+BR2 problem 44 : 0.9479501568979601
+运行时间:150000ms
+BR0 problem 44 : 0.8630617468748359
+运行时间:150217ms
+BR6 problem 44 : 0.9644256059066216
+运行时间:150222ms
+BR5 problem 44 : 0.9612356354118131
+运行时间:150232ms
+运行时间:150241ms
+BR7 problem 44 : 0.9640487649893884
+BR3 problem 44 : 0.9534736895979411
+运行时间:150227ms
+BR4 problem 44 : 0.9562800726629316
+simple blocks zhang 块生成完毕:1350块
+生成时间0ms
+simple blocks zhang 块生成完毕:1686块
+生成时间0ms
+simple blocks zhang 块生成完毕:930块
+生成时间0ms
+simple blocks zhang 块生成完毕:2054块
+生成时间0ms
+simple blocks zhang 块生成完毕:2428块
+生成时间1ms
+simple blocks zhang 块生成完毕:1705块
+生成时间0ms
+simple blocks zhang 块生成完毕:1953块
+生成时间0ms
+simple blocks zhang 块生成完毕:2239块
+生成时间0ms
+运行时间:150000ms
+BR1 problem 45 : 0.9626407711363586
+运行时间:150159ms
+BR2 problem 45 : 0.9654671278666862
+运行时间:150000ms
+BR0 problem 45 : 0.9531461347800337
+运行时间:150073ms
+运行时间:150066ms
+BR4 problem 45 : 0.969898556379243
+BR3 problem 45 : 0.9641880489019137
+运行时间:150080ms
+运行时间:150104ms
+运行时间:150090ms
+BR6 problem 45 : 0.97056875427473
+BR5 problem 45 : 0.9694788435347472
+BR7 problem 45 : 0.9637631515452837
+simple blocks zhang 块生成完毕:785块
+生成时间0ms
+simple blocks zhang 块生成完毕:1077块
+生成时间0ms
+simple blocks zhang 块生成完毕:468块
+生成时间0ms
+simple blocks zhang 块生成完毕:1244块
+生成时间1ms
+simple blocks zhang 块生成完毕:1529块
+生成时间0ms
+simple blocks zhang 块生成完毕:1278块
+生成时间0ms
+simple blocks zhang 块生成完毕:1341块
+生成时间0ms
+simple blocks zhang 块生成完毕:1514块
+生成时间1ms
+运行时间:150001ms
+BR1 problem 46 : 0.9429413199634957
+运行时间:150220ms
+BR2 problem 46 : 0.9571749992189997
+运行时间:150001ms
+BR0 problem 46 : 0.9488757917182071
+运行时间:150019ms
+运行时间:150026ms
+BR6 problem 46 : 0.961282561893437
+运行时间:150033ms
+运行时间:150043ms
+运行时间:150060ms
+BR4 problem 46 : 0.9640813675945392
+BR5 problem 46 : 0.9593951003701608
+BR3 problem 46 : 0.9654070739344665
+BR7 problem 46 : 0.9584695320180182
+simple blocks zhang 块生成完毕:762块
+生成时间1ms
+simple blocks zhang 块生成完毕:1382块
+生成时间1ms
+simple blocks zhang 块生成完毕:262块
+生成时间0ms
+simple blocks zhang 块生成完毕:1928块
+生成时间0ms
+simple blocks zhang 块生成完毕:1756块
+生成时间0ms
+simple blocks zhang 块生成完毕:1748块
+生成时间1ms
+simple blocks zhang 块生成完毕:2180块
+生成时间0ms
+simple blocks zhang 块生成完毕:1912块
+生成时间1ms
+运行时间:150000ms
+BR1 problem 47 : 0.9646929406220484
+运行时间:150066ms
+运行时间:150073ms
+BR5 problem 47 : 0.9647533601288417
+BR7 problem 47 : 0.9666817992384085
+运行时间:150086ms
+运行时间:150079ms
+BR4 problem 47 : 0.9656693570739677
+BR3 problem 47 : 0.9627052784315654
+运行时间:150460ms
+BR0 problem 47 : 0.9249999169148696
+运行时间:150542ms
+BR2 problem 47 : 0.9710959460438516
+运行时间:150493ms
+BR6 problem 47 : 0.9683833827080568
+simple blocks zhang 块生成完毕:1469块
+生成时间1ms
+simple blocks zhang 块生成完毕:1528块
+生成时间0ms
+simple blocks zhang 块生成完毕:840块
+生成时间0ms
+simple blocks zhang 块生成完毕:1394块
+生成时间0ms
+simple blocks zhang 块生成完毕:1656块
+生成时间1ms
+simple blocks zhang 块生成完毕:1398块
+生成时间0ms
+simple blocks zhang 块生成完毕:1543块
+生成时间0ms
+simple blocks zhang 块生成完毕:1551块
+生成时间0ms
+运行时间:150000ms
+BR1 problem 48 : 0.9688374927965192
+运行时间:150005ms
+BR4 problem 48 : 0.9670246749543531
+运行时间:150021ms
+BR0 problem 48 : 0.8854700059356018
+运行时间:150167ms
+BR6 problem 48 : 0.9639043630328332
+运行时间:150174ms
+BR5 problem 48 : 0.9686740144940348
+运行时间:150184ms
+BR7 problem 48 : 0.9547882625304008
+运行时间:150201ms
+运行时间:150226ms
+BR2 problem 48 : 0.9751835018188997
+BR3 problem 48 : 0.9646641599328938
+simple blocks zhang 块生成完毕:804块
+生成时间0ms
+simple blocks zhang 块生成完毕:1543块
+生成时间1ms
+simple blocks zhang 块生成完毕:400块
+生成时间0ms
+simple blocks zhang 块生成完毕:1564块
+生成时间0ms
+simple blocks zhang 块生成完毕:1446块
+生成时间0ms
+simple blocks zhang 块生成完毕:1938块
+生成时间1ms
+simple blocks zhang 块生成完毕:1473块
+生成时间1ms
+simple blocks zhang 块生成完毕:1477块
+生成时间1ms
+运行时间:150000ms
+BR1 problem 49 : 0.9504993416334271
+运行时间:150194ms
+BR4 problem 49 : 0.9661667711323706
+运行时间:150047ms
+BR6 problem 49 : 0.9644812729439588
+运行时间:150052ms
+BR5 problem 49 : 0.9622381073606114
+运行时间:150057ms
+运行时间:150062ms
+BR2 problem 49 : 0.9649695144039705
+BR7 problem 49 : 0.9635470637382593
+运行时间:150067ms
+BR3 problem 49 : 0.971624433941007
+运行时间:150073ms
+BR0 problem 49 : 0.940677881608342
+simple blocks zhang 块生成完毕:2160块
+生成时间1ms
+simple blocks zhang 块生成完毕:2364块
+生成时间1ms
+simple blocks zhang 块生成完毕:1977块
+生成时间0ms
+simple blocks zhang 块生成完毕:2031块
+生成时间0ms
+simple blocks zhang 块生成完毕:2601块
+生成时间1ms
+simple blocks zhang 块生成完毕:1802块
+生成时间0ms
+simple blocks zhang 块生成完毕:1865块
+生成时间0ms
+simple blocks zhang 块生成完毕:1671块
+生成时间1ms
+运行时间:150000ms
+BR1 problem 50 : 0.9852208170126442
+运行时间:150004ms
+BR0 problem 50 : 0.9826644537219147
+运行时间:150010ms
+运行时间:150078ms
+运行时间:150115ms
+运行时间:150070ms
+BR2 problem 50 : 0.9765171510972886
+运行时间:150063ms
+BR5 problem 50 : 0.9699257085998427
+运行时间:150058ms
+BR3 problem 50 : 0.968895652387767
+BR4 problem 50 : 0.9726962321225725
+BR6 problem 50 : 0.9648901182534043
+BR7 problem 50 : 0.9616714003034934
+simple blocks zhang 块生成完毕:1578块
+生成时间1ms
+simple blocks zhang 块生成完毕:900块
+生成时间0ms
+simple blocks zhang 块生成完毕:2237块
+生成时间1ms
+simple blocks zhang 块生成完毕:3043块
+生成时间1ms
+simple blocks zhang 块生成完毕:2782块
+生成时间1ms
+simple blocks zhang 块生成完毕:2632块
+生成时间1ms
+simple blocks zhang 块生成完毕:2331块
+生成时间1ms
+simple blocks zhang 块生成完毕:2846块
+生成时间1ms
+运行时间:150000ms
+BR1 problem 51 : 0.9707971386810468
+运行时间:150094ms
+BR6 problem 51 : 0.9685029920617143
+运行时间:150102ms
+BR3 problem 51 : 0.9768148617363729
+运行时间:150116ms
+BR4 problem 51 : 0.9739294813294418
+运行时间:150139ms
+BR2 problem 51 : 0.9725916777945351
+运行时间:150159ms
+BR0 problem 51 : 0.9551498490177012
+运行时间:150123ms
+运行时间:150109ms
+BR7 problem 51 : 0.9664199813756372
+BR5 problem 51 : 0.9703503733181077
+simple blocks zhang 块生成完毕:1797块
+生成时间1ms
+simple blocks zhang 块生成完毕:1891块
+生成时间1ms
+simple blocks zhang 块生成完毕:2471块
+生成时间1ms
+simple blocks zhang 块生成完毕:2152块
+生成时间1ms
+simple blocks zhang 块生成完毕:1154块
+生成时间1ms
+simple blocks zhang 块生成完毕:238块
+生成时间0ms
+simple blocks zhang 块生成完毕:1975块
+生成时间0ms
+simple blocks zhang 块生成完毕:1791块
+生成时间0ms
+运行时间:150000ms
+BR1 problem 52 : 0.9531252305612368
+运行时间:150138ms
+运行时间:150145ms
+BR7 problem 52 : 0.9596684504490253
+运行时间:150167ms
+BR2 problem 52 : 0.9656394464270402
+运行时间:150151ms
+BR0 problem 52 : 0.8972619793802646
+运行时间:150188ms
+BR3 problem 52 : 0.9686678661943886
+运行时间:150180ms
+运行时间:150209ms
+BR6 problem 52 : 0.9644983884808117
+BR4 problem 52 : 0.9627254847352675
+BR5 problem 52 : 0.9661204096296331
+simple blocks zhang 块生成完毕:1067块
+生成时间0ms
+simple blocks zhang 块生成完毕:1456块
+生成时间0ms
+simple blocks zhang 块生成完毕:1223块
+生成时间1ms
+simple blocks zhang 块生成完毕:1066块
+生成时间0ms
+simple blocks zhang 块生成完毕:1099块
+生成时间0ms
+simple blocks zhang 块生成完毕:1537块
+生成时间0ms
+simple blocks zhang 块生成完毕:1616块
+生成时间0ms
+simple blocks zhang 块生成完毕:1246块
+生成时间1ms
+运行时间:150000ms
+BR1 problem 53 : 0.9164690680706503
+运行时间:150153ms
+运行时间:150163ms
+BR4 problem 53 : 0.9709119623311959
+运行时间:150158ms
+BR5 problem 53 : 0.966988748943988
+运行时间:150189ms
+BR2 problem 53 : 0.9469715469985995
+运行时间:150213ms
+运行时间:150182ms
+BR0 problem 53 : 0.9659446014938041
+运行时间:150170ms
+BR3 problem 53 : 0.9620764901650469
+BR6 problem 53 : 0.9680903913043767
+BR7 problem 53 : 0.9629738760409736
+simple blocks zhang 块生成完毕:1261块
+生成时间1ms
+simple blocks zhang 块生成完毕:2157块
+生成时间1ms
+simple blocks zhang 块生成完毕:2471块
+生成时间1ms
+simple blocks zhang 块生成完毕:1520块
+生成时间1ms
+simple blocks zhang 块生成完毕:279块
+生成时间0ms
+simple blocks zhang 块生成完毕:2315块
+生成时间0ms
+simple blocks zhang 块生成完毕:2079块
+生成时间1ms
+simple blocks zhang 块生成完毕:1874块
+生成时间1ms
+运行时间:150000ms
+BR1 problem 54 : 0.9523808542613699
+运行时间:150236ms
+运行时间:150241ms
+BR7 problem 54 : 0.9635821921313729
+运行时间:150273ms
+BR5 problem 54 : 0.9683625781914161
+运行时间:150290ms
+运行时间:150262ms
+运行时间:150250ms
+BR0 problem 54 : 0.7873116377009747
+运行时间:150250ms
+BR2 problem 54 : 0.9629044168719977
+BR3 problem 54 : 0.9672255083314445
+BR4 problem 54 : 0.967401682041847
+BR6 problem 54 : 0.9634591264362926
+simple blocks zhang 块生成完毕:601块
+生成时间0ms
+simple blocks zhang 块生成完毕:154块
+生成时间0ms
+simple blocks zhang 块生成完毕:1865块
+生成时间0ms
+simple blocks zhang 块生成完毕:1876块
+生成时间0ms
+simple blocks zhang 块生成完毕:2016块
+生成时间0ms
+simple blocks zhang 块生成完毕:1992块
+生成时间0ms
+simple blocks zhang 块生成完毕:1960块
+生成时间0ms
+simple blocks zhang 块生成完毕:926块
+生成时间1ms
+运行时间:150001ms
+BR1 problem 55 : 0.9349457387630684
+运行时间:150414ms
+运行时间:150435ms
+BR2 problem 55 : 0.9603933848283893
+BR5 problem 55 : 0.9659276188931598
+运行时间:150430ms
+BR7 problem 55 : 0.9617423882388677
+运行时间:150420ms
+运行时间:150441ms
+BR0 problem 55 : 0.7347650119875226
+运行时间:150425ms
+BR4 problem 55 : 0.9659731495445938
+运行时间:150425ms
+BR6 problem 55 : 0.9625586497935168
+BR3 problem 55 : 0.9643157008961895
+simple blocks zhang 块生成完毕:4747块
+生成时间1ms
+simple blocks zhang 块生成完毕:2689块
+生成时间0ms
+simple blocks zhang 块生成完毕:2250块
+生成时间0ms
+simple blocks zhang 块生成完毕:3234块
+生成时间0ms
+simple blocks zhang 块生成完毕:3560块
+生成时间1ms
+simple blocks zhang 块生成完毕:698块
+生成时间0ms
+simple blocks zhang 块生成完毕:2039块
+生成时间0ms
+simple blocks zhang 块生成完毕:3075块
+生成时间1ms
+运行时间:150000ms
+BR1 problem 56 : 0.9766809949743467
+运行时间:150120ms
+BR3 problem 56 : 0.976165534825631
+运行时间:150126ms
+BR6 problem 56 : 0.9668631906949972
+运行时间:150482ms
+BR0 problem 56 : 0.9339778966966017
+运行时间:150490ms
+运行时间:150501ms
+BR4 problem 56 : 0.9816777347138316
+BR5 problem 56 : 0.9769582334373116
+运行时间:150513ms
+BR7 problem 56 : 0.9628886306972305
+运行时间:150527ms
+BR2 problem 56 : 0.9756997263508147
+simple blocks zhang 块生成完毕:1095块
+生成时间0ms
+simple blocks zhang 块生成完毕:1507块
+生成时间0ms
+simple blocks zhang 块生成完毕:1780块
+生成时间1ms
+simple blocks zhang 块生成完毕:344块
+生成时间0ms
+simple blocks zhang 块生成完毕:1459块
+生成时间0ms
+simple blocks zhang 块生成完毕:1213块
+生成时间0ms
+simple blocks zhang 块生成完毕:1832块
+生成时间0ms
+simple blocks zhang 块生成完毕:1903块
+生成时间1ms
+运行时间:150000ms
+BR1 problem 57 : 0.9637597284379131
+运行时间:150000ms
+BR3 problem 57 : 0.9693786096334882
+运行时间:150144ms
+运行时间:150151ms
+BR7 problem 57 : 0.9689539116811711
+BR2 problem 57 : 0.968223792789673
+运行时间:150158ms
+运行时间:150250ms
+运行时间:150221ms
+BR0 problem 57 : 0.9321021667937315
+运行时间:150212ms
+BR4 problem 57 : 0.9669015760252206
+BR6 problem 57 : 0.9696272335775593
+BR5 problem 57 : 0.9676262445321676
+simple blocks zhang 块生成完毕:605块
+生成时间0ms
+simple blocks zhang 块生成完毕:949块
+生成时间0ms
+simple blocks zhang 块生成完毕:1171块
+生成时间0ms
+simple blocks zhang 块生成完毕:1392块
+生成时间1ms
+simple blocks zhang 块生成完毕:194块
+生成时间0ms
+simple blocks zhang 块生成完毕:1135块
+生成时间0ms
+simple blocks zhang 块生成完毕:1405块
+生成时间1ms
+simple blocks zhang 块生成完毕:1392块
+生成时间1ms
+运行时间:150000ms
+BR1 problem 58 : 0.9506228726052373
+运行时间:150000ms
+BR3 problem 58 : 0.964316764385858
+运行时间:150114ms
+BR2 problem 58 : 0.9623253135134309
+运行时间:150064ms
+BR7 problem 58 : 0.9633939544600431
+运行时间:150000ms
+BR0 problem 58 : 0.9231532335735713
+运行时间:150006ms
+运行时间:150019ms
+运行时间:150013ms
+BR4 problem 58 : 0.9658158527758077
+BR6 problem 58 : 0.9658920916914205
+BR5 problem 58 : 0.9652241204774271
+simple blocks zhang 块生成完毕:2026块
+生成时间0ms
+simple blocks zhang 块生成完毕:3453块
+生成时间0ms
+simple blocks zhang 块生成完毕:2706块
+生成时间1ms
+simple blocks zhang 块生成完毕:2024块
+生成时间0ms
+simple blocks zhang 块生成完毕:734块
+生成时间1ms
+simple blocks zhang 块生成完毕:3281块
+生成时间1ms
+simple blocks zhang 块生成完毕:2057块
+生成时间0ms
+simple blocks zhang 块生成完毕:2611块
+生成时间1ms
+运行时间:150000ms
+BR1 problem 59 : 0.9726878571414328
+运行时间:150001ms
+BR3 problem 59 : 0.9730999593879883
+运行时间:150020ms
+BR2 problem 59 : 0.9746055284181057
+运行时间:150032ms
+BR7 problem 59 : 0.9613046957721633
+运行时间:150000ms
+BR0 problem 59 : 0.9727112539141405
+运行时间:150072ms
+运行时间:150065ms
+运行时间:150079ms
+BR5 problem 59 : 0.9750923075798232
+BR4 problem 59 : 0.9732405726625992
+BR6 problem 59 : 0.9710594882886524
+simple blocks zhang 块生成完毕:1244块
+生成时间0ms
+simple blocks zhang 块生成完毕:1538块
+生成时间0ms
+simple blocks zhang 块生成完毕:1356块
+生成时间0ms
+simple blocks zhang 块生成完毕:1643块
+生成时间0ms
+simple blocks zhang 块生成完毕:379块
+生成时间0ms
+simple blocks zhang 块生成完毕:1729块
+生成时间0ms
+simple blocks zhang 块生成完毕:1803块
+生成时间0ms
+simple blocks zhang 块生成完毕:1706块
+生成时间1ms
+运行时间:150003ms
+BR1 problem 60 : 0.9586278590424206
+运行时间:150239ms
+BR7 problem 60 : 0.9559722921060485
+运行时间:150342ms
+BR3 problem 60 : 0.9596790188776063
+运行时间:150023ms
+BR6 problem 60 : 0.9593318892029876
+运行时间:150030ms
+BR5 problem 60 : 0.957145221508281
+运行时间:150869ms
+BR2 problem 60 : 0.9673847659093069
+运行时间:150788ms
+BR0 problem 60 : 0.9634482589012423
+运行时间:150780ms
+BR4 problem 60 : 0.9629449291815583
+simple blocks zhang 块生成完毕:817块
+生成时间0ms
+simple blocks zhang 块生成完毕:1152块
+生成时间0ms
+simple blocks zhang 块生成完毕:1611块
+生成时间0ms
+simple blocks zhang 块生成完毕:1394块
+生成时间1ms
+simple blocks zhang 块生成完毕:979块
+生成时间1ms
+simple blocks zhang 块生成完毕:1568块
+生成时间1ms
+simple blocks zhang 块生成完毕:294块
+生成时间1ms
+simple blocks zhang 块生成完毕:1759块
+生成时间1ms
+运行时间:150000ms
+BR1 problem 61 : 0.9653532347699971
+运行时间:150001ms
+BR3 problem 61 : 0.9716666411872267
+运行时间:150307ms
+BR7 problem 61 : 0.959535281602094
+运行时间:150531ms
+BR5 problem 61 : 0.9699195935342487
+运行时间:150266ms
+运行时间:150290ms
+BR2 problem 61 : 0.9614578715184838
+运行时间:150280ms
+运行时间:150272ms
+BR6 problem 61 : 0.9703563886815453
+BR4 problem 61 : 0.9697429877811684
+BR0 problem 61 : 0.8513192256997596
+simple blocks zhang 块生成完毕:1041块
+生成时间0ms
+simple blocks zhang 块生成完毕:1872块
+生成时间0ms
+simple blocks zhang 块生成完毕:1748块
+生成时间1ms
+simple blocks zhang 块生成完毕:2077块
+生成时间1ms
+simple blocks zhang 块生成完毕:1272块
+生成时间0ms
+simple blocks zhang 块生成完毕:1904块
+生成时间1ms
+simple blocks zhang 块生成完毕:606块
+生成时间0ms
+simple blocks zhang 块生成完毕:2132块
+生成时间1ms
+运行时间:150001ms
+BR1 problem 62 : 0.9586398897692958
+运行时间:150000ms
+BR3 problem 62 : 0.9658819885395694
+运行时间:150034ms
+BR7 problem 62 : 0.9640440789880365
+运行时间:150000ms
+BR5 problem 62 : 0.9662103077406761
+运行时间:150036ms
+运行时间:150037ms
+BR4 problem 62 : 0.9704735054812922
+BR0 problem 62 : 0.9379978876436459
+运行时间:150043ms
+运行时间:150050ms
+BR6 problem 62 : 0.9634256265117339
+BR2 problem 62 : 0.9640105125953734
+simple blocks zhang 块生成完毕:1033块
+生成时间0ms
+simple blocks zhang 块生成完毕:1909块
+生成时间1ms
+simple blocks zhang 块生成完毕:1447块
+生成时间1ms
+simple blocks zhang 块生成完毕:1619块
+生成时间0ms
+simple blocks zhang 块生成完毕:279块
+生成时间0ms
+simple blocks zhang 块生成完毕:1451块
+生成时间1ms
+simple blocks zhang 块生成完毕:1426块
+生成时间1ms
+simple blocks zhang 块生成完毕:1697块
+生成时间1ms
+运行时间:150000ms
+BR1 problem 63 : 0.9508639856535244
+运行时间:150000ms
+BR3 problem 63 : 0.9674870603217987
+运行时间:150000ms
+BR7 problem 63 : 0.9612959552164501
+运行时间:150000ms
+BR5 problem 63 : 0.9640085850203493
+运行时间:150135ms
+BR6 problem 63 : 0.9638010715987773
+运行时间:150142ms
+运行时间:150156ms
+BR4 problem 63 : 0.9703056402839252
+BR0 problem 63 : 0.916482162287194
+运行时间:150498ms
+BR2 problem 63 : 0.959336674906496
+simple blocks zhang 块生成完毕:1103块
+生成时间0ms
+simple blocks zhang 块生成完毕:1612块
+生成时间0ms
+simple blocks zhang 块生成完毕:1259块
+生成时间1ms
+simple blocks zhang 块生成完毕:1482块
+生成时间0ms
+simple blocks zhang 块生成完毕:440块
+生成时间0ms
+simple blocks zhang 块生成完毕:1737块
+生成时间1ms
+simple blocks zhang 块生成完毕:1641块
+生成时间1ms
+simple blocks zhang 块生成完毕:1283块
+生成时间0ms
+运行时间:150000ms
+BR1 problem 64 : 0.9663799011087545
+运行时间:150055ms
+BR3 problem 64 : 0.9606295460029073
+运行时间:150002ms
+BR7 problem 64 : 0.9594448849802689
+运行时间:150001ms
+BR5 problem 64 : 0.960065364733752
+运行时间:150291ms
+BR0 problem 64 : 0.9001908299273969
+运行时间:150054ms
+BR2 problem 64 : 0.9573486139073873
+运行时间:150060ms
+BR6 problem 64 : 0.9554433056981112
+运行时间:150068ms
+BR4 problem 64 : 0.9622138132684959
+simple blocks zhang 块生成完毕:5455块
+生成时间2ms
+simple blocks zhang 块生成完毕:2393块
+生成时间0ms
+simple blocks zhang 块生成完毕:2756块
+生成时间1ms
+simple blocks zhang 块生成完毕:2655块
+生成时间0ms
+simple blocks zhang 块生成完毕:1344块
+生成时间1ms
+simple blocks zhang 块生成完毕:2565块
+生成时间0ms
+simple blocks zhang 块生成完毕:2523块
+生成时间0ms
+simple blocks zhang 块生成完毕:3127块
+生成时间1ms
+运行时间:150000ms
+BR1 problem 65 : 0.9840283792218047
+运行时间:150018ms
+BR3 problem 65 : 0.9772966225562171
+运行时间:150283ms
+BR7 problem 65 : 0.9728096931765838
+运行时间:150001ms
+BR5 problem 65 : 0.9784387439921143
+运行时间:150000ms
+BR0 problem 65 : 0.9124741355989209
+运行时间:150039ms
+运行时间:150052ms
+BR4 problem 65 : 0.9787985358405988
+运行时间:150046ms
+BR6 problem 65 : 0.9788907935693438
+BR2 problem 65 : 0.974521579202396
+simple blocks zhang 块生成完毕:1343块
+生成时间1ms
+simple blocks zhang 块生成完毕:1330块
+生成时间0ms
+simple blocks zhang 块生成完毕:1793块
+生成时间1ms
+simple blocks zhang 块生成完毕:1638块
+生成时间0ms
+simple blocks zhang 块生成完毕:648块
+生成时间0ms
+simple blocks zhang 块生成完毕:1563块
+生成时间0ms
+simple blocks zhang 块生成完毕:1666块
+生成时间1ms
+simple blocks zhang 块生成完毕:1850块
+生成时间1ms
+运行时间:150000ms
+BR1 problem 66 : 0.9784913202626022
+运行时间:150001ms
+BR3 problem 66 : 0.9654691883779191
+运行时间:150205ms
+BR7 problem 66 : 0.9621740653421346
+运行时间:150028ms
+BR6 problem 66 : 0.9611291202746994
+运行时间:150042ms
+BR4 problem 66 : 0.9637246665129038
+运行时间:150075ms
+运行时间:150153ms
+BR5 problem 66 : 0.9648625339901268
+BR0 problem 66 : 0.9326378997142536
+运行时间:150119ms
+BR2 problem 66 : 0.9661986425883743
+simple blocks zhang 块生成完毕:1335块
+生成时间1ms
+simple blocks zhang 块生成完毕:2195块
+生成时间0ms
+simple blocks zhang 块生成完毕:2197块
+生成时间0ms
+simple blocks zhang 块生成完毕:2175块
+生成时间0ms
+simple blocks zhang 块生成完毕:1774块
+生成时间1ms
+simple blocks zhang 块生成完毕:2089块
+生成时间0ms
+simple blocks zhang 块生成完毕:365块
+生成时间0ms
+simple blocks zhang 块生成完毕:2049块
+生成时间1ms
+运行时间:150000ms
+BR1 problem 67 : 0.9713279861959041
+运行时间:150091ms
+BR3 problem 67 : 0.9738443689219073
+运行时间:150050ms
+运行时间:150097ms
+BR5 problem 67 : 0.961698785162458
+BR4 problem 67 : 0.9692680731760653
+运行时间:150137ms
+BR7 problem 67 : 0.9648072989954676
+运行时间:150093ms
+BR6 problem 67 : 0.9682039520605444
+运行时间:150094ms
+BR0 problem 67 : 0.9242489602726788
+运行时间:150120ms
+BR2 problem 67 : 0.967992317616507
+simple blocks zhang 块生成完毕:2835块
+生成时间1ms
+simple blocks zhang 块生成完毕:2012块
+生成时间1ms
+simple blocks zhang 块生成完毕:1288块
+生成时间1ms
+simple blocks zhang 块生成完毕:1674块
+生成时间0ms
+simple blocks zhang 块生成完毕:1719块
+生成时间1ms
+simple blocks zhang 块生成完毕:1949块
+生成时间0ms
+simple blocks zhang 块生成完毕:1488块
+生成时间0ms
+simple blocks zhang 块生成完毕:1604块
+生成时间0ms
+运行时间:150000ms
+BR1 problem 68 : 0.9790193428830274
+运行时间:150060ms
+BR3 problem 68 : 0.9693154649344192
+运行时间:150113ms
+BR7 problem 68 : 0.9623447886679858
+运行时间:150001ms
+BR5 problem 68 : 0.9651996269809988
+运行时间:150170ms
+BR6 problem 68 : 0.9660014317229663
+运行时间:150176ms
+运行时间:150189ms
+运行时间:150182ms
+BR2 problem 68 : 0.9568041071970999
+BR4 problem 68 : 0.9663166899415812
+BR0 problem 68 : 0.979154937815765
+simple blocks zhang 块生成完毕:874块
+生成时间1ms
+simple blocks zhang 块生成完毕:1914块
+生成时间1ms
+simple blocks zhang 块生成完毕:2033块
+生成时间0ms
+simple blocks zhang 块生成完毕:1799块
+生成时间1ms
+simple blocks zhang 块生成完毕:2191块
+生成时间1ms
+simple blocks zhang 块生成完毕:1007块
+生成时间0ms
+simple blocks zhang 块生成完毕:1786块
+生成时间1ms
+simple blocks zhang 块生成完毕:588块
+生成时间0ms
+运行时间:150006ms
+BR1 problem 69 : 0.9451711254578822
+运行时间:150000ms
+BR3 problem 69 : 0.9702122858314595
+运行时间:150001ms
+BR7 problem 69 : 0.9611166575051463
+运行时间:150000ms
+BR5 problem 69 : 0.9644799768159252
+运行时间:150011ms
+运行时间:150019ms
+BR0 problem 69 : 0.9290645744279921
+BR4 problem 69 : 0.9699668855904462
+运行时间:150037ms
+BR6 problem 69 : 0.9598811816167835
+运行时间:150136ms
+BR2 problem 69 : 0.9417961742288536
+simple blocks zhang 块生成完毕:1298块
+生成时间0ms
+simple blocks zhang 块生成完毕:1197块
+生成时间1ms
+simple blocks zhang 块生成完毕:1480块
+生成时间0ms
+simple blocks zhang 块生成完毕:1422块
+生成时间0ms
+simple blocks zhang 块生成完毕:1358块
+生成时间0ms
+simple blocks zhang 块生成完毕:1954块
+生成时间0ms
+simple blocks zhang 块生成完毕:1547块
+生成时间0ms
+simple blocks zhang 块生成完毕:1266块
+生成时间0ms
+运行时间:150004ms
+BR1 problem 70 : 0.9326412231194677
+运行时间:150101ms
+BR3 problem 70 : 0.9550894295109077
+运行时间:150001ms
+BR7 problem 70 : 0.9554962143091206
+运行时间:150001ms
+BR5 problem 70 : 0.9611493598124536
+运行时间:150059ms
+BR4 problem 70 : 0.9628427344712229
+运行时间:150052ms
+运行时间:150251ms
+BR2 problem 70 : 0.9600240880409923
+BR0 problem 70 : 0.9304939045424967
+运行时间:150296ms
+BR6 problem 70 : 0.9574975356950337
+simple blocks zhang 块生成完毕:970块
+生成时间0ms
+simple blocks zhang 块生成完毕:1934块
+生成时间0ms
+simple blocks zhang 块生成完毕:1765块
+生成时间1ms
+simple blocks zhang 块生成完毕:2340块
+生成时间0ms
+simple blocks zhang 块生成完毕:2160块
+生成时间0ms
+simple blocks zhang 块生成完毕:1560块
+生成时间0ms
+simple blocks zhang 块生成完毕:306块
+生成时间0ms
+simple blocks zhang 块生成完毕:2145块
+生成时间0ms
+运行时间:150000ms
+BR1 problem 71 : 0.953100172085922
+运行时间:150070ms
+BR3 problem 71 : 0.9664139327781475
+运行时间:150000ms
+BR7 problem 71 : 0.9620806444215646
+运行时间:150000ms
+BR5 problem 71 : 0.9654466889246192
+运行时间:150061ms
+BR4 problem 71 : 0.9675596434916759
+运行时间:150007ms
+BR0 problem 71 : 0.8224901477652427
+运行时间:150018ms
+BR2 problem 71 : 0.9648518658593894
+运行时间:150066ms
+BR6 problem 71 : 0.971787613137022
+simple blocks zhang 块生成完毕:946块
+生成时间0ms
+simple blocks zhang 块生成完毕:2360块
+生成时间0ms
+simple blocks zhang 块生成完毕:1850块
+生成时间1ms
+simple blocks zhang 块生成完毕:2526块
+生成时间0ms
+simple blocks zhang 块生成完毕:2277块
+生成时间0ms
+simple blocks zhang 块生成完毕:1045块
+生成时间0ms
+simple blocks zhang 块生成完毕:208块
+生成时间0ms
+simple blocks zhang 块生成完毕:2078块
+生成时间1ms
+运行时间:150000ms
+BR1 problem 72 : 0.9477979449391518
+运行时间:150162ms
+BR3 problem 72 : 0.9687692965215247
+运行时间:150011ms
+BR7 problem 72 : 0.9607827217492279
+运行时间:150000ms
+BR5 problem 72 : 0.9660514157373872
+运行时间:150065ms
+BR4 problem 72 : 0.9666486316543712
+运行时间:150029ms
+BR6 problem 72 : 0.970275098190007
+运行时间:150030ms
+BR0 problem 72 : 0.8656380505968504
+运行时间:150037ms
+BR2 problem 72 : 0.954375130028229
+simple blocks zhang 块生成完毕:819块
+生成时间0ms
+simple blocks zhang 块生成完毕:1360块
+生成时间0ms
+simple blocks zhang 块生成完毕:1560块
+生成时间1ms
+simple blocks zhang 块生成完毕:1753块
+生成时间1ms
+simple blocks zhang 块生成完毕:1698块
+生成时间0ms
+simple blocks zhang 块生成完毕:1569块
+生成时间1ms
+simple blocks zhang 块生成完毕:1331块
+生成时间1ms
+simple blocks zhang 块生成完毕:368块
+生成时间0ms
+运行时间:150000ms
+BR1 problem 73 : 0.937280032117388
+运行时间:150111ms
+运行时间:150166ms
+BR7 problem 73 : 0.9558193489980931
+BR3 problem 73 : 0.9538179279100235
+运行时间:150208ms
+BR0 problem 73 : 0.9209906938007193
+运行时间:150216ms
+运行时间:150379ms
+运行时间:150259ms
+运行时间:150341ms
+BR2 problem 73 : 0.9564799754865632
+BR4 problem 73 : 0.9662235348934284
+BR6 problem 73 : 0.961898089773151
+BR5 problem 73 : 0.9607741141297231
+simple blocks zhang 块生成完毕:1640块
+生成时间0ms
+simple blocks zhang 块生成完毕:1536块
+生成时间0ms
+simple blocks zhang 块生成完毕:1393块
+生成时间0ms
+simple blocks zhang 块生成完毕:220块
+生成时间0ms
+simple blocks zhang 块生成完毕:1460块
+生成时间0ms
+simple blocks zhang 块生成完毕:1241块
+生成时间0ms
+simple blocks zhang 块生成完毕:1051块
+生成时间1ms
+simple blocks zhang 块生成完毕:1326块
+生成时间0ms
+运行时间:150000ms
+BR1 problem 74 : 0.9593683137241348
+运行时间:150114ms
+BR3 problem 74 : 0.9675044084970166
+运行时间:150001ms
+BR7 problem 74 : 0.9551281139476006
+运行时间:150229ms
+运行时间:150233ms
+BR4 problem 74 : 0.9452813295747836
+BR5 problem 74 : 0.960610203784561
+运行时间:150244ms
+BR2 problem 74 : 0.9630376854210854
+运行时间:150254ms
+BR0 problem 74 : 0.8724608685653059
+运行时间:150238ms
+BR6 problem 74 : 0.960015580123644
+simple blocks zhang 块生成完毕:779块
+生成时间0ms
+simple blocks zhang 块生成完毕:1958块
+生成时间0ms
+simple blocks zhang 块生成完毕:1613块
+生成时间1ms
+simple blocks zhang 块生成完毕:2216块
+生成时间0ms
+simple blocks zhang 块生成完毕:1657块
+生成时间1ms
+simple blocks zhang 块生成完毕:1755块
+生成时间0ms
+simple blocks zhang 块生成完毕:1593块
+生成时间0ms
+simple blocks zhang 块生成完毕:216块
+生成时间0ms
+运行时间:150000ms
+BR1 problem 75 : 0.9538098520353531
+运行时间:150001ms
+BR3 problem 75 : 0.9711192431144029
+运行时间:150000ms
+BR7 problem 75 : 0.9619160029272553
+运行时间:150011ms
+运行时间:150016ms
+BR5 problem 75 : 0.9659123312291747
+BR0 problem 75 : 0.8221886484442144
+运行时间:150034ms
+运行时间:150021ms
+BR6 problem 75 : 0.9700334201628336
+运行时间:150027ms
+BR2 problem 75 : 0.9625086657790959
+BR4 problem 75 : 0.9662867792946538
+simple blocks zhang 块生成完毕:2478块
+生成时间0ms
+simple blocks zhang 块生成完毕:2216块
+生成时间0ms
+simple blocks zhang 块生成完毕:1243块
+生成时间1ms
+simple blocks zhang 块生成完毕:1589块
+生成时间0ms
+simple blocks zhang 块生成完毕:1048块
+生成时间0ms
+simple blocks zhang 块生成完毕:2590块
+生成时间1ms
+simple blocks zhang 块生成完毕:1679块
+生成时间1ms
+simple blocks zhang 块生成完毕:1628块
+生成时间1ms
+运行时间:150000ms
+BR1 problem 76 : 0.9737836503086447
+运行时间:150263ms
+BR3 problem 76 : 0.9677052751081602
+运行时间:150000ms
+BR7 problem 76 : 0.9620073301025404
+运行时间:150368ms
+运行时间:150375ms
+BR6 problem 76 : 0.9648981941280748
+运行时间:150389ms
+BR0 problem 76 : 0.9640859538937347
+运行时间:150400ms
+BR5 problem 76 : 0.9638729900876116
+运行时间:150381ms
+BR4 problem 76 : 0.9667791750111833
+BR2 problem 76 : 0.9751548873000058
+simple blocks zhang 块生成完毕:1604块
+生成时间0ms
+simple blocks zhang 块生成完毕:2886块
+生成时间1ms
+simple blocks zhang 块生成完毕:2291块
+生成时间0ms
+simple blocks zhang 块生成完毕:2327块
+生成时间1ms
+simple blocks zhang 块生成完毕:2521块
+生成时间1ms
+simple blocks zhang 块生成完毕:288块
+生成时间0ms
+simple blocks zhang 块生成完毕:2598块
+生成时间1ms
+simple blocks zhang 块生成完毕:2395块
+生成时间1ms
+运行时间:150000ms
+BR1 problem 77 : 0.9726485744918015
+运行时间:150009ms
+BR3 problem 77 : 0.9746142689738189
+运行时间:150001ms
+BR7 problem 77 : 0.9665724259728106
+运行时间:150000ms
+BR6 problem 77 : 0.9701061362689193
+运行时间:150023ms
+BR2 problem 77 : 0.9712909302277662
+运行时间:150039ms
+BR0 problem 77 : 0.9181085038627939
+运行时间:150046ms
+BR5 problem 77 : 0.9710380855590732
+运行时间:150031ms
+BR4 problem 77 : 0.9723685443684567
+simple blocks zhang 块生成完毕:1306块
+生成时间0ms
+simple blocks zhang 块生成完毕:2117块
+生成时间0ms
+simple blocks zhang 块生成完毕:2012块
+生成时间1ms
+simple blocks zhang 块生成完毕:2371块
+生成时间1ms
+simple blocks zhang 块生成完毕:308块
+生成时间0ms
+simple blocks zhang 块生成完毕:2107块
+生成时间1ms
+simple blocks zhang 块生成完毕:2308块
+生成时间1ms
+simple blocks zhang 块生成完毕:2313块
+生成时间0ms
+运行时间:150000ms
+BR1 problem 78 : 0.9589148683167152
+运行时间:150196ms
+BR3 problem 78 : 0.9666995462222521
+运行时间:150000ms
+BR7 problem 78 : 0.9661301139728584
+运行时间:150000ms
+BR6 problem 78 : 0.9668499635422448
+运行时间:150058ms
+运行时间:150064ms
+BR2 problem 78 : 0.9724308914502742
+运行时间:150092ms
+BR0 problem 78 : 0.9467916178403051
+运行时间:150071ms
+BR4 problem 78 : 0.9624657938518333
+BR5 problem 78 : 0.9687882399312454
+simple blocks zhang 块生成完毕:1875块
+生成时间1ms
+simple blocks zhang 块生成完毕:2640块
+生成时间1ms
+simple blocks zhang 块生成完毕:2077块
+生成时间0ms
+simple blocks zhang 块生成完毕:2058块
+生成时间1ms
+simple blocks zhang 块生成完毕:2368块
+生成时间1ms
+simple blocks zhang 块生成完毕:936块
+生成时间0ms
+simple blocks zhang 块生成完毕:3322块
+生成时间1ms
+simple blocks zhang 块生成完毕:2722块
+生成时间1ms
+运行时间:150000ms
+BR1 problem 79 : 0.9601342921578937
+运行时间:150171ms
+BR3 problem 79 : 0.982137029314428
+运行时间:150047ms
+BR7 problem 79 : 0.9650883593744288
+运行时间:150002ms
+BR6 problem 79 : 0.9708375845225031
+运行时间:150063ms
+BR5 problem 79 : 0.9758621079295784
+运行时间:150073ms
+运行时间:150083ms
+BR0 problem 79 : 0.9580595567507998
+BR2 problem 79 : 0.9789635096754296
+运行时间:150125ms
+BR4 problem 79 : 0.9786137212766396
+simple blocks zhang 块生成完毕:958块
+生成时间1ms
+simple blocks zhang 块生成完毕:1368块
+生成时间0ms
+simple blocks zhang 块生成完毕:1578块
+生成时间1ms
+simple blocks zhang 块生成完毕:1997块
+生成时间0ms
+simple blocks zhang 块生成完毕:432块
+生成时间1ms
+simple blocks zhang 块生成完毕:1153块
+生成时间0ms
+simple blocks zhang 块生成完毕:1733块
+生成时间1ms
+simple blocks zhang 块生成完毕:1567块
+生成时间0ms
+运行时间:150000ms
+BR1 problem 80 : 0.9668756202304981
+运行时间:150039ms
+运行时间:150135ms
+BR7 problem 80 : 0.9650145797786746
+BR3 problem 80 : 0.9642202526984389
+运行时间:150097ms
+运行时间:150063ms
+运行时间:150039ms
+运行时间:150003ms
+BR2 problem 80 : 0.9597900538458113
+BR4 problem 80 : 0.9624973329673157
+BR0 problem 80 : 0.9497767004036608
+BR6 problem 80 : 0.9636294841875703
+运行时间:150016ms
+BR5 problem 80 : 0.9638293870112019
+simple blocks zhang 块生成完毕:566块
+生成时间0ms
+simple blocks zhang 块生成完毕:1417块
+生成时间1ms
+simple blocks zhang 块生成完毕:904块
+生成时间0ms
+simple blocks zhang 块生成完毕:852块
+生成时间0ms
+simple blocks zhang 块生成完毕:1529块
+生成时间1ms
+simple blocks zhang 块生成完毕:252块
+生成时间0ms
+simple blocks zhang 块生成完毕:1140块
+生成时间0ms
+simple blocks zhang 块生成完毕:1343块
+生成时间1ms
+运行时间:150000ms
+BR1 problem 81 : 0.93815142896454
+运行时间:150189ms
+BR6 problem 81 : 0.9629519415665602
+运行时间:150194ms
+BR0 problem 81 : 0.9651168741911662
+运行时间:150185ms
+BR5 problem 81 : 0.9666771464711087
+运行时间:150456ms
+BR7 problem 81 : 0.9598943423014316
+运行时间:150439ms
+BR3 problem 81 : 0.9575315341303745
+运行时间:150426ms
+BR2 problem 81 : 0.9509591679788578
+运行时间:150420ms
+BR4 problem 81 : 0.9602250875883445
+simple blocks zhang 块生成完毕:1246块
+生成时间1ms
+simple blocks zhang 块生成完毕:1838块
+生成时间0ms
+simple blocks zhang 块生成完毕:816块
+生成时间0ms
+simple blocks zhang 块生成完毕:1984块
+生成时间1ms
+simple blocks zhang 块生成完毕:1511块
+生成时间1ms
+simple blocks zhang 块生成完毕:2339块
+生成时间1ms
+simple blocks zhang 块生成完毕:1652块
+生成时间0ms
+simple blocks zhang 块生成完毕:1665块
+生成时间0ms
+运行时间:150000ms
+BR1 problem 82 : 0.9701139462711725
+运行时间:150011ms
+BR6 problem 82 : 0.9603377510251043
+运行时间:150000ms
+BR0 problem 82 : 0.9254354159341328
+运行时间:150055ms
+运行时间:150060ms
+BR5 problem 82 : 0.9651522352226449
+运行时间:150078ms
+BR4 problem 82 : 0.9666993800519913
+运行时间:150065ms
+BR3 problem 82 : 0.9659742795023666
+运行时间:150072ms
+BR2 problem 82 : 0.9649043756617731
+BR7 problem 82 : 0.9593846316437363
+simple blocks zhang 块生成完毕:1159块
+生成时间0ms
+simple blocks zhang 块生成完毕:1971块
+生成时间0ms
+simple blocks zhang 块生成完毕:477块
+生成时间0ms
+simple blocks zhang 块生成完毕:1900块
+生成时间0ms
+simple blocks zhang 块生成完毕:2075块
+生成时间0ms
+simple blocks zhang 块生成完毕:1936块
+生成时间1ms
+simple blocks zhang 块生成完毕:1927块
+生成时间0ms
+simple blocks zhang 块生成完毕:2049块
+生成时间0ms
+运行时间:150001ms
+BR1 problem 83 : 0.9687009008422174
+运行时间:150101ms
+BR6 problem 83 : 0.9658701572170071
+运行时间:150000ms
+BR0 problem 83 : 0.9459471405753878
+运行时间:150007ms
+BR7 problem 83 : 0.9652355197573117
+运行时间:150013ms
+BR4 problem 83 : 0.9697167661140287
+运行时间:150026ms
+BR3 problem 83 : 0.9697790134936899
+运行时间:150041ms
+BR5 problem 83 : 0.9686431400595953
+运行时间:150019ms
+BR2 problem 83 : 0.9665237380864231
+simple blocks zhang 块生成完毕:623块
+生成时间0ms
+simple blocks zhang 块生成完毕:1772块
+生成时间1ms
+simple blocks zhang 块生成完毕:247块
+生成时间0ms
+simple blocks zhang 块生成完毕:2260块
+生成时间1ms
+simple blocks zhang 块生成完毕:1539块
+生成时间1ms
+simple blocks zhang 块生成完毕:1008块
+生成时间1ms
+simple blocks zhang 块生成完毕:1775块
+生成时间0ms
+simple blocks zhang 块生成完毕:812块
+生成时间0ms
+运行时间:150000ms
+BR1 problem 84 : 0.9415229570861978
+运行时间:150139ms
+BR6 problem 84 : 0.9663038283634025
+运行时间:150019ms
+BR0 problem 84 : 0.9189448055508843
+运行时间:150287ms
+运行时间:150293ms
+BR5 problem 84 : 0.9636367624449893
+运行时间:150300ms
+BR3 problem 84 : 0.951177781573845
+运行时间:150374ms
+运行时间:150315ms
+BR7 problem 84 : 0.9642050647366102
+BR2 problem 84 : 0.9479200468467199
+BR4 problem 84 : 0.9552050840123604
+simple blocks zhang 块生成完毕:3282块
+生成时间1ms
+simple blocks zhang 块生成完毕:1849块
+生成时间1ms
+simple blocks zhang 块生成完毕:2220块
+生成时间1ms
+simple blocks zhang 块生成完毕:1815块
+生成时间0ms
+simple blocks zhang 块生成完毕:2100块
+生成时间1ms
+simple blocks zhang 块生成完毕:1496块
+生成时间0ms
+simple blocks zhang 块生成完毕:2653块
+生成时间1ms
+simple blocks zhang 块生成完毕:1828块
+生成时间1ms
+运行时间:150000ms
+BR1 problem 85 : 0.9829327854589057
+运行时间:150000ms
+BR6 problem 85 : 0.9657381515619008
+运行时间:150000ms
+BR0 problem 85 : 0.9701033113744872
+运行时间:150281ms
+BR4 problem 85 : 0.9742056230686862
+运行时间:150288ms
+运行时间:150300ms
+BR7 problem 85 : 0.9640354713685317
+BR2 problem 85 : 0.9815139573048779
+运行时间:150360ms
+运行时间:150376ms
+BR5 problem 85 : 0.9709398789349949
+BR3 problem 85 : 0.973873880760209
+simple blocks zhang 块生成完毕:1794块
+生成时间1ms
+simple blocks zhang 块生成完毕:2028块
+生成时间0ms
+simple blocks zhang 块生成完毕:1060块
+生成时间1ms
+simple blocks zhang 块生成完毕:2295块
+生成时间1ms
+simple blocks zhang 块生成完毕:1939块
+生成时间1ms
+simple blocks zhang 块生成完毕:2347块
+生成时间1ms
+simple blocks zhang 块生成完毕:1805块
+生成时间1ms
+simple blocks zhang 块生成完毕:2264块
+生成时间0ms
+运行时间:150000ms
+BR1 problem 86 : 0.9635912317935554
+运行时间:150000ms
+BR6 problem 86 : 0.9665253665549781
+运行时间:150000ms
+BR0 problem 86 : 0.9297234062776466
+运行时间:150240ms
+BR2 problem 86 : 0.971113161282861
+运行时间:150247ms
+运行时间:150247ms
+BR7 problem 86 : 0.9670039036717646
+运行时间:150741ms
+BR3 problem 86 : 0.9709421720845927
+BR5 problem 86 : 0.9657420731800535
+运行时间:151160ms
+BR4 problem 86 : 0.9647609374927301
+simple blocks zhang 块生成完毕:892块
+生成时间0ms
+simple blocks zhang 块生成完毕:1406块
+生成时间0ms
+simple blocks zhang 块生成完毕:599块
+生成时间0ms
+simple blocks zhang 块生成完毕:1217块
+生成时间0ms
+simple blocks zhang 块生成完毕:1563块
+生成时间0ms
+simple blocks zhang 块生成完毕:1559块
+生成时间0ms
+simple blocks zhang 块生成完毕:1563块
+生成时间0ms
+simple blocks zhang 块生成完毕:1787块
+生成时间1ms
+运行时间:150001ms
+BR1 problem 87 : 0.9468821473983386
+运行时间:150001ms
+BR6 problem 87 : 0.966267570012516
+运行时间:150000ms
+BR0 problem 87 : 0.9563149019495759
+运行时间:150000ms
+BR2 problem 87 : 0.9612173234490831
+运行时间:150000ms
+BR7 problem 87 : 0.9643531224389008
+运行时间:150001ms
+BR4 problem 87 : 0.972024472226635
+运行时间:150008ms
+BR5 problem 87 : 0.9675197293950538
+运行时间:150164ms
+BR3 problem 87 : 0.9723128108630152
+simple blocks zhang 块生成完毕:753块
+生成时间0ms
+simple blocks zhang 块生成完毕:2328块
+生成时间1ms
+simple blocks zhang 块生成完毕:324块
+生成时间1ms
+simple blocks zhang 块生成完毕:1084块
+生成时间0ms
+simple blocks zhang 块生成完毕:1665块
+生成时间1ms
+simple blocks zhang 块生成完毕:2051块
+生成时间0ms
+simple blocks zhang 块生成完毕:2034块
+生成时间0ms
+simple blocks zhang 块生成完毕:1875块
+生成时间0ms
+运行时间:150146ms
+BR1 problem 88 : 0.9579477573993955
+运行时间:150142ms
+BR6 problem 88 : 0.9648057369950169
+运行时间:150000ms
+BR0 problem 88 : 0.9172598391073068
+运行时间:150000ms
+BR2 problem 88 : 0.9628772314173459
+运行时间:150000ms
+BR7 problem 88 : 0.9609479614564757
+运行时间:150001ms
+BR4 problem 88 : 0.9663842215355328
+运行时间:150188ms
+BR3 problem 88 : 0.9650147791829874
+运行时间:150194ms
+BR5 problem 88 : 0.9641936654567256
+simple blocks zhang 块生成完毕:902块
+生成时间1ms
+simple blocks zhang 块生成完毕:1578块
+生成时间0ms
+simple blocks zhang 块生成完毕:96块
+生成时间0ms
+simple blocks zhang 块生成完毕:1030块
+生成时间1ms
+simple blocks zhang 块生成完毕:1423块
+生成时间0ms
+simple blocks zhang 块生成完毕:1329块
+生成时间1ms
+simple blocks zhang 块生成完毕:1248块
+生成时间0ms
+simple blocks zhang 块生成完毕:1434块
+生成时间0ms
+运行时间:150000ms
+BR1 problem 89 : 0.9096517004867459
+运行时间:150112ms
+BR6 problem 89 : 0.9623243497259187
+运行时间:150000ms
+BR0 problem 89 : 0.6413480795038289
+运行时间:150000ms
+BR2 problem 89 : 0.9262606839169122
+运行时间:150001ms
+BR7 problem 89 : 0.9574346236343297
+运行时间:150000ms
+BR4 problem 89 : 0.9568634632142247
+运行时间:150032ms
+运行时间:150039ms
+BR5 problem 89 : 0.9632196086225083
+BR3 problem 89 : 0.9505091124447567
+simple blocks zhang 块生成完毕:748块
+生成时间0ms
+simple blocks zhang 块生成完毕:962块
+生成时间0ms
+simple blocks zhang 块生成完毕:580块
+生成时间0ms
+simple blocks zhang 块生成完毕:899块
+生成时间0ms
+simple blocks zhang 块生成完毕:1149块
+生成时间0ms
+simple blocks zhang 块生成完毕:1208块
+生成时间0ms
+simple blocks zhang 块生成完毕:1215块
+生成时间0ms
+simple blocks zhang 块生成完毕:1008块
+生成时间0ms
+运行时间:150000ms
+BR1 problem 90 : 0.9413351182234937
+运行时间:150095ms
+BR0 problem 90 : 0.939335092965614
+运行时间:150204ms
+BR6 problem 90 : 0.9602652675573836
+运行时间:150125ms
+BR2 problem 90 : 0.9571312299723294
+运行时间:150000ms
+BR7 problem 90 : 0.9597006542455505
+运行时间:150001ms
+BR4 problem 90 : 0.9550736765701926
+运行时间:150034ms
+BR3 problem 90 : 0.9615753538928042
+运行时间:150041ms
+BR5 problem 90 : 0.9613295880772174
+simple blocks zhang 块生成完毕:4023块
+生成时间1ms
+simple blocks zhang 块生成完毕:1865块
+生成时间0ms
+simple blocks zhang 块生成完毕:372块
+生成时间0ms
+simple blocks zhang 块生成完毕:2723块
+生成时间1ms
+simple blocks zhang 块生成完毕:1418块
+生成时间1ms
+simple blocks zhang 块生成完毕:2312块
+生成时间1ms
+simple blocks zhang 块生成完毕:3386块
+生成时间1ms
+simple blocks zhang 块生成完毕:2221块
+生成时间0ms
+运行时间:150000ms
+BR1 problem 91 : 0.9793778053694264
+运行时间:150001ms
+BR6 problem 91 : 0.9638586329770864
+运行时间:150000ms
+BR0 problem 91 : 0.942453577014266
+运行时间:150063ms
+BR7 problem 91 : 0.9615844932571431
+运行时间:150408ms
+BR2 problem 91 : 0.9638187188804644
+运行时间:150010ms
+BR4 problem 91 : 0.9689293849506906
+运行时间:150000ms
+BR3 problem 91 : 0.976631775343125
+运行时间:150028ms
+BR5 problem 91 : 0.9685193764494201
+simple blocks zhang 块生成完毕:781块
+生成时间0ms
+simple blocks zhang 块生成完毕:1713块
+生成时间0ms
+simple blocks zhang 块生成完毕:228块
+生成时间0ms
+simple blocks zhang 块生成完毕:959块
+生成时间0ms
+simple blocks zhang 块生成完毕:1669块
+生成时间0ms
+simple blocks zhang 块生成完毕:1152块
+生成时间1ms
+simple blocks zhang 块生成完毕:1257块
+生成时间1ms
+simple blocks zhang 块生成完毕:1681块
+生成时间1ms
+运行时间:150001ms
+BR1 problem 92 : 0.9583488924087443
+运行时间:150167ms
+BR6 problem 92 : 0.9700746303874891
+运行时间:150001ms
+BR0 problem 92 : 0.873544032792704
+运行时间:150064ms
+BR5 problem 92 : 0.9696929705326953
+运行时间:150071ms
+BR3 problem 92 : 0.9619027425404508
+运行时间:150151ms
+运行时间:150246ms
+BR2 problem 92 : 0.9594462808104589
+运行时间:150178ms
+BR7 problem 92 : 0.9657718508907723
+BR4 problem 92 : 0.9654913222566454
+simple blocks zhang 块生成完毕:759块
+生成时间0ms
+simple blocks zhang 块生成完毕:1031块
+生成时间0ms
+simple blocks zhang 块生成完毕:401块
+生成时间0ms
+simple blocks zhang 块生成完毕:1080块
+生成时间0ms
+simple blocks zhang 块生成完毕:968块
+生成时间1ms
+simple blocks zhang 块生成完毕:788块
+生成时间0ms
+simple blocks zhang 块生成完毕:887块
+生成时间0ms
+simple blocks zhang 块生成完毕:1020块
+生成时间0ms
+运行时间:150001ms
+BR1 problem 93 : 0.9633818572650635
+运行时间:150033ms
+BR6 problem 93 : 0.9584942249187594
+运行时间:150000ms
+BR0 problem 93 : 0.9331421932214498
+运行时间:150091ms
+BR7 problem 93 : 0.9558178534657467
+运行时间:150098ms
+BR4 problem 93 : 0.9533353694729279
+运行时间:150380ms
+BR2 problem 93 : 0.9620316241946558
+运行时间:150404ms
+BR5 problem 93 : 0.9606260564274325
+运行时间:150387ms
+BR3 problem 93 : 0.9561512574768308
+simple blocks zhang 块生成完毕:1670块
+生成时间1ms
+simple blocks zhang 块生成完毕:2299块
+生成时间1ms
+simple blocks zhang 块生成完毕:366块
+生成时间0ms
+simple blocks zhang 块生成完毕:2100块
+生成时间1ms
+simple blocks zhang 块生成完毕:2517块
+生成时间1ms
+simple blocks zhang 块生成完毕:2438块
+生成时间1ms
+simple blocks zhang 块生成完毕:2169块
+生成时间0ms
+simple blocks zhang 块生成完毕:2667块
+生成时间1ms
+运行时间:150000ms
+BR1 problem 94 : 0.9633978096100915
+运行时间:150160ms
+BR6 problem 94 : 0.9697604356585428
+运行时间:150000ms
+BR0 problem 94 : 0.9039595714402509
+运行时间:150000ms
+BR7 problem 94 : 0.968479694991163
+运行时间:150060ms
+BR3 problem 94 : 0.9726157724823378
+运行时间:150076ms
+BR2 problem 94 : 0.9731672251095228
+运行时间:150088ms
+BR4 problem 94 : 0.9753176012192909
+运行时间:150068ms
+BR5 problem 94 : 0.9696238104701888
+simple blocks zhang 块生成完毕:943块
+生成时间0ms
+simple blocks zhang 块生成完毕:1872块
+生成时间1ms
+simple blocks zhang 块生成完毕:341块
+生成时间1ms
+simple blocks zhang 块生成完毕:1926块
+生成时间1ms
+simple blocks zhang 块生成完毕:1268块
+生成时间0ms
+simple blocks zhang 块生成完毕:2209块
+生成时间1ms
+simple blocks zhang 块生成完毕:2205块
+生成时间1ms
+simple blocks zhang 块生成完毕:2160块
+生成时间1ms
+运行时间:150000ms
+BR1 problem 95 : 0.9596356484395615
+运行时间:150041ms
+BR6 problem 95 : 0.9627182397119006
+运行时间:150000ms
+BR0 problem 95 : 0.8662143290609852
+运行时间:150008ms
+BR7 problem 95 : 0.9661104394139906
+运行时间:150213ms
+运行时间:150221ms
+BR5 problem 95 : 0.9631704222253389
+BR4 problem 95 : 0.9656579910281353
+运行时间:150233ms
+BR3 problem 95 : 0.9676928788067114
+运行时间:150260ms
+BR2 problem 95 : 0.962930538836981
+simple blocks zhang 块生成完毕:1499块
+生成时间0ms
+simple blocks zhang 块生成完毕:1839块
+生成时间0ms
+simple blocks zhang 块生成完毕:1362块
+生成时间1ms
+simple blocks zhang 块生成完毕:2031块
+生成时间1ms
+simple blocks zhang 块生成完毕:2302块
+生成时间0ms
+simple blocks zhang 块生成完毕:2532块
+生成时间1ms
+simple blocks zhang 块生成完毕:2912块
+生成时间1ms
+simple blocks zhang 块生成完毕:2187块
+生成时间0ms
+运行时间:150001ms
+BR1 problem 96 : 0.9657794282546606
+运行时间:150175ms
+BR6 problem 96 : 0.9718350713634801
+运行时间:150000ms
+BR0 problem 96 : 0.9778404645854617
+运行时间:150005ms
+BR3 problem 96 : 0.9790469271463049
+运行时间:150012ms
+BR2 problem 96 : 0.979559662102745
+运行时间:150090ms
+BR7 problem 96 : 0.964024969408055
+运行时间:150041ms
+BR4 problem 96 : 0.9743861836739713
+运行时间:150140ms
+BR5 problem 96 : 0.9686426747828654
+simple blocks zhang 块生成完毕:1080块
+生成时间1ms
+simple blocks zhang 块生成完毕:1992块
+生成时间0ms
+simple blocks zhang 块生成完毕:597块
+生成时间0ms
+simple blocks zhang 块生成完毕:2386块
+生成时间1ms
+simple blocks zhang 块生成完毕:1546块
+生成时间0ms
+simple blocks zhang 块生成完毕:1828块
+生成时间1ms
+simple blocks zhang 块生成完毕:1937块
+生成时间0ms
+simple blocks zhang 块生成完毕:2055块
+生成时间1ms
+运行时间:150000ms
+BR1 problem 97 : 0.9672245777779845
+运行时间:150000ms
+BR6 problem 97 : 0.9646395335002569
+运行时间:150000ms
+BR0 problem 97 : 0.9349350373982789
+运行时间:150042ms
+BR2 problem 97 : 0.974779342510806
+运行时间:150049ms
+运行时间:150062ms
+BR7 problem 97 : 0.9609113707650678
+BR4 problem 97 : 0.9638329430547811
+运行时间:150137ms
+BR3 problem 97 : 0.9727143779150418
+运行时间:150055ms
+BR5 problem 97 : 0.9624617725315242
+simple blocks zhang 块生成完毕:1291块
+生成时间0ms
+simple blocks zhang 块生成完毕:2593块
+生成时间0ms
+simple blocks zhang 块生成完毕:440块
+生成时间0ms
+simple blocks zhang 块生成完毕:2063块
+生成时间0ms
+simple blocks zhang 块生成完毕:2298块
+生成时间0ms
+simple blocks zhang 块生成完毕:2072块
+生成时间1ms
+simple blocks zhang 块生成完毕:2370块
+生成时间0ms
+simple blocks zhang 块生成完毕:1936块
+生成时间1ms
+运行时间:150001ms
+BR1 problem 98 : 0.97242849859852
+运行时间:150015ms
+BR6 problem 98 : 0.9665949918942147
+运行时间:150000ms
+BR0 problem 98 : 0.957147348487618
+运行时间:150059ms
+BR4 problem 98 : 0.9711954487959635
+运行时间:150065ms
+BR5 problem 98 : 0.9683801922390513
+运行时间:150079ms
+运行时间:150091ms
+BR2 problem 98 : 0.972448904306535
+运行时间:150072ms
+BR3 problem 98 : 0.9731338913552249
+BR7 problem 98 : 0.9705637026988044
+simple blocks zhang 块生成完毕:1811块
+生成时间1ms
+simple blocks zhang 块生成完毕:1550块
+生成时间0ms
+simple blocks zhang 块生成完毕:1443块
+生成时间0ms
+simple blocks zhang 块生成完毕:2564块
+生成时间1ms
+simple blocks zhang 块生成完毕:1987块
+生成时间1ms
+simple blocks zhang 块生成完毕:2134块
+生成时间1ms
+simple blocks zhang 块生成完毕:1986块
+生成时间0ms
+simple blocks zhang 块生成完毕:1709块
+生成时间1ms
+运行时间:150000ms
+BR1 problem 99 : 0.9551029225360772
+运行时间:150319ms
+BR6 problem 99 : 0.961991045416991
+运行时间:150001ms
+BR0 problem 99 : 0.9674156071096943
+运行时间:150017ms
+BR3 problem 99 : 0.9705989640281266
+运行时间:150023ms
+BR7 problem 99 : 0.9644933369048861
+运行时间:150140ms
+BR2 problem 99 : 0.9709824185217361
+运行时间:150110ms
+BR5 problem 99 : 0.9667360039774514
+运行时间:150071ms
+BR4 problem 99 : 0.974983565761216
+simple blocks zhang 块生成完毕:2323块
+生成时间0ms
+simple blocks zhang 块生成完毕:2190块
+生成时间0ms
+simple blocks zhang 块生成完毕:592块
+生成时间0ms
+simple blocks zhang 块生成完毕:2123块
+生成时间0ms
+simple blocks zhang 块生成完毕:1675块
+生成时间0ms
+simple blocks zhang 块生成完毕:1692块
+生成时间1ms
+simple blocks zhang 块生成完毕:2115块
+生成时间1ms
+simple blocks zhang 块生成完毕:2368块
+生成时间1ms
+运行时间:150000ms
+BR1 problem 100 : 0.9838973705882627
+BR1平均填充率为:0.9578137304492376
+运行时间:150001ms
+BR6 problem 100 : 0.9678484806388382
+BR6平均填充率为:0.9651506107421766
+运行时间:150000ms
+BR0 problem 100 : 0.9134047555269891
+BR0平均填充率为:0.9085285420686604
+运行时间:150001ms
+BR3 problem 100 : 0.973101554622491
+BR3平均填充率为:0.9669834570858657
+运行时间:150000ms
+BR7 problem 100 : 0.9604915582184155
+BR7平均填充率为:0.9629848276581757
+运行时间:150000ms
+BR2 problem 100 : 0.9721257363835103
+BR2平均填充率为:0.9643597080986727
+运行时间:150000ms
+BR5 problem 100 : 0.9649779558532144
+BR5平均填充率为:0.9657788739106705
+运行时间:150000ms
+BR4 problem 100 : 0.9674179334933443
+BR4平均填充率为:0.966703717095796

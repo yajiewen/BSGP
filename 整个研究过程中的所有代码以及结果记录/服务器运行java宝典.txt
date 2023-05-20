@@ -1,0 +1,3 @@
+后台运行:https://blog.csdn.net/weixin_37391237/article/details/121230898
+idea 打包 jar :https://blog.csdn.net/qq_42902997/article/details/120381776
+关闭java 进程 https://www.cnblogs.com/feizifeiyu/p/8492550.html

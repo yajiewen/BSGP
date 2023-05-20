@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BSG_cover_Manhanttan_Distance_EightCorner_Diffillrate_Fbr_SpaceMerging:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BSG_cover_Manhanttan_Distance_EightCorner_Diffillrate_Fbr_SpaceMerging_jar</output-path>
+    <root id="archive" name="BSG_cover_Manhanttan_Distance_EightCorner_Diffillrate_Fbr_SpaceMerging.jar">
+      <element id="module-output" name="BSG_cover_Manhanttan_Distance_EightCorner_Diffillrate_Fbr_SpaceMerging" />
+    </root>
+  </artifact>
+</component>

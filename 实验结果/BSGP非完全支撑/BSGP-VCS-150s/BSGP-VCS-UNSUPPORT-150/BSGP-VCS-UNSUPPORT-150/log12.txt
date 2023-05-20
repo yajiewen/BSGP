@@ -1,0 +1,406 @@
+BSGP-VCS-UNSUPPORT-150s
+***运行时间：150秒
+***单线程运行
+***开启状态检测
+
+Guillotine Blocks块生成完毕:10000块
+生成时间3798ms
+运行时间:150001ms
+BR12 problem 1 : 填充率0.9530413145795793
+Guillotine Blocks块生成完毕:10000块
+生成时间1453ms
+运行时间:150000ms
+BR12 problem 2 : 填充率0.9531240341353596
+Guillotine Blocks块生成完毕:10000块
+生成时间2178ms
+运行时间:150000ms
+BR12 problem 3 : 填充率0.9503234670294939
+Guillotine Blocks块生成完毕:10000块
+生成时间2587ms
+运行时间:150000ms
+BR12 problem 4 : 填充率0.9515037079231974
+Guillotine Blocks块生成完毕:10000块
+生成时间3436ms
+运行时间:150000ms
+BR12 problem 5 : 填充率0.9526115318172845
+Guillotine Blocks块生成完毕:10000块
+生成时间1002ms
+运行时间:150000ms
+BR12 problem 6 : 填充率0.951979453379604
+Guillotine Blocks块生成完毕:7020块
+生成时间1630ms
+运行时间:150000ms
+BR12 problem 7 : 填充率0.9524260525722824
+Guillotine Blocks块生成完毕:10000块
+生成时间2329ms
+运行时间:150002ms
+BR12 problem 8 : 填充率0.9499020260142866
+Guillotine Blocks块生成完毕:10000块
+生成时间2251ms
+运行时间:150000ms
+BR12 problem 9 : 填充率0.9529767075822161
+Guillotine Blocks块生成完毕:10000块
+生成时间2338ms
+运行时间:150000ms
+BR12 problem 10 : 填充率0.9546961045038123
+Guillotine Blocks块生成完毕:9742块
+生成时间4474ms
+运行时间:150000ms
+BR12 problem 11 : 填充率0.9528523125250502
+Guillotine Blocks块生成完毕:10000块
+生成时间3921ms
+运行时间:150000ms
+BR12 problem 12 : 填充率0.9484614627901582
+Guillotine Blocks块生成完毕:10000块
+生成时间2089ms
+运行时间:150000ms
+BR12 problem 13 : 填充率0.954652601129559
+Guillotine Blocks块生成完毕:10000块
+生成时间2922ms
+运行时间:150000ms
+BR12 problem 14 : 填充率0.951543522317663
+Guillotine Blocks块生成完毕:10000块
+生成时间3332ms
+运行时间:150000ms
+BR12 problem 15 : 填充率0.9528623492087969
+Guillotine Blocks块生成完毕:10000块
+生成时间4030ms
+运行时间:150001ms
+BR12 problem 16 : 填充率0.9549515746626245
+Guillotine Blocks块生成完毕:10000块
+生成时间808ms
+运行时间:150000ms
+BR12 problem 17 : 填充率0.9534810343234643
+Guillotine Blocks块生成完毕:10000块
+生成时间2907ms
+运行时间:150000ms
+BR12 problem 18 : 填充率0.9522587523538018
+Guillotine Blocks块生成完毕:10000块
+生成时间2308ms
+运行时间:150000ms
+BR12 problem 19 : 填充率0.9529107712227672
+Guillotine Blocks块生成完毕:10000块
+生成时间4486ms
+运行时间:150000ms
+BR12 problem 20 : 填充率0.9543992247160317
+Guillotine Blocks块生成完毕:10000块
+生成时间1434ms
+运行时间:150000ms
+BR12 problem 21 : 填充率0.9541361107252269
+Guillotine Blocks块生成完毕:10000块
+生成时间980ms
+运行时间:150001ms
+BR12 problem 22 : 填充率0.9499884345498547
+Guillotine Blocks块生成完毕:6384块
+生成时间1097ms
+运行时间:150000ms
+BR12 problem 23 : 填充率0.9551510786776304
+Guillotine Blocks块生成完毕:10000块
+生成时间1962ms
+运行时间:150000ms
+BR12 problem 24 : 填充率0.951338335279741
+Guillotine Blocks块生成完毕:10000块
+生成时间2007ms
+运行时间:150000ms
+BR12 problem 25 : 填充率0.9541157050172119
+Guillotine Blocks块生成完毕:10000块
+生成时间762ms
+运行时间:150001ms
+BR12 problem 26 : 填充率0.9510149014842992
+Guillotine Blocks块生成完毕:8886块
+生成时间2625ms
+运行时间:150000ms
+BR12 problem 27 : 填充率0.9565716350023696
+Guillotine Blocks块生成完毕:10000块
+生成时间1377ms
+运行时间:150001ms
+BR12 problem 28 : 填充率0.9527048530356981
+Guillotine Blocks块生成完毕:10000块
+生成时间2473ms
+运行时间:150000ms
+BR12 problem 29 : 填充率0.9514965293679348
+Guillotine Blocks块生成完毕:10000块
+生成时间737ms
+运行时间:150000ms
+BR12 problem 30 : 填充率0.957762643728967
+Guillotine Blocks块生成完毕:10000块
+生成时间1722ms
+运行时间:150000ms
+BR12 problem 31 : 填充率0.9529590935345811
+Guillotine Blocks块生成完毕:10000块
+生成时间1536ms
+运行时间:150000ms
+BR12 problem 32 : 填充率0.9562152662612555
+Guillotine Blocks块生成完毕:10000块
+生成时间2429ms
+运行时间:150000ms
+BR12 problem 33 : 填充率0.9521014555850157
+Guillotine Blocks块生成完毕:5587块
+生成时间869ms
+运行时间:150001ms
+BR12 problem 34 : 填充率0.9513663848197484
+Guillotine Blocks块生成完毕:10000块
+生成时间1040ms
+运行时间:150000ms
+BR12 problem 35 : 填充率0.9520958390302038
+Guillotine Blocks块生成完毕:10000块
+生成时间3396ms
+运行时间:150001ms
+BR12 problem 36 : 填充率0.9562256352855237
+Guillotine Blocks块生成完毕:10000块
+生成时间1401ms
+运行时间:150000ms
+BR12 problem 37 : 填充率0.9553819224038057
+Guillotine Blocks块生成完毕:9011块
+生成时间2720ms
+运行时间:150000ms
+BR12 problem 38 : 填充率0.9543749970920204
+Guillotine Blocks块生成完毕:10000块
+生成时间1377ms
+运行时间:150000ms
+BR12 problem 39 : 填充率0.9531683351268644
+Guillotine Blocks块生成完毕:10000块
+生成时间2305ms
+运行时间:150001ms
+BR12 problem 40 : 填充率0.9494953741522825
+Guillotine Blocks块生成完毕:10000块
+生成时间3079ms
+运行时间:150000ms
+BR12 problem 41 : 填充率0.9520498431020399
+Guillotine Blocks块生成完毕:10000块
+生成时间2995ms
+运行时间:150000ms
+BR12 problem 42 : 填充率0.9522324309845056
+Guillotine Blocks块生成完毕:7833块
+生成时间1530ms
+运行时间:150000ms
+BR12 problem 43 : 填充率0.9519641324815667
+Guillotine Blocks块生成完毕:10000块
+生成时间1488ms
+运行时间:150000ms
+BR12 problem 44 : 填充率0.9519085319123339
+Guillotine Blocks块生成完毕:10000块
+生成时间1913ms
+运行时间:150001ms
+BR12 problem 45 : 填充率0.9498179770964206
+Guillotine Blocks块生成完毕:6565块
+生成时间1337ms
+运行时间:150000ms
+BR12 problem 46 : 填充率0.9489824397915294
+Guillotine Blocks块生成完毕:10000块
+生成时间2281ms
+运行时间:150000ms
+BR12 problem 47 : 填充率0.9503888716441085
+Guillotine Blocks块生成完毕:10000块
+生成时间828ms
+运行时间:150000ms
+BR12 problem 48 : 填充率0.9538098520353531
+Guillotine Blocks块生成完毕:9800块
+生成时间2613ms
+运行时间:150000ms
+BR12 problem 49 : 填充率0.9539867236608505
+Guillotine Blocks块生成完毕:10000块
+生成时间992ms
+运行时间:150000ms
+BR12 problem 50 : 填充率0.9522272464723716
+Guillotine Blocks块生成完毕:10000块
+生成时间1212ms
+运行时间:150000ms
+BR12 problem 51 : 填充率0.9546452564040356
+Guillotine Blocks块生成完毕:10000块
+生成时间1699ms
+运行时间:150001ms
+BR12 problem 52 : 填充率0.9559029326392291
+Guillotine Blocks块生成完毕:10000块
+生成时间907ms
+运行时间:150000ms
+BR12 problem 53 : 填充率0.9572382768542773
+Guillotine Blocks块生成完毕:10000块
+生成时间1003ms
+运行时间:150000ms
+BR12 problem 54 : 填充率0.9504592946005965
+Guillotine Blocks块生成完毕:10000块
+生成时间660ms
+运行时间:150001ms
+BR12 problem 55 : 填充率0.9539210199397666
+Guillotine Blocks块生成完毕:10000块
+生成时间1306ms
+运行时间:150000ms
+BR12 problem 56 : 填充率0.9512837317320724
+Guillotine Blocks块生成完毕:10000块
+生成时间2579ms
+运行时间:150000ms
+BR12 problem 57 : 填充率0.9501173494381119
+Guillotine Blocks块生成完毕:10000块
+生成时间656ms
+运行时间:150001ms
+BR12 problem 58 : 填充率0.9570931769826272
+Guillotine Blocks块生成完毕:10000块
+生成时间1370ms
+运行时间:150000ms
+BR12 problem 59 : 填充率0.9531772750868904
+Guillotine Blocks块生成完毕:10000块
+生成时间978ms
+运行时间:150000ms
+BR12 problem 60 : 填充率0.9534930318162875
+Guillotine Blocks块生成完毕:10000块
+生成时间2493ms
+运行时间:150000ms
+BR12 problem 61 : 填充率0.952422430060599
+Guillotine Blocks块生成完毕:10000块
+生成时间1838ms
+运行时间:150000ms
+BR12 problem 62 : 填充率0.9558242011697057
+Guillotine Blocks块生成完毕:10000块
+生成时间2734ms
+运行时间:150000ms
+BR12 problem 63 : 填充率0.9569660899672379
+Guillotine Blocks块生成完毕:10000块
+生成时间1319ms
+运行时间:150000ms
+BR12 problem 64 : 填充率0.947220735921557
+Guillotine Blocks块生成完毕:10000块
+生成时间1011ms
+运行时间:150000ms
+BR12 problem 65 : 填充率0.9521485482369003
+Guillotine Blocks块生成完毕:10000块
+生成时间2349ms
+运行时间:150000ms
+BR12 problem 66 : 填充率0.9536691058245335
+Guillotine Blocks块生成完毕:6355块
+生成时间1221ms
+运行时间:150000ms
+BR12 problem 67 : 填充率0.949042892532375
+Guillotine Blocks块生成完毕:10000块
+生成时间2583ms
+运行时间:150000ms
+BR12 problem 68 : 填充率0.9535453754484104
+Guillotine Blocks块生成完毕:10000块
+生成时间2359ms
+运行时间:150000ms
+BR12 problem 69 : 填充率0.9543289679298044
+Guillotine Blocks块生成完毕:10000块
+生成时间2012ms
+运行时间:150000ms
+BR12 problem 70 : 填充率0.9467545618721672
+Guillotine Blocks块生成完毕:10000块
+生成时间1031ms
+运行时间:150000ms
+BR12 problem 71 : 填充率0.9561093825711325
+Guillotine Blocks块生成完毕:10000块
+生成时间1742ms
+运行时间:150001ms
+BR12 problem 72 : 填充率0.9517049401089146
+Guillotine Blocks块生成完毕:10000块
+生成时间2639ms
+运行时间:150001ms
+BR12 problem 73 : 填充率0.9558445736436685
+Guillotine Blocks块生成完毕:10000块
+生成时间1526ms
+运行时间:150001ms
+BR12 problem 74 : 填充率0.9499183771679403
+Guillotine Blocks块生成完毕:10000块
+生成时间721ms
+运行时间:150001ms
+BR12 problem 75 : 填充率0.9546357182310711
+Guillotine Blocks块生成完毕:10000块
+生成时间969ms
+运行时间:150000ms
+BR12 problem 76 : 填充率0.9486709037867543
+Guillotine Blocks块生成完毕:10000块
+生成时间833ms
+运行时间:150000ms
+BR12 problem 77 : 填充率0.9565965273074236
+Guillotine Blocks块生成完毕:10000块
+生成时间1235ms
+运行时间:150001ms
+BR12 problem 78 : 填充率0.9520245187543079
+Guillotine Blocks块生成完毕:10000块
+生成时间1423ms
+运行时间:150000ms
+BR12 problem 79 : 填充率0.9566955315487533
+Guillotine Blocks块生成完毕:10000块
+生成时间666ms
+运行时间:150001ms
+BR12 problem 80 : 填充率0.9546419662328737
+Guillotine Blocks块生成完毕:3715块
+生成时间369ms
+运行时间:150000ms
+BR12 problem 81 : 填充率0.9476048883302614
+Guillotine Blocks块生成完毕:7322块
+生成时间1810ms
+运行时间:150001ms
+BR12 problem 82 : 填充率0.9468745035663462
+Guillotine Blocks块生成完毕:10000块
+生成时间1800ms
+运行时间:150000ms
+BR12 problem 83 : 填充率0.9535622251128463
+Guillotine Blocks块生成完毕:10000块
+生成时间759ms
+运行时间:150001ms
+BR12 problem 84 : 填充率0.9534744207470882
+Guillotine Blocks块生成完毕:10000块
+生成时间3381ms
+运行时间:150000ms
+BR12 problem 85 : 填充率0.9563101494801197
+Guillotine Blocks块生成完毕:10000块
+生成时间2636ms
+运行时间:150000ms
+BR12 problem 86 : 填充率0.9578883016801143
+Guillotine Blocks块生成完毕:10000块
+生成时间795ms
+运行时间:150000ms
+BR12 problem 87 : 填充率0.9586451407495342
+Guillotine Blocks块生成完毕:10000块
+生成时间1170ms
+运行时间:150001ms
+BR12 problem 88 : 填充率0.9535240391869355
+Guillotine Blocks块生成完毕:8987块
+生成时间2252ms
+运行时间:150000ms
+BR12 problem 89 : 填充率0.9540711713873422
+Guillotine Blocks块生成完毕:8668块
+生成时间2233ms
+运行时间:150000ms
+BR12 problem 90 : 填充率0.9553819556378579
+Guillotine Blocks块生成完毕:10000块
+生成时间1881ms
+运行时间:150001ms
+BR12 problem 91 : 填充率0.9475925252628647
+Guillotine Blocks块生成完毕:10000块
+生成时间1662ms
+运行时间:150000ms
+BR12 problem 92 : 填充率0.9602617447478565
+Guillotine Blocks块生成完毕:4503块
+生成时间504ms
+运行时间:150001ms
+BR12 problem 93 : 填充率0.9535424176177698
+Guillotine Blocks块生成完毕:10000块
+生成时间1773ms
+运行时间:150000ms
+BR12 problem 94 : 填充率0.9558040613341079
+Guillotine Blocks块生成完毕:10000块
+生成时间1667ms
+运行时间:150000ms
+BR12 problem 95 : 填充率0.9501715541771548
+Guillotine Blocks块生成完毕:10000块
+生成时间2561ms
+运行时间:150000ms
+BR12 problem 96 : 填充率0.9524992671891502
+Guillotine Blocks块生成完毕:10000块
+生成时间1401ms
+运行时间:150000ms
+BR12 problem 97 : 填充率0.9534485978885742
+Guillotine Blocks块生成完毕:10000块
+生成时间2741ms
+运行时间:150000ms
+BR12 problem 98 : 填充率0.9544742672057673
+Guillotine Blocks块生成完毕:10000块
+生成时间1758ms
+运行时间:150000ms
+BR12 problem 99 : 填充率0.954930803380036
+Guillotine Blocks块生成完毕:10000块
+生成时间654ms
+运行时间:150000ms
+BR12 problem 100 : 填充率0.9517449206736409
+BR12平均填充率为:0.9530389423329375

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BSGI">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/BSGI_jar/BSGI.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BSG_cover_Manhanttan_Distance_EightCorner_Diffillrate_Fbr_BlockRotate:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BSG_cover_Manhanttan_Distance_EightCorner_Diffillrate_Fbr_BlockRotate_jar</output-path>
+    <root id="archive" name="BSG_cover_Manhanttan_Distance_EightCorner_Diffillrate_Fbr_BlockRotate.jar">
+      <element id="module-output" name="BSG_cover_Manhanttan_Distance_EightCorner_Diffillrate_Fbr_BlockRotate" />
+    </root>
+  </artifact>
+</component>

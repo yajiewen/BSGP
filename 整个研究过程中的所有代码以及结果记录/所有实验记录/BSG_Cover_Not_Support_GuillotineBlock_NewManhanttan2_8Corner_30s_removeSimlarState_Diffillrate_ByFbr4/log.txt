@@ -1,0 +1,6423 @@
+Fbr
+使用每种余箱子的长宽高
+返回向量
+vloss向量每选择一个空间生成一次
+减去vWaste
+
+创建输出文件夹
+Guillotine Blocks块生成完毕:1824块
+生成时间174ms
+Guillotine Blocks块生成完毕:1896块
+生成时间383ms
+Guillotine Blocks块生成完毕:1990块
+生成时间553ms
+Guillotine Blocks块生成完毕:2056块
+生成时间552ms
+Guillotine Blocks块生成完毕:4370块
+生成时间493ms
+Guillotine Blocks块生成完毕:2618块
+生成时间668ms
+Guillotine Blocks块生成完毕:10000块
+生成时间996ms
+Guillotine Blocks块生成完毕:2496块
+生成时间1100ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3136ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3538ms
+Guillotine Blocks块生成完毕:10000块
+生成时间5310ms
+Guillotine Blocks块生成完毕:10000块
+生成时间6577ms
+Guillotine Blocks块生成完毕:10000块
+生成时间6938ms
+Guillotine Blocks块生成完毕:4374块
+生成时间7377ms
+Guillotine Blocks块生成完毕:10000块
+生成时间8518ms
+Guillotine Blocks块生成完毕:3854块
+生成时间10661ms
+运行时间:30001ms
+br7:==problem 1===>填充率为:0.9462994879961927
+运行时间:30093ms
+br5:==problem 1===>填充率为:0.9481549451272565
+运行时间:30039ms
+运行时间:30047ms
+运行时间:30002ms
+br15:==problem 1===>填充率为:0.932457704683542
+br3:==problem 1===>填充率为:0.9579662355323862
+br4:==problem 1===>填充率为:0.9473000988380711
+运行时间:30195ms
+br6:==problem 1===>填充率为:0.9478251636278557
+运行时间:30254ms
+运行时间:30249ms
+br12:==problem 1===>填充率为:0.9283477491573506
+br2:==problem 1===>填充率为:0.9545879276640915
+运行时间:30000ms
+br10:==problem 1===>填充率为:0.9375515875574367
+Guillotine Blocks块生成完毕:2846块
+生成时间887ms
+运行时间:30000ms
+br14:==problem 1===>填充率为:0.9345660064832989
+Guillotine Blocks块生成完毕:4006块
+生成时间1208ms
+Guillotine Blocks块生成完毕:4020块
+生成时间2739ms
+运行时间:30000ms
+br13:==problem 1===>填充率为:0.9299837618421236
+Guillotine Blocks块生成完毕:4258块
+生成时间2998ms
+Guillotine Blocks块生成完毕:3836块
+生成时间2806ms
+运行时间:30000ms
+br9:==problem 1===>填充率为:0.9425363298040985
+运行时间:30000ms
+br8:==problem 1===>填充率为:0.9358555209404439
+运行时间:30000ms
+br1:==problem 1===>填充率为:0.9434130440995931
+Guillotine Blocks块生成完毕:10000块
+生成时间2316ms
+Guillotine Blocks块生成完毕:9642块
+生成时间4592ms
+Guillotine Blocks块生成完毕:4900块
+生成时间4436ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2361ms
+运行时间:30000ms
+br11:==problem 1===>填充率为:0.9333611391569584
+Guillotine Blocks块生成完毕:10000块
+生成时间6247ms
+运行时间:30000ms
+br0:==problem 1===>填充率为:0.9165579359260768
+Guillotine Blocks块生成完毕:10000块
+生成时间2026ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3536ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1756ms
+Guillotine Blocks块生成完毕:10000块
+生成时间5315ms
+Guillotine Blocks块生成完毕:10000块
+生成时间11364ms
+Guillotine Blocks块生成完毕:8108块
+生成时间18332ms
+运行时间:30000ms
+br7:==problem 2===>填充率为:0.9421669997826493
+运行时间:30000ms
+br6:==problem 2===>填充率为:0.9588066914769944
+运行时间:30000ms
+br5:==problem 2===>填充率为:0.9519764955489634
+运行时间:30000ms
+br3:==problem 2===>填充率为:0.9682767014006823
+运行时间:30180ms
+br4:==problem 2===>填充率为:0.9629449291815583
+Guillotine Blocks块生成完毕:2632块
+生成时间722ms
+运行时间:30000ms
+br10:==problem 2===>填充率为:0.9438916144504318
+运行时间:30000ms
+br15:==problem 2===>填充率为:0.9337490470135549
+运行时间:30000ms
+br2:==problem 2===>填充率为:0.9578660680992316
+运行时间:30000ms
+br14:==problem 2===>填充率为:0.9249271343406796
+Guillotine Blocks块生成完毕:3282块
+生成时间1718ms
+Guillotine Blocks块生成完毕:3878块
+生成时间1461ms
+Guillotine Blocks块生成完毕:3528块
+生成时间2225ms
+运行时间:30000ms
+br12:==problem 2===>填充率为:0.9347670060306511
+运行时间:30000ms
+br9:==problem 2===>填充率为:0.9519766617192241
+运行时间:30001ms
+br13:==problem 2===>填充率为:0.9300994163435763
+Guillotine Blocks块生成完毕:4512块
+生成时间3522ms
+Guillotine Blocks块生成完毕:8000块
+生成时间1836ms
+运行时间:30001ms
+br11:==problem 2===>填充率为:0.9319850832280367
+Guillotine Blocks块生成完毕:10000块
+生成时间2871ms
+Guillotine Blocks块生成完毕:10000块
+生成时间635ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3057ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2161ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2781ms
+Guillotine Blocks块生成完毕:6018块
+生成时间7984ms
+运行时间:30000ms
+br0:==problem 2===>填充率为:0.9549746723288629
+Guillotine Blocks块生成完毕:10000块
+生成时间4273ms
+运行时间:30000ms
+br8:==problem 2===>填充率为:0.9461341485867883
+运行时间:30000ms
+br1:==problem 2===>填充率为:0.9669638898729861
+Guillotine Blocks块生成完毕:10000块
+生成时间6785ms
+Guillotine Blocks块生成完毕:3588块
+生成时间4943ms
+运行时间:30000ms
+br7:==problem 3===>填充率为:0.9423167524215992
+运行时间:30000ms
+br6:==problem 3===>填充率为:0.9513209206364188
+Guillotine Blocks块生成完毕:4624块
+生成时间18938ms
+运行时间:30000ms
+br4:==problem 3===>填充率为:0.9511831322562398
+运行时间:30001ms
+br5:==problem 3===>填充率为:0.9446229962359113
+Guillotine Blocks块生成完毕:3959块
+生成时间2031ms
+运行时间:30000ms
+br3:==problem 3===>填充率为:0.9464055046225243
+运行时间:30001ms
+br15:==problem 3===>填充率为:0.923150375445087
+运行时间:30000ms
+br10:==problem 3===>填充率为:0.932743151957386
+运行时间:30000ms
+br12:==problem 3===>填充率为:0.9315286135218723
+Guillotine Blocks块生成完毕:4172块
+生成时间2307ms
+运行时间:30000ms
+br14:==problem 3===>填充率为:0.9283296365989334
+运行时间:30000ms
+br9:==problem 3===>填充率为:0.941324416858704
+Guillotine Blocks块生成完毕:4608块
+生成时间3867ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1034ms
+运行时间:30001ms
+br13:==problem 3===>填充率为:0.9311645677147136
+Guillotine Blocks块生成完毕:6086块
+生成时间4701ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2518ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1713ms
+运行时间:30000ms
+br2:==problem 3===>填充率为:0.9497868700236162
+Guillotine Blocks块生成完毕:7650块
+生成时间2987ms
+运行时间:30001ms
+br11:==problem 3===>填充率为:0.9326023392784621
+Guillotine Blocks块生成完毕:10000块
+生成时间2700ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3590ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2841ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4797ms
+运行时间:30000ms
+br8:==problem 3===>填充率为:0.9392634403491968
+运行时间:30000ms
+br1:==problem 3===>填充率为:0.9206592838327636
+运行时间:30000ms
+br0:==problem 3===>填充率为:0.7896267217731563
+Guillotine Blocks块生成完毕:10000块
+生成时间7728ms
+运行时间:30000ms
+br7:==problem 4===>填充率为:0.9519590476715891
+Guillotine Blocks块生成完毕:9223块
+生成时间27672ms
+运行时间:30000ms
+br6:==problem 4===>填充率为:0.9645741953537466
+Guillotine Blocks块生成完毕:2620块
+生成时间596ms
+Guillotine Blocks块生成完毕:10000块
+生成时间8011ms
+Guillotine Blocks块生成完毕:2384块
+生成时间4260ms
+运行时间:30001ms
+br5:==problem 4===>填充率为:0.9659059502911636
+运行时间:30069ms
+br10:==problem 4===>填充率为:0.9368754075325644
+运行时间:30000ms
+br4:==problem 4===>填充率为:0.9618204550273483
+运行时间:30000ms
+br15:==problem 4===>填充率为:0.9276511966585155
+运行时间:30029ms
+br12:==problem 4===>填充率为:0.9289899972149864
+Guillotine Blocks块生成完毕:3857块
+生成时间2428ms
+运行时间:30000ms
+br14:==problem 4===>填充率为:0.9344596575164459
+Guillotine Blocks块生成完毕:10000块
+生成时间1159ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1045ms
+Guillotine Blocks块生成完毕:8089块
+生成时间2104ms
+运行时间:30000ms
+br13:==problem 4===>填充率为:0.935408822045609
+运行时间:30101ms
+br9:==problem 4===>填充率为:0.9410689466998918
+Guillotine Blocks块生成完毕:4724块
+生成时间3174ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1370ms
+Guillotine Blocks块生成完毕:4950块
+生成时间4105ms
+运行时间:30000ms
+br2:==problem 4===>填充率为:0.9440217589986182
+Guillotine Blocks块生成完毕:10000块
+生成时间2314ms
+运行时间:30000ms
+br11:==problem 4===>填充率为:0.9378299559781745
+Guillotine Blocks块生成完毕:10000块
+生成时间3461ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3181ms
+Guillotine Blocks块生成完毕:5431块
+生成时间7260ms
+运行时间:30000ms
+br8:==problem 4===>填充率为:0.9412256784897916
+运行时间:30000ms
+br3:==problem 4===>填充率为:0.9643496993315303
+运行时间:30000ms
+br7:==problem 5===>填充率为:0.949615714655087
+Guillotine Blocks块生成完毕:3156块
+生成时间945ms
+运行时间:30001ms
+br1:==problem 4===>填充率为:0.9184173811433977
+运行时间:30001ms
+br0:==problem 4===>填充率为:0.8209108656074753
+Guillotine Blocks块生成完毕:3707块
+生成时间1543ms
+Guillotine Blocks块生成完毕:10000块
+生成时间5549ms
+运行时间:30000ms
+br6:==problem 5===>填充率为:0.9533324116422873
+运行时间:30000ms
+br10:==problem 5===>填充率为:0.9372988425909001
+运行时间:30001ms
+br12:==problem 5===>填充率为:0.9302194909739637
+运行时间:30000ms
+br15:==problem 5===>填充率为:0.9309612750177636
+运行时间:30000ms
+br5:==problem 5===>填充率为:0.9587180562599328
+运行时间:30001ms
+br14:==problem 5===>填充率为:0.9306389379460426
+Guillotine Blocks块生成完毕:4005块
+生成时间2582ms
+运行时间:30001ms
+br4:==problem 5===>填充率为:0.9599833098590145
+Guillotine Blocks块生成完毕:10000块
+生成时间1496ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2513ms
+Guillotine Blocks块生成完毕:10000块
+生成时间870ms
+Guillotine Blocks块生成完毕:4438块
+生成时间1673ms
+运行时间:30001ms
+br13:==problem 5===>填充率为:0.9320784709145545
+Guillotine Blocks块生成完毕:10000块
+生成时间2322ms
+Guillotine Blocks块生成完毕:4550块
+生成时间1838ms
+运行时间:30001ms
+br9:==problem 5===>填充率为:0.9436764904309194
+Guillotine Blocks块生成完毕:10000块
+生成时间1583ms
+Guillotine Blocks块生成完毕:6043块
+生成时间13280ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2061ms
+运行时间:30000ms
+br11:==problem 5===>填充率为:0.9310578864073391
+Guillotine Blocks块生成完毕:10000块
+生成时间13635ms
+运行时间:30000ms
+br2:==problem 5===>填充率为:0.9607410462478423
+Guillotine Blocks块生成完毕:10000块
+生成时间2067ms
+运行时间:30000ms
+br3:==problem 5===>填充率为:0.9590755217247675
+运行时间:30000ms
+br7:==problem 6===>填充率为:0.9486898804305272
+运行时间:30001ms
+br8:==problem 5===>填充率为:0.9437134799309529
+Guillotine Blocks块生成完毕:7100块
+生成时间13214ms
+Guillotine Blocks块生成完毕:2161块
+生成时间445ms
+Guillotine Blocks块生成完毕:10000块
+生成时间550ms
+运行时间:30000ms
+br6:==problem 6===>填充率为:0.9494361843054183
+Guillotine Blocks块生成完毕:5475块
+生成时间6397ms
+运行时间:30000ms
+br12:==problem 6===>填充率为:0.9334947732806197
+运行时间:30004ms
+br10:==problem 6===>填充率为:0.935593570141464
+运行时间:30009ms
+br15:==problem 6===>填充率为:0.9282990612709632
+运行时间:30001ms
+br5:==problem 6===>填充率为:0.9524972399119697
+Guillotine Blocks块生成完毕:2848块
+生成时间866ms
+运行时间:30000ms
+br14:==problem 6===>填充率为:0.9314958779805129
+运行时间:30001ms
+br4:==problem 6===>填充率为:0.9518768266265908
+Guillotine Blocks块生成完毕:7566块
+生成时间1460ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1626ms
+Guillotine Blocks块生成完毕:3636块
+生成时间1829ms
+运行时间:30000ms
+br13:==problem 6===>填充率为:0.9280704442262814
+Guillotine Blocks块生成完毕:10000块
+生成时间4449ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1917ms
+运行时间:30000ms
+br1:==problem 5===>填充率为:0.9479015022456249
+运行时间:30000ms
+br9:==problem 6===>填充率为:0.9441436615018735
+运行时间:30001ms
+br0:==problem 5===>填充率为:0.9238800622939073
+Guillotine Blocks块生成完毕:4338块
+生成时间3552ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1556ms
+运行时间:30001ms
+br11:==problem 6===>填充率为:0.9341831169685759
+Guillotine Blocks块生成完毕:10000块
+生成时间6500ms
+Guillotine Blocks块生成完毕:10000块
+生成时间6043ms
+运行时间:30000ms
+br2:==problem 6===>填充率为:0.9634031935265384
+运行时间:30000ms
+br7:==problem 7===>填充率为:0.946732660631806
+运行时间:30001ms
+br8:==problem 6===>填充率为:0.9413087303860933
+Guillotine Blocks块生成完毕:2332块
+生成时间269ms
+运行时间:30001ms
+br3:==problem 6===>填充率为:0.9558665081180819
+Guillotine Blocks块生成完毕:10000块
+生成时间4077ms
+运行时间:30001ms
+br6:==problem 7===>填充率为:0.9497275804745956
+Guillotine Blocks块生成完毕:10000块
+生成时间4548ms
+运行时间:30001ms
+br15:==problem 7===>填充率为:0.930383401319126
+运行时间:30000ms
+br10:==problem 7===>填充率为:0.9410017474464616
+Guillotine Blocks块生成完毕:2288块
+生成时间603ms
+运行时间:30000ms
+br5:==problem 7===>填充率为:0.953221775482708
+运行时间:30000ms
+br12:==problem 7===>填充率为:0.9322915676568864
+运行时间:30000ms
+br14:==problem 7===>填充率为:0.9307655264506498
+Guillotine Blocks块生成完毕:5152块
+生成时间5865ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1581ms
+Guillotine Blocks块生成完毕:2098块
+生成时间536ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2105ms
+运行时间:30001ms
+br4:==problem 7===>填充率为:0.9557744497936498
+运行时间:30000ms
+br13:==problem 7===>填充率为:0.9304952671386345
+Guillotine Blocks块生成完毕:8749块
+生成时间30720ms
+Guillotine Blocks块生成完毕:2512块
+生成时间924ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3078ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3577ms
+运行时间:30000ms
+br9:==problem 7===>填充率为:0.9349835923484577
+Guillotine Blocks块生成完毕:10000块
+生成时间5476ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1168ms
+运行时间:30001ms
+br11:==problem 7===>填充率为:0.9334753313601168
+Guillotine Blocks块生成完毕:7890块
+生成时间40508ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4851ms
+运行时间:30000ms
+br7:==problem 8===>填充率为:0.944298498950801
+运行时间:30000ms
+br2:==problem 7===>填充率为:0.9657935194927686
+Guillotine Blocks块生成完毕:3254块
+生成时间716ms
+运行时间:30000ms
+br8:==problem 7===>填充率为:0.9378271310837425
+运行时间:30001ms
+br6:==problem 8===>填充率为:0.9493344548718129
+Guillotine Blocks块生成完毕:3132块
+生成时间656ms
+运行时间:30000ms
+br3:==problem 7===>填充率为:0.9600513399637483
+运行时间:30000ms
+br10:==problem 8===>填充率为:0.933222287287111
+运行时间:30001ms
+br5:==problem 8===>填充率为:0.9396403145004822
+运行时间:30000ms
+br15:==problem 8===>填充率为:0.9274145702072675
+运行时间:30001ms
+br1:==problem 6===>填充率为:0.9596472138897069
+Guillotine Blocks块生成完毕:5518块
+生成时间7349ms
+Guillotine Blocks块生成完毕:4844块
+生成时间718ms
+Guillotine Blocks块生成完毕:10000块
+生成时间6583ms
+Guillotine Blocks块生成完毕:3282块
+生成时间2058ms
+运行时间:30000ms
+br4:==problem 8===>填充率为:0.9472502145258066
+运行时间:30000ms
+br14:==problem 8===>填充率为:0.9255778903156636
+运行时间:30000ms
+br12:==problem 8===>填充率为:0.9310851050960431
+Guillotine Blocks块生成完毕:3650块
+生成时间2275ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2903ms
+运行时间:30000ms
+br13:==problem 8===>填充率为:0.9349298196520927
+Guillotine Blocks块生成完毕:10000块
+生成时间2584ms
+Guillotine Blocks块生成完毕:4476块
+生成时间3261ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3292ms
+运行时间:30000ms
+br9:==problem 8===>填充率为:0.9341582911316261
+运行时间:30000ms
+br0:==problem 6===>填充率为:0.8318868766039584
+Guillotine Blocks块生成完毕:10000块
+生成时间3706ms
+Guillotine Blocks块生成完毕:3072块
+生成时间2802ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4818ms
+Guillotine Blocks块生成完毕:6240块
+生成时间14953ms
+运行时间:30001ms
+br11:==problem 8===>填充率为:0.9313345266573656
+Guillotine Blocks块生成完毕:10000块
+生成时间1923ms
+运行时间:30001ms
+br7:==problem 9===>填充率为:0.9466635338033514
+Guillotine Blocks块生成完毕:3034块
+生成时间930ms
+运行时间:30000ms
+br6:==problem 9===>填充率为:0.9599321626527686
+运行时间:30000ms
+br2:==problem 8===>填充率为:0.9583992752317909
+运行时间:30000ms
+br15:==problem 9===>填充率为:0.9296659446014938
+运行时间:30004ms
+br8:==problem 8===>填充率为:0.9458660827222145
+运行时间:30006ms
+br3:==problem 8===>填充率为:0.9495435302938355
+Guillotine Blocks块生成完毕:4252块
+生成时间2953ms
+运行时间:30000ms
+br5:==problem 9===>填充率为:0.9542207578560314
+运行时间:30000ms
+br10:==problem 9===>填充率为:0.9314387154108293
+Guillotine Blocks块生成完毕:4254块
+生成时间2811ms
+Guillotine Blocks块生成完毕:4248块
+生成时间2858ms
+Guillotine Blocks块生成完毕:4554块
+生成时间2408ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3185ms
+运行时间:30001ms
+br12:==problem 9===>填充率为:0.9327428860849688
+运行时间:30000ms
+br4:==problem 9===>填充率为:0.9609459674133471
+运行时间:30000ms
+br14:==problem 9===>填充率为:0.9291637448395825
+Guillotine Blocks块生成完毕:10000块
+生成时间4420ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3652ms
+运行时间:30001ms
+br13:==problem 9===>填充率为:0.9221508945609815
+运行时间:30000ms
+br0:==problem 7===>填充率为:0.8374105754742001
+运行时间:30000ms
+br9:==problem 9===>填充率为:0.9272469376482654
+运行时间:30001ms
+br1:==problem 7===>填充率为:0.9531278228173038
+Guillotine Blocks块生成完毕:6734块
+生成时间8485ms
+Guillotine Blocks块生成完毕:10000块
+生成时间9259ms
+运行时间:30000ms
+br11:==problem 9===>填充率为:0.93662036941643
+Guillotine Blocks块生成完毕:10000块
+生成时间4922ms
+Guillotine Blocks块生成完毕:10000块
+生成时间6487ms
+运行时间:30001ms
+br7:==problem 10===>填充率为:0.9481933636915322
+Guillotine Blocks块生成完毕:10000块
+生成时间11621ms
+Guillotine Blocks块生成完毕:10000块
+生成时间16814ms
+Guillotine Blocks块生成完毕:10000块
+生成时间8775ms
+Guillotine Blocks块生成完毕:2875块
+生成时间989ms
+运行时间:30003ms
+br6:==problem 10===>填充率为:0.9565174967314309
+运行时间:30010ms
+br2:==problem 9===>填充率为:0.9548676919150192
+Guillotine Blocks块生成完毕:3218块
+生成时间1486ms
+Guillotine Blocks块生成完毕:10000块
+生成时间13217ms
+运行时间:30000ms
+br3:==problem 9===>填充率为:0.9596950709247907
+运行时间:30000ms
+br5:==problem 10===>填充率为:0.9574969707161473
+运行时间:30026ms
+br8:==problem 9===>填充率为:0.9362476495216623
+运行时间:30001ms
+br15:==problem 10===>填充率为:0.9366554645754915
+运行时间:30001ms
+br10:==problem 10===>填充率为:0.9358292660392521
+Guillotine Blocks块生成完毕:3550块
+生成时间2068ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1921ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1789ms
+运行时间:30001ms
+br4:==problem 10===>填充率为:0.9550066767210752
+运行时间:30000ms
+br12:==problem 10===>填充率为:0.9424895030246311
+Guillotine Blocks块生成完毕:10000块
+生成时间9409ms
+Guillotine Blocks块生成完毕:3354块
+生成时间973ms
+Guillotine Blocks块生成完毕:7000块
+生成时间12378ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2439ms
+运行时间:30000ms
+br1:==problem 8===>填充率为:0.972631093380375
+运行时间:30001ms
+br0:==problem 8===>填充率为:0.9229229215922301
+运行时间:30000ms
+br13:==problem 10===>填充率为:0.935220517906175
+运行时间:30032ms
+br14:==problem 10===>填充率为:0.9324552121296314
+运行时间:30001ms
+br9:==problem 10===>填充率为:0.9392692895423738
+运行时间:30000ms
+br7:==problem 11===>填充率为:0.9539593388018859
+Guillotine Blocks块生成完毕:2996块
+生成时间2530ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1600ms
+Guillotine Blocks块生成完毕:3598块
+生成时间1833ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4473ms
+Guillotine Blocks块生成完毕:10000块
+生成时间7407ms
+Guillotine Blocks块生成完毕:8777块
+生成时间28778ms
+运行时间:30001ms
+br6:==problem 11===>填充率为:0.9596306633317403
+运行时间:30000ms
+br11:==problem 10===>填充率为:0.9319268239346326
+Guillotine Blocks块生成完毕:2714块
+生成时间911ms
+运行时间:30001ms
+br5:==problem 11===>填充率为:0.9571340881008135
+运行时间:30000ms
+br15:==problem 11===>填充率为:0.9334358160721206
+运行时间:30000ms
+br10:==problem 11===>填充率为:0.9392101661636139
+Guillotine Blocks块生成完毕:2443块
+生成时间737ms
+Guillotine Blocks块生成完毕:4493块
+生成时间641ms
+Guillotine Blocks块生成完毕:10000块
+生成时间6016ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1213ms
+Guillotine Blocks块生成完毕:6738块
+生成时间20126ms
+运行时间:30000ms
+br8:==problem 10===>填充率为:0.9447472583568686
+运行时间:30000ms
+br4:==problem 11===>填充率为:0.9531946564961604
+运行时间:30000ms
+br3:==problem 10===>填充率为:0.9590811050455273
+Guillotine Blocks块生成完毕:10000块
+生成时间2185ms
+运行时间:30000ms
+br12:==problem 11===>填充率为:0.9396675996572904
+Guillotine Blocks块生成完毕:2772块
+生成时间1106ms
+Guillotine Blocks块生成完毕:3504块
+生成时间1870ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1183ms
+运行时间:30003ms
+br1:==problem 9===>填充率为:0.933996042489071
+运行时间:30001ms
+br9:==problem 11===>填充率为:0.9358954018030138
+运行时间:30000ms
+br7:==problem 12===>填充率为:0.9535346740836209
+运行时间:30000ms
+br13:==problem 11===>填充率为:0.9353207518074339
+Guillotine Blocks块生成完毕:10000块
+生成时间1709ms
+运行时间:30000ms
+br14:==problem 11===>填充率为:0.9277992211267541
+运行时间:30028ms
+br2:==problem 10===>填充率为:0.9627331950353644
+Guillotine Blocks块生成完毕:5063块
+生成时间4349ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3878ms
+运行时间:30001ms
+br6:==problem 12===>填充率为:0.9502181483182572
+Guillotine Blocks块生成完毕:3348块
+生成时间1361ms
+Guillotine Blocks块生成完毕:6720块
+生成时间2228ms
+Guillotine Blocks块生成完毕:5806块
+生成时间9637ms
+运行时间:30000ms
+br5:==problem 12===>填充率为:0.9481853875190182
+运行时间:30000ms
+br15:==problem 12===>填充率为:0.9251006825609629
+运行时间:30000ms
+br11:==problem 11===>填充率为:0.9355973588234082
+运行时间:30000ms
+br10:==problem 12===>填充率为:0.9406777819061856
+运行时间:30001ms
+br0:==problem 9===>填充率为:0.9101510753542251
+Guillotine Blocks块生成完毕:10000块
+生成时间1631ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4041ms
+运行时间:30000ms
+br8:==problem 11===>填充率为:0.9490816102031199
+Guillotine Blocks块生成完毕:10000块
+生成时间5807ms
+运行时间:30000ms
+br4:==problem 12===>填充率为:0.9551691912360475
+运行时间:30012ms
+br3:==problem 11===>填充率为:0.9519109247640881
+运行时间:30000ms
+br12:==problem 12===>填充率为:0.9200819086449081
+Guillotine Blocks块生成完毕:8733块
+生成时间16328ms
+Guillotine Blocks块生成完毕:3026块
+生成时间1228ms
+Guillotine Blocks块生成完毕:10000块
+生成时间6842ms
+Guillotine Blocks块生成完毕:10000块
+生成时间5130ms
+运行时间:30000ms
+br9:==problem 12===>填充率为:0.9349189188829902
+Guillotine Blocks块生成完毕:7948块
+生成时间20915ms
+运行时间:30001ms
+br7:==problem 13===>填充率为:0.9477255944076396
+运行时间:30001ms
+br13:==problem 12===>填充率为:0.9290005324095153
+运行时间:30000ms
+br2:==problem 11===>填充率为:0.9587711642752551
+运行时间:30001ms
+br14:==problem 12===>填充率为:0.932127391439307
+运行时间:30000ms
+br1:==problem 10===>填充率为:0.9518142136723561
+Guillotine Blocks块生成完毕:2794块
+生成时间1010ms
+Guillotine Blocks块生成完毕:10000块
+生成时间530ms
+Guillotine Blocks块生成完毕:10000块
+生成时间5947ms
+Guillotine Blocks块生成完毕:3183块
+生成时间1894ms
+Guillotine Blocks块生成完毕:8070块
+生成时间2616ms
+Guillotine Blocks块生成完毕:8430块
+生成时间20804ms
+运行时间:30001ms
+br11:==problem 12===>填充率为:0.9437926434431542
+Guillotine Blocks块生成完毕:4434块
+生成时间6277ms
+运行时间:30000ms
+br15:==problem 13===>填充率为:0.9404675432923381
+Guillotine Blocks块生成完毕:10000块
+生成时间2548ms
+运行时间:30000ms
+br10:==problem 13===>填充率为:0.9332161722215169
+Guillotine Blocks块生成完毕:9255块
+生成时间3383ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1646ms
+运行时间:30000ms
+br6:==problem 13===>填充率为:0.9635145940693169
+运行时间:30000ms
+br3:==problem 12===>填充率为:0.9472574263151213
+运行时间:30001ms
+br8:==problem 12===>填充率为:0.9458084881098532
+Guillotine Blocks块生成完毕:10000块
+生成时间1938ms
+Guillotine Blocks块生成完毕:5007块
+生成时间3546ms
+运行时间:30000ms
+br12:==problem 13===>填充率为:0.9322152622731693
+运行时间:30000ms
+br5:==problem 13===>填充率为:0.9595251119821387
+Guillotine Blocks块生成完毕:10000块
+生成时间3120ms
+运行时间:30000ms
+br7:==problem 14===>填充率为:0.9532154942468533
+运行时间:30001ms
+br13:==problem 13===>填充率为:0.9419915904554461
+运行时间:30001ms
+br9:==problem 13===>填充率为:0.9435358106882041
+Guillotine Blocks块生成完毕:5097块
+生成时间4085ms
+运行时间:30000ms
+br2:==problem 12===>填充率为:0.9550381826025055
+Guillotine Blocks块生成完毕:2766块
+生成时间788ms
+运行时间:30000ms
+br14:==problem 13===>填充率为:0.9369550030874434
+Guillotine Blocks块生成完毕:10000块
+生成时间3153ms
+运行时间:30000ms
+br4:==problem 13===>填充率为:0.9654603148859973
+Guillotine Blocks块生成完毕:10000块
+生成时间3337ms
+运行时间:30000ms
+br1:==problem 11===>填充率为:0.9254780884570826
+Guillotine Blocks块生成完毕:4039块
+生成时间2616ms
+运行时间:30000ms
+br11:==problem 13===>填充率为:0.9309884604724155
+Guillotine Blocks块生成完毕:10000块
+生成时间6006ms
+Guillotine Blocks块生成完毕:10000块
+生成时间10114ms
+运行时间:30000ms
+br15:==problem 14===>填充率为:0.9299405908083918
+运行时间:30000ms
+br10:==problem 14===>填充率为:0.9308876283582179
+Guillotine Blocks块生成完毕:4434块
+生成时间6953ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2153ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1265ms
+Guillotine Blocks块生成完毕:10000块
+生成时间6979ms
+运行时间:30001ms
+br3:==problem 13===>填充率为:0.9698330852965242
+运行时间:30000ms
+br6:==problem 14===>填充率为:0.9593517299321161
+Guillotine Blocks块生成完毕:10000块
+生成时间31804ms
+Guillotine Blocks块生成完毕:2426块
+生成时间545ms
+Guillotine Blocks块生成完毕:3768块
+生成时间1360ms
+运行时间:30001ms
+br12:==problem 14===>填充率为:0.929645804765896
+运行时间:30000ms
+br5:==problem 14===>填充率为:0.950804496700191
+Guillotine Blocks块生成完毕:10000块
+生成时间2552ms
+运行时间:30001ms
+br7:==problem 15===>填充率为:0.945683793946218
+Guillotine Blocks块生成完毕:8290块
+生成时间87143ms
+Guillotine Blocks块生成完毕:2156块
+生成时间422ms
+Guillotine Blocks块生成完毕:2941块
+生成时间1205ms
+运行时间:30001ms
+br13:==problem 14===>填充率为:0.9286795579339321
+运行时间:30000ms
+br9:==problem 14===>填充率为:0.9317856789151874
+运行时间:30001ms
+br4:==problem 14===>填充率为:0.9602728116872197
+运行时间:30000ms
+br14:==problem 14===>填充率为:0.9276391991656924
+Guillotine Blocks块生成完毕:10000块
+生成时间4924ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3816ms
+Guillotine Blocks块生成完毕:2829块
+生成时间543ms
+运行时间:30000ms
+br2:==problem 13===>填充率为:0.9679904897436392
+Guillotine Blocks块生成完毕:10000块
+生成时间1517ms
+运行时间:30001ms
+br1:==problem 12===>填充率为:0.9471268829583092
+Guillotine Blocks块生成完毕:3276块
+生成时间2219ms
+运行时间:30000ms
+br15:==problem 15===>填充率为:0.9308285714475624
+运行时间:30001ms
+br10:==problem 15===>填充率为:0.9420581582618857
+运行时间:30000ms
+br11:==problem 14===>填充率为:0.9344915622065018
+Guillotine Blocks块生成完毕:6853块
+生成时间1770ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2115ms
+Guillotine Blocks块生成完毕:10000块
+生成时间968ms
+运行时间:30000ms
+br8:==problem 13===>填充率为:0.9495857043060032
+运行时间:30033ms
+br6:==problem 15===>填充率为:0.9502986411925441
+运行时间:30000ms
+br3:==problem 14===>填充率为:0.9564208521078033
+Guillotine Blocks块生成完毕:10000块
+生成时间8184ms
+Guillotine Blocks块生成完毕:2730块
+生成时间752ms
+Guillotine Blocks块生成完毕:3378块
+生成时间1970ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4100ms
+运行时间:30000ms
+br12:==problem 15===>填充率为:0.9335327598022175
+运行时间:30000ms
+br0:==problem 10===>填充率为:0.7767962506671736
+运行时间:30000ms
+br7:==problem 16===>填充率为:0.9462010819678015
+运行时间:30001ms
+br5:==problem 15===>填充率为:0.9489582454015704
+Guillotine Blocks块生成完毕:10000块
+生成时间2499ms
+Guillotine Blocks块生成完毕:2357块
+生成时间536ms
+Guillotine Blocks块生成完毕:2798块
+生成时间980ms
+运行时间:30000ms
+br13:==problem 15===>填充率为:0.9286534692030008
+运行时间:30000ms
+br9:==problem 15===>填充率为:0.9316727496060103
+运行时间:30001ms
+br4:==problem 15===>填充率为:0.9613215454365991
+运行时间:30001ms
+br14:==problem 15===>填充率为:0.9318662382575785
+运行时间:30000ms
+br2:==problem 14===>填充率为:0.9501416102961753
+Guillotine Blocks块生成完毕:4202块
+生成时间3779ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4355ms
+Guillotine Blocks块生成完毕:6932块
+生成时间2262ms
+Guillotine Blocks块生成完毕:10000块
+生成时间6255ms
+运行时间:30000ms
+br15:==problem 16===>填充率为:0.9278758920850446
+运行时间:30000ms
+br10:==problem 16===>填充率为:0.9368321700307282
+运行时间:30000ms
+br11:==problem 15===>填充率为:0.9346746818338019
+Guillotine Blocks块生成完毕:5534块
+生成时间5634ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1733ms
+运行时间:30001ms
+br1:==problem 13===>填充率为:0.9750428220761844
+运行时间:30000ms
+br6:==problem 16===>填充率为:0.952954872809959
+Guillotine Blocks块生成完毕:10000块
+生成时间2050ms
+运行时间:30001ms
+br3:==problem 15===>填充率为:0.9609338702183676
+Guillotine Blocks块生成完毕:10000块
+生成时间3797ms
+Guillotine Blocks块生成完毕:2600块
+生成时间726ms
+运行时间:30000ms
+br8:==problem 14===>填充率为:0.9378817346314111
+Guillotine Blocks块生成完毕:4580块
+生成时间2242ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2018ms
+运行时间:30000ms
+br12:==problem 16===>填充率为:0.9304246115437815
+运行时间:30001ms
+br7:==problem 17===>填充率为:0.9478499894648055
+运行时间:30000ms
+br5:==problem 16===>填充率为:0.9507987139751183
+Guillotine Blocks块生成完毕:5446块
+生成时间9647ms
+Guillotine Blocks块生成完毕:1793块
+生成时间308ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1804ms
+Guillotine Blocks块生成完毕:2418块
+生成时间748ms
+运行时间:30000ms
+br4:==problem 16===>填充率为:0.95705768301494
+运行时间:30007ms
+br13:==problem 16===>填充率为:0.9342749094205909
+运行时间:30000ms
+br14:==problem 16===>填充率为:0.932644546524682
+运行时间:30001ms
+br9:==problem 16===>填充率为:0.9417807868627122
+Guillotine Blocks块生成完毕:2150块
+生成时间299ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2593ms
+运行时间:30001ms
+br2:==problem 15===>填充率为:0.966462188621857
+运行时间:30000ms
+br15:==problem 17===>填充率为:0.9346217732227925
+Guillotine Blocks块生成完毕:10000块
+生成时间5519ms
+运行时间:30001ms
+br11:==problem 16===>填充率为:0.9344931906750568
+Guillotine Blocks块生成完毕:10000块
+生成时间7899ms
+Guillotine Blocks块生成完毕:4659块
+生成时间635ms
+运行时间:30000ms
+br10:==problem 17===>填充率为:0.9359988926413827
+运行时间:30000ms
+br6:==problem 17===>填充率为:0.9485816703567542
+Guillotine Blocks块生成完毕:10000块
+生成时间2210ms
+Guillotine Blocks块生成完毕:1592块
+生成时间254ms
+运行时间:30000ms
+br3:==problem 16===>填充率为:0.9602287765681321
+运行时间:30000ms
+br8:==problem 15===>填充率为:0.9450951524146866
+Guillotine Blocks块生成完毕:10000块
+生成时间3448ms
+Guillotine Blocks块生成完毕:2106块
+生成时间625ms
+运行时间:30000ms
+br1:==problem 14===>填充率为:0.9517990589445796
+Guillotine Blocks块生成完毕:6724块
+生成时间11507ms
+运行时间:30001ms
+br7:==problem 18===>填充率为:0.9410960324523873
+运行时间:30001ms
+br12:==problem 17===>填充率为:0.9373864143182932
+Guillotine Blocks块生成完毕:10000块
+生成时间4293ms
+运行时间:30001ms
+br5:==problem 17===>填充率为:0.9524738763733142
+Guillotine Blocks块生成完毕:2898块
+生成时间1010ms
+Guillotine Blocks块生成完毕:1870块
+生成时间323ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2382ms
+Guillotine Blocks块生成完毕:9366块
+生成时间69440ms
+运行时间:30000ms
+br4:==problem 17===>填充率为:0.9475194103481532
+Guillotine Blocks块生成完毕:1581块
+生成时间249ms
+运行时间:30000ms
+br9:==problem 17===>填充率为:0.9407611661430088
+Guillotine Blocks块生成完毕:6768块
+生成时间15283ms
+运行时间:30000ms
+br14:==problem 17===>填充率为:0.9330823719275949
+Guillotine Blocks块生成完毕:10000块
+生成时间1135ms
+运行时间:30000ms
+br13:==problem 17===>填充率为:0.9356575789258887
+运行时间:30001ms
+br15:==problem 18===>填充率为:0.9243978820603251
+Guillotine Blocks块生成完毕:5448块
+生成时间654ms
+Guillotine Blocks块生成完毕:6204块
+生成时间998ms
+运行时间:30000ms
+br11:==problem 17===>填充率为:0.9401812319331384
+运行时间:30001ms
+br6:==problem 18===>填充率为:0.9454907705713798
+Guillotine Blocks块生成完毕:8970块
+生成时间3233ms
+运行时间:30001ms
+br10:==problem 18===>填充率为:0.9407966268766439
+运行时间:30000ms
+br3:==problem 17===>填充率为:0.9463857635955523
+Guillotine Blocks块生成完毕:2970块
+生成时间1231ms
+Guillotine Blocks块生成完毕:8400块
+生成时间2662ms
+Guillotine Blocks块生成完毕:1985块
+生成时间329ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1495ms
+运行时间:30001ms
+br2:==problem 16===>填充率为:0.9539156360233196
+运行时间:30000ms
+br8:==problem 16===>填充率为:0.9524986357421595
+运行时间:30001ms
+br7:==problem 19===>填充率为:0.9485432185584265
+运行时间:30001ms
+br5:==problem 18===>填充率为:0.9470211322043948
+运行时间:30000ms
+br12:==problem 18===>填充率为:0.9326578069114864
+Guillotine Blocks块生成完毕:2584块
+生成时间614ms
+运行时间:30000ms
+br0:==problem 11===>填充率为:0.7655444635060197
+Guillotine Blocks块生成完毕:4110块
+生成时间4378ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3619ms
+Guillotine Blocks块生成完毕:4060块
+生成时间2583ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3002ms
+运行时间:30001ms
+br4:==problem 18===>填充率为:0.9384426257294044
+运行时间:30001ms
+br1:==problem 15===>填充率为:0.9673774544178357
+运行时间:30001ms
+br9:==problem 18===>填充率为:0.941112882116823
+Guillotine Blocks块生成完毕:4744块
+生成时间3628ms
+运行时间:30000ms
+br14:==problem 18===>填充率为:0.9215260611466679
+运行时间:30000ms
+br13:==problem 18===>填充率为:0.9319158566974259
+Guillotine Blocks块生成完毕:5871块
+生成时间14351ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2054ms
+运行时间:30001ms
+br15:==problem 19===>填充率为:0.9299657489858629
+Guillotine Blocks块生成完毕:10000块
+生成时间1053ms
+运行时间:30000ms
+br6:==problem 19===>填充率为:0.9566350455738557
+Guillotine Blocks块生成完毕:10000块
+生成时间4329ms
+运行时间:30000ms
+br11:==problem 18===>填充率为:0.9356529926266932
+运行时间:30001ms
+br3:==problem 18===>填充率为:0.9341885008850228
+运行时间:30001ms
+br10:==problem 19===>填充率为:0.9494496440965356
+Guillotine Blocks块生成完毕:6936块
+生成时间2255ms
+Guillotine Blocks块生成完毕:3022块
+生成时间1202ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1390ms
+运行时间:30000ms
+br7:==problem 20===>填充率为:0.9503474952491923
+运行时间:30000ms
+br2:==problem 17===>填充率为:0.9648221546167748
+Guillotine Blocks块生成完毕:10000块
+生成时间5878ms
+运行时间:30001ms
+br8:==problem 17===>填充率为:0.9415469853058962
+运行时间:30001ms
+br5:==problem 19===>填充率为:0.9575417702184341
+Guillotine Blocks块生成完毕:2490块
+生成时间716ms
+运行时间:30000ms
+br12:==problem 19===>填充率为:0.9359499388825782
+Guillotine Blocks块生成完毕:10000块
+生成时间1916ms
+Guillotine Blocks块生成完毕:3337块
+生成时间2580ms
+Guillotine Blocks块生成完毕:3506块
+生成时间923ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1548ms
+Guillotine Blocks块生成完毕:7801块
+生成时间15166ms
+运行时间:30000ms
+br4:==problem 19===>填充率为:0.960957898438066
+运行时间:30000ms
+br0:==problem 12===>填充率为:0.9358044402023024
+运行时间:30012ms
+br9:==problem 19===>填充率为:0.9393578915253832
+Guillotine Blocks块生成完毕:3805块
+生成时间2376ms
+运行时间:30001ms
+br13:==problem 19===>填充率为:0.9305988576791598
+运行时间:30000ms
+br14:==problem 19===>填充率为:0.9230629698879547
+Guillotine Blocks块生成完毕:10000块
+生成时间2871ms
+运行时间:30000ms
+br15:==problem 20===>填充率为:0.9299832965653937
+运行时间:30000ms
+br6:==problem 20===>填充率为:0.9536847590630921
+Guillotine Blocks块生成完毕:10000块
+生成时间2478ms
+运行时间:30001ms
+br11:==problem 19===>填充率为:0.9436326547161447
+Guillotine Blocks块生成完毕:8530块
+生成时间1905ms
+Guillotine Blocks块生成完毕:2428块
+生成时间800ms
+Guillotine Blocks块生成完毕:9688块
+生成时间44020ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1916ms
+Guillotine Blocks块生成完毕:10000块
+生成时间5147ms
+运行时间:30002ms
+br10:==problem 20===>填充率为:0.9405476041239471
+运行时间:30000ms
+br7:==problem 21===>填充率为:0.9501573964709424
+运行时间:30000ms
+br8:==problem 18===>填充率为:0.9445818192453078
+运行时间:30000ms
+br2:==problem 18===>填充率为:0.9516929093820394
+运行时间:30000ms
+br5:==problem 20===>填充率为:0.9600551286456924
+Guillotine Blocks块生成完毕:3052块
+生成时间965ms
+Guillotine Blocks块生成完毕:10000块
+生成时间18019ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3836ms
+运行时间:30000ms
+br12:==problem 20===>填充率为:0.9347164570373437
+Guillotine Blocks块生成完毕:2678块
+生成时间925ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1621ms
+运行时间:30003ms
+br3:==problem 19===>填充率为:0.9683642731280754
+Guillotine Blocks块生成完毕:10000块
+生成时间2768ms
+Guillotine Blocks块生成完毕:4087块
+生成时间2743ms
+运行时间:30001ms
+br4:==problem 20===>填充率为:0.9605646066650226
+Guillotine Blocks块生成完毕:7157块
+生成时间12366ms
+Guillotine Blocks块生成完毕:2366块
+生成时间831ms
+运行时间:30007ms
+br9:==problem 20===>填充率为:0.9382292298806033
+运行时间:30000ms
+br13:==problem 20===>填充率为:0.9382034070220894
+运行时间:30001ms
+br14:==problem 20===>填充率为:0.9325876498274156
+运行时间:30000ms
+br6:==problem 21===>填充率为:0.9461693102139542
+运行时间:30000ms
+br1:==problem 16===>填充率为:0.946346048903243
+运行时间:30000ms
+br11:==problem 20===>填充率为:0.9322590315198397
+Guillotine Blocks块生成完毕:7830块
+生成时间2711ms
+Guillotine Blocks块生成完毕:10000块
+生成时间5357ms
+Guillotine Blocks块生成完毕:9653块
+生成时间4128ms
+运行时间:30000ms
+br15:==problem 21===>填充率为:0.9227895865750382
+Guillotine Blocks块生成完毕:3930块
+生成时间2433ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3871ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3051ms
+运行时间:30001ms
+br7:==problem 22===>填充率为:0.960894753738997
+运行时间:30000ms
+br0:==problem 13===>填充率为:0.9736513787811212
+运行时间:30000ms
+br10:==problem 21===>填充率为:0.9293588287256536
+Guillotine Blocks块生成完毕:10000块
+生成时间9660ms
+运行时间:30000ms
+br5:==problem 21===>填充率为:0.9533037638893412
+运行时间:30000ms
+br8:==problem 19===>填充率为:0.9498790612842568
+Guillotine Blocks块生成完毕:3504块
+生成时间1952ms
+Guillotine Blocks块生成完毕:3131块
+生成时间1118ms
+运行时间:30000ms
+br12:==problem 21===>填充率为:0.9340371530115701
+Guillotine Blocks块生成完毕:10000块
+生成时间3522ms
+运行时间:30001ms
+br3:==problem 20===>填充率为:0.9613264640763161
+Guillotine Blocks块生成完毕:1854块
+生成时间420ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3025ms
+Guillotine Blocks块生成完毕:10000块
+生成时间9077ms
+Guillotine Blocks块生成完毕:10000块
+生成时间9469ms
+运行时间:30000ms
+br2:==problem 19===>填充率为:0.9535102470552969
+运行时间:30000ms
+br4:==problem 21===>填充率为:0.9552721503295821
+Guillotine Blocks块生成完毕:3084块
+生成时间1382ms
+Guillotine Blocks块生成完毕:3891块
+生成时间2701ms
+运行时间:30001ms
+br14:==problem 21===>填充率为:0.9296457050637396
+运行时间:30004ms
+br9:==problem 21===>填充率为:0.9335884933076589
+运行时间:30000ms
+br13:==problem 21===>填充率为:0.9381356760238249
+运行时间:30000ms
+br6:==problem 22===>填充率为:0.9554011981540478
+Guillotine Blocks块生成完毕:2704块
+生成时间808ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1366ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2367ms
+运行时间:30001ms
+br11:==problem 21===>填充率为:0.9357518306977622
+运行时间:30000ms
+br15:==problem 22===>填充率为:0.9291285499783646
+运行时间:30000ms
+br1:==problem 17===>填充率为:0.9797262311720786
+Guillotine Blocks块生成完毕:5338块
+生成时间1117ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2655ms
+运行时间:30001ms
+br7:==problem 23===>填充率为:0.9534982163284216
+Guillotine Blocks块生成完毕:2425块
+生成时间1332ms
+运行时间:30001ms
+br5:==problem 22===>填充率为:0.9577621119841327
+Guillotine Blocks块生成完毕:10000块
+生成时间10564ms
+Guillotine Blocks块生成完毕:1748块
+生成时间270ms
+运行时间:30000ms
+br8:==problem 20===>填充率为:0.9394299761844782
+Guillotine Blocks块生成完毕:3692块
+生成时间1990ms
+运行时间:30000ms
+br3:==problem 21===>填充率为:0.9519018186338013
+运行时间:30000ms
+br12:==problem 22===>填充率为:0.9234375841236945
+运行时间:30045ms
+br10:==problem 22===>填充率为:0.9340194060277265
+运行时间:30000ms
+br0:==problem 14===>填充率为:0.9550222302574775
+Guillotine Blocks块生成完毕:10000块
+生成时间3428ms
+Guillotine Blocks块生成完毕:3876块
+生成时间2528ms
+Guillotine Blocks块生成完毕:9694块
+生成时间4035ms
+运行时间:30001ms
+br4:==problem 22===>填充率为:0.9611696990523643
+运行时间:30004ms
+br2:==problem 20===>填充率为:0.9517867623452871
+Guillotine Blocks块生成完毕:10000块
+生成时间4753ms
+Guillotine Blocks块生成完毕:2430块
+生成时间762ms
+Guillotine Blocks块生成完毕:2202块
+生成时间978ms
+Guillotine Blocks块生成完毕:10000块
+生成时间10958ms
+运行时间:30000ms
+br6:==problem 23===>填充率为:0.9556180171102194
+运行时间:30115ms
+br13:==problem 22===>填充率为:0.9271429150650623
+运行时间:30000ms
+br14:==problem 22===>填充率为:0.9306391705844075
+Guillotine Blocks块生成完毕:1820块
+生成时间369ms
+Guillotine Blocks块生成完毕:5471块
+生成时间1114ms
+Guillotine Blocks块生成完毕:6951块
+生成时间2337ms
+运行时间:30000ms
+br15:==problem 23===>填充率为:0.9302009463728688
+运行时间:30000ms
+br11:==problem 22===>填充率为:0.9332395357601725
+运行时间:30000ms
+br1:==problem 18===>填充率为:0.9115996812189718
+Guillotine Blocks块生成完毕:4738块
+生成时间671ms
+运行时间:30000ms
+br9:==problem 22===>填充率为:0.9361415331931743
+运行时间:30000ms
+br7:==problem 24===>填充率为:0.9498520087658135
+Guillotine Blocks块生成完毕:10000块
+生成时间2013ms
+Guillotine Blocks块生成完毕:2741块
+生成时间849ms
+运行时间:30000ms
+br5:==problem 23===>填充率为:0.9551156844120996
+Guillotine Blocks块生成完毕:10000块
+生成时间2666ms
+Guillotine Blocks块生成完毕:2466块
+生成时间655ms
+运行时间:30000ms
+br8:==problem 21===>填充率为:0.9376714295494593
+运行时间:30008ms
+br3:==problem 22===>填充率为:0.9679000266537098
+运行时间:30001ms
+br12:==problem 23===>填充率为:0.9338277784830782
+运行时间:30001ms
+br10:==problem 23===>填充率为:0.935649901859844
+Guillotine Blocks块生成完毕:3606块
+生成时间2502ms
+运行时间:30001ms
+br4:==problem 23===>填充率为:0.9545912510693056
+运行时间:30000ms
+br2:==problem 21===>填充率为:0.9498555315753406
+Guillotine Blocks块生成完毕:10000块
+生成时间2722ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3704ms
+Guillotine Blocks块生成完毕:3032块
+生成时间1525ms
+运行时间:30000ms
+br0:==problem 15===>填充率为:0.9197856270700661
+Guillotine Blocks块生成完毕:10000块
+生成时间10773ms
+Guillotine Blocks块生成完毕:4052块
+生成时间3609ms
+Guillotine Blocks块生成完毕:7634块
+生成时间21122ms
+运行时间:30000ms
+br6:==problem 24===>填充率为:0.9480005064869547
+运行时间:30000ms
+br14:==problem 23===>填充率为:0.9391987668837294
+运行时间:30001ms
+br13:==problem 23===>填充率为:0.944809339566269
+Guillotine Blocks块生成完毕:3486块
+生成时间894ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1661ms
+运行时间:30001ms
+br15:==problem 24===>填充率为:0.9238099052098365
+Guillotine Blocks块生成完毕:8216块
+生成时间2590ms
+运行时间:30000ms
+br11:==problem 23===>填充率为:0.9355889838422685
+Guillotine Blocks块生成完毕:10000块
+生成时间11312ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1405ms
+运行时间:30001ms
+br7:==problem 25===>填充率为:0.943238831198267
+运行时间:30000ms
+br9:==problem 23===>填充率为:0.9356331851316169
+运行时间:30001ms
+br5:==problem 24===>填充率为:0.946099286066092
+Guillotine Blocks块生成完毕:10000块
+生成时间3244ms
+Guillotine Blocks块生成完毕:3573块
+生成时间1574ms
+Guillotine Blocks块生成完毕:3855块
+生成时间2541ms
+运行时间:30001ms
+br3:==problem 23===>填充率为:0.9563899112052595
+Guillotine Blocks块生成完毕:10000块
+生成时间7674ms
+运行时间:30000ms
+br12:==problem 24===>填充率为:0.9331026446994013
+Guillotine Blocks块生成完毕:3112块
+生成时间1717ms
+运行时间:30000ms
+br10:==problem 24===>填充率为:0.9279269728231861
+运行时间:30001ms
+br4:==problem 24===>填充率为:0.9493164752496044
+Guillotine Blocks块生成完毕:10000块
+生成时间1145ms
+运行时间:30001ms
+br8:==problem 22===>填充率为:0.9486903457072572
+运行时间:30011ms
+br2:==problem 22===>填充率为:0.944615186233658
+Guillotine Blocks块生成完毕:10000块
+生成时间1587ms
+运行时间:30000ms
+br1:==problem 19===>填充率为:0.94961358767575
+Guillotine Blocks块生成完毕:3828块
+生成时间1800ms
+Guillotine Blocks块生成完毕:3636块
+生成时间1957ms
+Guillotine Blocks块生成完毕:3061块
+生成时间2341ms
+运行时间:30000ms
+br6:==problem 25===>填充率为:0.9454980488287987
+Guillotine Blocks块生成完毕:10000块
+生成时间5061ms
+运行时间:30001ms
+br14:==problem 24===>填充率为:0.9353702040770205
+运行时间:30000ms
+br13:==problem 24===>填充率为:0.9343046871313098
+Guillotine Blocks块生成完毕:4215块
+生成时间2100ms
+运行时间:30000ms
+br0:==problem 16===>填充率为:0.8360025816211704
+运行时间:30001ms
+br15:==problem 25===>填充率为:0.9266250288305402
+Guillotine Blocks块生成完毕:10000块
+生成时间3013ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1357ms
+运行时间:30001ms
+br11:==problem 24===>填充率为:0.9284970032855184
+运行时间:30001ms
+br7:==problem 26===>填充率为:0.9486998174121175
+Guillotine Blocks块生成完毕:2570块
+生成时间699ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1644ms
+运行时间:30000ms
+br5:==problem 25===>填充率为:0.9415719773131066
+Guillotine Blocks块生成完毕:10000块
+生成时间7362ms
+Guillotine Blocks块生成完毕:10000块
+生成时间8061ms
+运行时间:30000ms
+br9:==problem 24===>填充率为:0.9406568776873886
+Guillotine Blocks块生成完毕:4893块
+生成时间4420ms
+运行时间:30000ms
+br3:==problem 24===>填充率为:0.9473774012433523
+Guillotine Blocks块生成完毕:10000块
+生成时间1787ms
+运行时间:30004ms
+br12:==problem 25===>填充率为:0.9246827311212306
+运行时间:30000ms
+br10:==problem 25===>填充率为:0.9369020280083298
+运行时间:30000ms
+br4:==problem 25===>填充率为:0.9508506920326677
+Guillotine Blocks块生成完毕:3798块
+生成时间3162ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1871ms
+运行时间:30000ms
+br2:==problem 23===>填充率为:0.9237350953584658
+运行时间:30001ms
+br1:==problem 20===>填充率为:0.9389698839666304
+运行时间:30001ms
+br8:==problem 23===>填充率为:0.9428005737526761
+Guillotine Blocks块生成完毕:4349块
+生成时间3216ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4641ms
+Guillotine Blocks块生成完毕:2836块
+生成时间1581ms
+Guillotine Blocks块生成完毕:2732块
+生成时间2034ms
+运行时间:30001ms
+br6:==problem 26===>填充率为:0.9541576796250667
+运行时间:30001ms
+br14:==problem 25===>填充率为:0.9283871315091383
+Guillotine Blocks块生成完毕:10000块
+生成时间4327ms
+运行时间:30000ms
+br13:==problem 25===>填充率为:0.9284341909269709
+Guillotine Blocks块生成完毕:3265块
+生成时间1410ms
+运行时间:30000ms
+br7:==problem 27===>填充率为:0.9556725541897837
+运行时间:30001ms
+br11:==problem 25===>填充率为:0.936581153234903
+Guillotine Blocks块生成完毕:10000块
+生成时间5162ms
+Guillotine Blocks块生成完毕:10000块
+生成时间5274ms
+运行时间:30001ms
+br0:==problem 17===>填充率为:0.9274454114076549
+运行时间:30000ms
+br15:==problem 26===>填充率为:0.925581014316565
+Guillotine Blocks块生成完毕:10000块
+生成时间1633ms
+Guillotine Blocks块生成完毕:4090块
+生成时间2505ms
+运行时间:30001ms
+br5:==problem 26===>填充率为:0.9506978486268687
+运行时间:30001ms
+br9:==problem 25===>填充率为:0.9336532332412307
+Guillotine Blocks块生成完毕:10000块
+生成时间3634ms
+Guillotine Blocks块生成完毕:3511块
+生成时间919ms
+运行时间:30001ms
+br3:==problem 25===>填充率为:0.9433570779557867
+运行时间:30000ms
+br12:==problem 26===>填充率为:0.9348719591673141
+Guillotine Blocks块生成完毕:10000块
+生成时间5270ms
+Guillotine Blocks块生成完毕:10000块
+生成时间12441ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1501ms
+运行时间:30001ms
+br4:==problem 26===>填充率为:0.9591667491978961
+Guillotine Blocks块生成完毕:4262块
+生成时间3389ms
+运行时间:30001ms
+br10:==problem 26===>填充率为:0.9350151979320444
+运行时间:30000ms
+br2:==problem 24===>填充率为:0.946119492369794
+运行时间:30000ms
+br1:==problem 21===>填充率为:0.9404812689558725
+Guillotine Blocks块生成完毕:3485块
+生成时间1378ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2994ms
+运行时间:30001ms
+br8:==problem 24===>填充率为:0.9415791226343171
+运行时间:30000ms
+br6:==problem 27===>填充率为:0.9529461654882979
+Guillotine Blocks块生成完毕:4474块
+生成时间2029ms
+运行时间:30000ms
+br14:==problem 26===>填充率为:0.9252125151464192
+运行时间:30000ms
+br13:==problem 26===>填充率为:0.9289063471057462
+Guillotine Blocks块生成完毕:10000块
+生成时间5579ms
+Guillotine Blocks块生成完毕:6306块
+生成时间11152ms
+运行时间:30000ms
+br11:==problem 26===>填充率为:0.9309128530037933
+运行时间:30001ms
+br7:==problem 28===>填充率为:0.9431628249210193
+Guillotine Blocks块生成完毕:10000块
+生成时间2579ms
+Guillotine Blocks块生成完毕:10000块
+生成时间574ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3636ms
+Guillotine Blocks块生成完毕:2382块
+生成时间542ms
+Guillotine Blocks块生成完毕:6388块
+生成时间15194ms
+运行时间:30000ms
+br15:==problem 27===>填充率为:0.9270114743888423
+运行时间:30001ms
+br5:==problem 27===>填充率为:0.9540767214740499
+Guillotine Blocks块生成完毕:10000块
+生成时间2295ms
+运行时间:30001ms
+br9:==problem 26===>填充率为:0.9467153456906402
+运行时间:30001ms
+br0:==problem 18===>填充率为:0.9466919156838803
+运行时间:30000ms
+br12:==problem 27===>填充率为:0.941949782017852
+Guillotine Blocks块生成完毕:10000块
+生成时间5541ms
+运行时间:30000ms
+br3:==problem 26===>填充率为:0.959805939722735
+运行时间:30001ms
+br4:==problem 27===>填充率为:0.9571177037131077
+Guillotine Blocks块生成完毕:10000块
+生成时间3730ms
+Guillotine Blocks块生成完毕:3739块
+生成时间2111ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3806ms
+运行时间:30000ms
+br10:==problem 27===>填充率为:0.9377021378136381
+Guillotine Blocks块生成完毕:10000块
+生成时间5934ms
+Guillotine Blocks块生成完毕:10000块
+生成时间588ms
+运行时间:30001ms
+br6:==problem 28===>填充率为:0.9517137803667843
+Guillotine Blocks块生成完毕:10000块
+生成时间7040ms
+运行时间:30001ms
+br8:==problem 25===>填充率为:0.9410464804806442
+运行时间:30007ms
+br2:==problem 25===>填充率为:0.957893851766822
+Guillotine Blocks块生成完毕:3468块
+生成时间1295ms
+运行时间:30000ms
+br13:==problem 27===>填充率为:0.935612114742559
+运行时间:30001ms
+br11:==problem 27===>填充率为:0.9390304364096322
+运行时间:30040ms
+br14:==problem 27===>填充率为:0.9295241349010057
+运行时间:30000ms
+br7:==problem 29===>填充率为:0.9481760155163143
+运行时间:30000ms
+br1:==problem 22===>填充率为:0.9561225432557806
+Guillotine Blocks块生成完毕:3494块
+生成时间784ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1495ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1878ms
+运行时间:30000ms
+br15:==problem 28===>填充率为:0.9315548684230641
+Guillotine Blocks块生成完毕:10000块
+生成时间9512ms
+Guillotine Blocks块生成完毕:10000块
+生成时间5212ms
+Guillotine Blocks块生成完毕:4972块
+生成时间5315ms
+Guillotine Blocks块生成完毕:5705块
+生成时间11762ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1922ms
+运行时间:30000ms
+br5:==problem 28===>填充率为:0.9521227586124384
+Guillotine Blocks块生成完毕:3183块
+生成时间1424ms
+运行时间:30000ms
+br9:==problem 27===>填充率为:0.9394251904809698
+运行时间:30000ms
+br3:==problem 27===>填充率为:0.9583658417753365
+运行时间:30000ms
+br12:==problem 28===>填充率为:0.9313811872665724
+运行时间:30001ms
+br0:==problem 19===>填充率为:0.9518764278179651
+Guillotine Blocks块生成完毕:10000块
+生成时间2470ms
+Guillotine Blocks块生成完毕:10000块
+生成时间792ms
+运行时间:30000ms
+br10:==problem 28===>填充率为:0.9388325276291293
+运行时间:30001ms
+br4:==problem 28===>填充率为:0.9602072076682923
+Guillotine Blocks块生成完毕:10000块
+生成时间3190ms
+运行时间:30000ms
+br6:==problem 29===>填充率为:0.9543631990035102
+Guillotine Blocks块生成完毕:7288块
+生成时间9647ms
+Guillotine Blocks块生成完毕:3925块
+生成时间2319ms
+Guillotine Blocks块生成完毕:3644块
+生成时间1775ms
+Guillotine Blocks块生成完毕:4743块
+生成时间11991ms
+运行时间:30000ms
+br7:==problem 30===>填充率为:0.9485987858936071
+运行时间:30000ms
+br14:==problem 28===>填充率为:0.9266815267191809
+运行时间:30000ms
+br11:==problem 28===>填充率为:0.933289187434072
+运行时间:30000ms
+br8:==problem 26===>填充率为:0.935666784758332
+运行时间:30020ms
+br13:==problem 28===>填充率为:0.9343573631039541
+Guillotine Blocks块生成完毕:10000块
+生成时间1346ms
+Guillotine Blocks块生成完毕:4166块
+生成时间2631ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2405ms
+运行时间:30000ms
+br1:==problem 23===>填充率为:0.9552692922010979
+运行时间:30000ms
+br2:==problem 26===>填充率为:0.9593582105722838
+Guillotine Blocks块生成完毕:10000块
+生成时间905ms
+运行时间:30000ms
+br15:==problem 29===>填充率为:0.9267341029896689
+Guillotine Blocks块生成完毕:6812块
+生成时间1953ms
+运行时间:30000ms
+br5:==problem 29===>填充率为:0.9492528652738054
+Guillotine Blocks块生成完毕:3825块
+生成时间4237ms
+Guillotine Blocks块生成完毕:4281块
+生成时间1736ms
+运行时间:30000ms
+br9:==problem 28===>填充率为:0.9399093773866204
+运行时间:30052ms
+br12:==problem 29===>填充率为:0.9309919832819424
+Guillotine Blocks块生成完毕:5460块
+生成时间10619ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2404ms
+运行时间:30000ms
+br10:==problem 29===>填充率为:0.9365646359109886
+Guillotine Blocks块生成完毕:10000块
+生成时间4053ms
+运行时间:30000ms
+br3:==problem 28===>填充率为:0.9614653159461635
+运行时间:30000ms
+br4:==problem 29===>填充率为:0.9553666679738727
+运行时间:30000ms
+br6:==problem 30===>填充率为:0.9512564798093163
+Guillotine Blocks块生成完毕:10000块
+生成时间2432ms
+运行时间:30000ms
+br0:==problem 20===>填充率为:0.9502058184849127
+Guillotine Blocks块生成完毕:4031块
+生成时间2633ms
+Guillotine Blocks块生成完毕:4871块
+生成时间3818ms
+Guillotine Blocks块生成完毕:2502块
+生成时间2273ms
+运行时间:30000ms
+br14:==problem 29===>填充率为:0.9227981609604907
+运行时间:30000ms
+br7:==problem 31===>填充率为:0.9490974628459914
+运行时间:30000ms
+br11:==problem 29===>填充率为:0.9340429689706948
+运行时间:30001ms
+br13:==problem 29===>填充率为:0.9296512551504472
+Guillotine Blocks块生成完毕:3188块
+生成时间1309ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1833ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4078ms
+运行时间:30000ms
+br15:==problem 30===>填充率为:0.9318868433699063
+Guillotine Blocks块生成完毕:10000块
+生成时间2943ms
+运行时间:30000ms
+br2:==problem 27===>填充率为:0.9613022696863569
+运行时间:30000ms
+br5:==problem 30===>填充率为:0.952614456413873
+Guillotine Blocks块生成完毕:7453块
+生成时间2696ms
+Guillotine Blocks块生成完毕:10000块
+生成时间41682ms
+运行时间:30001ms
+br1:==problem 24===>填充率为:0.9380517268081152
+Guillotine Blocks块生成完毕:8938块
+生成时间22209ms
+Guillotine Blocks块生成完毕:3806块
+生成时间1498ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4845ms
+运行时间:30000ms
+br12:==problem 30===>填充率为:0.9320144288960778
+运行时间:30000ms
+br9:==problem 29===>填充率为:0.9347121698446175
+运行时间:30000ms
+br10:==problem 30===>填充率为:0.9358646603047829
+Guillotine Blocks块生成完毕:10000块
+生成时间4221ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2841ms
+运行时间:30001ms
+br6:==problem 31===>填充率为:0.9489917453261291
+运行时间:30000ms
+br4:==problem 30===>填充率为:0.9582847839221632
+Guillotine Blocks块生成完毕:10000块
+生成时间3483ms
+运行时间:30000ms
+br0:==problem 21===>填充率为:0.8732281763611505
+Guillotine Blocks块生成完毕:3552块
+生成时间1673ms
+Guillotine Blocks块生成完毕:4537块
+生成时间3893ms
+运行时间:30001ms
+br7:==problem 32===>填充率为:0.9524644046684537
+运行时间:30000ms
+br11:==problem 30===>填充率为:0.9389969364850735
+运行时间:30000ms
+br14:==problem 30===>填充率为:0.9313879670132093
+Guillotine Blocks块生成完毕:3113块
+生成时间1255ms
+运行时间:30000ms
+br13:==problem 30===>填充率为:0.9317113675745988
+Guillotine Blocks块生成完毕:7324块
+生成时间22267ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1539ms
+运行时间:30000ms
+br15:==problem 31===>填充率为:0.9369550695555477
+Guillotine Blocks块生成完毕:10000块
+生成时间4323ms
+运行时间:30000ms
+br8:==problem 27===>填充率为:0.9504945226958665
+Guillotine Blocks块生成完毕:10000块
+生成时间4816ms
+运行时间:30000ms
+br3:==problem 29===>填充率为:0.9641537513601036
+运行时间:30000ms
+br5:==problem 31===>填充率为:0.9535045640323806
+运行时间:30000ms
+br2:==problem 28===>填充率为:0.9510954940607426
+Guillotine Blocks块生成完毕:10000块
+生成时间4510ms
+Guillotine Blocks块生成完毕:5140块
+生成时间3759ms
+Guillotine Blocks块生成完毕:10000块
+生成时间6114ms
+Guillotine Blocks块生成完毕:5759块
+生成时间5451ms
+运行时间:30000ms
+br12:==problem 31===>填充率为:0.9355513296611921
+运行时间:30000ms
+br9:==problem 30===>填充率为:0.9437371758101298
+Guillotine Blocks块生成完毕:10000块
+生成时间2619ms
+运行时间:30000ms
+br10:==problem 31===>填充率为:0.9376348388580514
+运行时间:30000ms
+br6:==problem 32===>填充率为:0.9502565004144287
+Guillotine Blocks块生成完毕:10000块
+生成时间7115ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2737ms
+运行时间:30001ms
+br4:==problem 31===>填充率为:0.9491939080653062
+Guillotine Blocks块生成完毕:7628块
+生成时间17992ms
+Guillotine Blocks块生成完毕:5307块
+生成时间3695ms
+运行时间:30000ms
+br7:==problem 33===>填充率为:0.9462864602477532
+Guillotine Blocks块生成完毕:4870块
+生成时间3176ms
+Guillotine Blocks块生成完毕:7104块
+生成时间37255ms
+运行时间:30000ms
+br1:==problem 25===>填充率为:0.9436091250072284
+运行时间:30035ms
+br11:==problem 31===>填充率为:0.934235028558021
+Guillotine Blocks块生成完毕:2114块
+生成时间428ms
+运行时间:30003ms
+br14:==problem 31===>填充率为:0.9272285924514833
+Guillotine Blocks块生成完毕:10000块
+生成时间1901ms
+运行时间:30000ms
+br13:==problem 31===>填充率为:0.9328787801241757
+Guillotine Blocks块生成完毕:4171块
+生成时间4682ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1468ms
+运行时间:30000ms
+br15:==problem 32===>填充率为:0.9300971231939785
+Guillotine Blocks块生成完毕:10000块
+生成时间4180ms
+运行时间:30000ms
+br5:==problem 32===>填充率为:0.9593100211966784
+运行时间:30000ms
+br8:==problem 28===>填充率为:0.9431241072502744
+运行时间:30000ms
+br3:==problem 30===>填充率为:0.9596676528317739
+Guillotine Blocks块生成完毕:8744块
+生成时间3160ms
+Guillotine Blocks块生成完毕:4476块
+生成时间1670ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2769ms
+运行时间:30000ms
+br12:==problem 32===>填充率为:0.9417727442220939
+Guillotine Blocks块生成完毕:5240块
+生成时间5850ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1553ms
+运行时间:30001ms
+br9:==problem 31===>填充率为:0.9354417569912814
+运行时间:30000ms
+br10:==problem 32===>填充率为:0.9360442903566081
+运行时间:30000ms
+br2:==problem 29===>填充率为:0.9751090243080505
+运行时间:30000ms
+br6:==problem 33===>填充率为:0.9548942791567324
+运行时间:30001ms
+br4:==problem 32===>填充率为:0.9586866833147112
+运行时间:30000ms
+br0:==problem 22===>填充率为:0.8997720808704132
+Guillotine Blocks块生成完毕:10000块
+生成时间4035ms
+Guillotine Blocks块生成完毕:2488块
+生成时间644ms
+运行时间:30001ms
+br7:==problem 34===>填充率为:0.9446184431707678
+Guillotine Blocks块生成完毕:4654块
+生成时间1834ms
+运行时间:30000ms
+br11:==problem 32===>填充率为:0.9323081846829571
+Guillotine Blocks块生成完毕:10000块
+生成时间8409ms
+Guillotine Blocks块生成完毕:3869块
+生成时间2065ms
+Guillotine Blocks块生成完毕:10000块
+生成时间7709ms
+运行时间:30001ms
+br1:==problem 26===>填充率为:0.9464968982659137
+Guillotine Blocks块生成完毕:10000块
+生成时间2578ms
+运行时间:30001ms
+br13:==problem 32===>填充率为:0.936262372206761
+运行时间:30000ms
+br14:==problem 32===>填充率为:0.938912289354269
+Guillotine Blocks块生成完毕:3828块
+生成时间3450ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1954ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2128ms
+运行时间:30001ms
+br15:==problem 33===>填充率为:0.9299051300747567
+运行时间:30000ms
+br5:==problem 33===>填充率为:0.9590555812934826
+运行时间:30000ms
+br8:==problem 29===>填充率为:0.9463191625550605
+Guillotine Blocks块生成完毕:5638块
+生成时间1289ms
+Guillotine Blocks块生成完毕:2922块
+生成时间1159ms
+运行时间:30001ms
+br3:==problem 31===>填充率为:0.9602651013871228
+Guillotine Blocks块生成完毕:10000块
+生成时间2851ms
+运行时间:30000ms
+br12:==problem 33===>填充率为:0.9258407051999992
+Guillotine Blocks块生成完毕:4546块
+生成时间3553ms
+Guillotine Blocks块生成完毕:9360块
+生成时间3787ms
+运行时间:30000ms
+br10:==problem 33===>填充率为:0.9390662959518931
+运行时间:30000ms
+br6:==problem 34===>填充率为:0.9497907916417688
+运行时间:30000ms
+br4:==problem 33===>填充率为:0.9658060154963738
+Guillotine Blocks块生成完毕:3763块
+生成时间1273ms
+运行时间:30001ms
+br9:==problem 32===>填充率为:0.9391760680261166
+运行时间:30000ms
+br7:==problem 35===>填充率为:0.9455954578356257
+Guillotine Blocks块生成完毕:10000块
+生成时间3307ms
+运行时间:30000ms
+br2:==problem 30===>填充率为:0.9790192099468189
+Guillotine Blocks块生成完毕:3922块
+生成时间2420ms
+Guillotine Blocks块生成完毕:3008块
+生成时间975ms
+运行时间:30000ms
+br11:==problem 33===>填充率为:0.9343271865846096
+Guillotine Blocks块生成完毕:10000块
+生成时间2786ms
+运行时间:30000ms
+br1:==problem 27===>填充率为:0.9284898911983601
+运行时间:30000ms
+br13:==problem 33===>填充率为:0.931872685663694
+运行时间:30000ms
+br14:==problem 33===>填充率为:0.9288485530890719
+Guillotine Blocks块生成完毕:10000块
+生成时间3987ms
+Guillotine Blocks块生成完毕:7369块
+生成时间1678ms
+运行时间:30001ms
+br15:==problem 34===>填充率为:0.9258073049775969
+运行时间:30000ms
+br5:==problem 34===>填充率为:0.9517449539076931
+Guillotine Blocks块生成完毕:8116块
+生成时间3087ms
+运行时间:30001ms
+br8:==problem 30===>填充率为:0.9508316489207906
+Guillotine Blocks块生成完毕:10000块
+生成时间2261ms
+Guillotine Blocks块生成完毕:3884块
+生成时间2422ms
+Guillotine Blocks块生成完毕:6600块
+生成时间10877ms
+运行时间:30000ms
+br3:==problem 32===>填充率为:0.9624120876235726
+运行时间:30001ms
+br12:==problem 34===>填充率为:0.9308089965908509
+Guillotine Blocks块生成完毕:8451块
+生成时间21216ms
+Guillotine Blocks块生成完毕:10000块
+生成时间7895ms
+Guillotine Blocks块生成完毕:7106块
+生成时间61265ms
+运行时间:30000ms
+br6:==problem 35===>填充率为:0.9517520659948514
+Guillotine Blocks块生成完毕:10000块
+生成时间3175ms
+Guillotine Blocks块生成完毕:5437块
+生成时间6020ms
+运行时间:30001ms
+br10:==problem 34===>填充率为:0.937227223208535
+Guillotine Blocks块生成完毕:2768块
+生成时间836ms
+运行时间:30001ms
+br4:==problem 34===>填充率为:0.9528141598331916
+运行时间:30001ms
+br7:==problem 36===>填充率为:0.9507525518766937
+运行时间:30000ms
+br9:==problem 33===>填充率为:0.9465031795017684
+Guillotine Blocks块生成完毕:10000块
+生成时间2874ms
+Guillotine Blocks块生成完毕:1864块
+生成时间334ms
+Guillotine Blocks块生成完毕:4438块
+生成时间2137ms
+运行时间:30000ms
+br11:==problem 34===>填充率为:0.9370112683377191
+Guillotine Blocks块生成完毕:10000块
+生成时间4528ms
+运行时间:30001ms
+br13:==problem 34===>填充率为:0.9370011984199202
+运行时间:30000ms
+br14:==problem 34===>填充率为:0.9234599506407858
+Guillotine Blocks块生成完毕:10000块
+生成时间1622ms
+Guillotine Blocks块生成完毕:10000块
+生成时间5025ms
+运行时间:30001ms
+br15:==problem 35===>填充率为:0.9329231143497325
+运行时间:30000ms
+br5:==problem 35===>填充率为:0.9474957144689763
+Guillotine Blocks块生成完毕:10000块
+生成时间2748ms
+运行时间:30001ms
+br1:==problem 28===>填充率为:0.9468016545240519
+Guillotine Blocks块生成完毕:10000块
+生成时间2327ms
+Guillotine Blocks块生成完毕:3862块
+生成时间1750ms
+运行时间:30001ms
+br2:==problem 31===>填充率为:0.9574848735211677
+运行时间:30000ms
+br8:==problem 31===>填充率为:0.9434446164491277
+运行时间:30001ms
+br0:==problem 23===>填充率为:0.6553087742550421
+运行时间:30000ms
+br12:==problem 35===>填充率为:0.9286314350264311
+Guillotine Blocks块生成完毕:10000块
+生成时间561ms
+运行时间:30001ms
+br3:==problem 33===>填充率为:0.9605608844511828
+Guillotine Blocks块生成完毕:5831块
+生成时间7922ms
+运行时间:30000ms
+br6:==problem 36===>填充率为:0.9566100203325931
+Guillotine Blocks块生成完毕:10000块
+生成时间1000ms
+Guillotine Blocks块生成完毕:5167块
+生成时间5267ms
+Guillotine Blocks块生成完毕:2663块
+生成时间778ms
+Guillotine Blocks块生成完毕:4776块
+生成时间2723ms
+运行时间:30000ms
+br10:==problem 35===>填充率为:0.9378766165873813
+运行时间:30001ms
+br7:==problem 37===>填充率为:0.9417023877337102
+运行时间:30000ms
+br4:==problem 35===>填充率为:0.9494608439721073
+Guillotine Blocks块生成完毕:3494块
+生成时间7891ms
+Guillotine Blocks块生成完毕:2576块
+生成时间692ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2568ms
+运行时间:30001ms
+br9:==problem 34===>填充率为:0.9399870121324231
+Guillotine Blocks块生成完毕:4454块
+生成时间3346ms
+运行时间:30001ms
+br13:==problem 35===>填充率为:0.9330681809873305
+运行时间:30001ms
+br11:==problem 35===>填充率为:0.9307771916029515
+Guillotine Blocks块生成完毕:10000块
+生成时间1126ms
+运行时间:30000ms
+br14:==problem 35===>填充率为:0.9303315561977852
+运行时间:30001ms
+br15:==problem 36===>填充率为:0.9304213213726196
+运行时间:30000ms
+br5:==problem 36===>填充率为:0.9590452455032665
+Guillotine Blocks块生成完毕:10000块
+生成时间9869ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3948ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2090ms
+Guillotine Blocks块生成完毕:2895块
+生成时间985ms
+Guillotine Blocks块生成完毕:7699块
+生成时间1969ms
+运行时间:30000ms
+br8:==problem 32===>填充率为:0.9463662884409972
+运行时间:30000ms
+br1:==problem 29===>填充率为:0.9518532969176746
+运行时间:30000ms
+br12:==problem 36===>填充率为:0.9392886317607202
+运行时间:30030ms
+br2:==problem 32===>填充率为:0.9633375230395066
+运行时间:30000ms
+br6:==problem 37===>填充率为:0.9510014084591297
+运行时间:30000ms
+br3:==problem 34===>填充率为:0.9551055147921442
+Guillotine Blocks块生成完毕:10000块
+生成时间3074ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3636ms
+Guillotine Blocks块生成完毕:10000块
+生成时间5578ms
+Guillotine Blocks块生成完毕:2908块
+生成时间1194ms
+运行时间:30000ms
+br0:==problem 24===>填充率为:0.8538386327245077
+运行时间:30001ms
+br7:==problem 38===>填充率为:0.9496211650396382
+运行时间:30001ms
+br10:==problem 36===>填充率为:0.9422475591250404
+Guillotine Blocks块生成完毕:5468块
+生成时间4579ms
+Guillotine Blocks块生成完毕:5549块
+生成时间8321ms
+运行时间:30000ms
+br4:==problem 36===>填充率为:0.9599761313037519
+Guillotine Blocks块生成完毕:10000块
+生成时间1334ms
+Guillotine Blocks块生成完毕:4948块
+生成时间3140ms
+Guillotine Blocks块生成完毕:3792块
+生成时间1190ms
+Guillotine Blocks块生成完毕:10000块
+生成时间6558ms
+运行时间:30001ms
+br13:==problem 36===>填充率为:0.9387437594758591
+运行时间:30000ms
+br9:==problem 35===>填充率为:0.9398481934966277
+运行时间:30000ms
+br11:==problem 36===>填充率为:0.9366499144887839
+运行时间:30000ms
+br14:==problem 36===>填充率为:0.9399430434814398
+Guillotine Blocks块生成完毕:10000块
+生成时间2694ms
+运行时间:30000ms
+br5:==problem 37===>填充率为:0.9559790053845811
+运行时间:30001ms
+br15:==problem 37===>填充率为:0.9369198746943298
+Guillotine Blocks块生成完毕:10000块
+生成时间2076ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3464ms
+Guillotine Blocks块生成完毕:3020块
+生成时间742ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3138ms
+Guillotine Blocks块生成完毕:5681块
+生成时间1305ms
+运行时间:30000ms
+br1:==problem 30===>填充率为:0.9734891966066703
+运行时间:30000ms
+br12:==problem 37===>填充率为:0.9354354757554266
+运行时间:30074ms
+br8:==problem 33===>填充率为:0.9463631644400959
+运行时间:30014ms
+br6:==problem 38===>填充率为:0.9540803107516811
+运行时间:30000ms
+br3:==problem 35===>填充率为:0.9611795695658503
+运行时间:30000ms
+br2:==problem 33===>填充率为:0.9639322131685278
+Guillotine Blocks块生成完毕:10000块
+生成时间3075ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3331ms
+运行时间:30001ms
+br10:==problem 37===>填充率为:0.9354764533417171
+运行时间:30000ms
+br7:==problem 39===>填充率为:0.9547633369912947
+运行时间:30001ms
+br4:==problem 37===>填充率为:0.9594717380943993
+Guillotine Blocks块生成完毕:3926块
+生成时间2269ms
+Guillotine Blocks块生成完毕:2308块
+生成时间613ms
+运行时间:30000ms
+br0:==problem 25===>填充率为:0.9516072319956185
+Guillotine Blocks块生成完毕:10000块
+生成时间9250ms
+Guillotine Blocks块生成完毕:7056块
+生成时间8395ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2957ms
+Guillotine Blocks块生成完毕:3076块
+生成时间1564ms
+Guillotine Blocks块生成完毕:5816块
+生成时间9206ms
+运行时间:30000ms
+br13:==problem 37===>填充率为:0.9330706070731368
+运行时间:30001ms
+br11:==problem 37===>填充率为:0.9401009716972165
+运行时间:30000ms
+br9:==problem 36===>填充率为:0.9453110740514503
+运行时间:30000ms
+br5:==problem 38===>填充率为:0.9609003370597569
+运行时间:30000ms
+br14:==problem 37===>填充率为:0.9339912900196148
+运行时间:30000ms
+br15:==problem 38===>填充率为:0.9311045802505981
+Guillotine Blocks块生成完毕:9800块
+生成时间4517ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2913ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3072ms
+Guillotine Blocks块生成完毕:8912块
+生成时间4279ms
+Guillotine Blocks块生成完毕:10000块
+生成时间7300ms
+运行时间:30000ms
+br12:==problem 38===>填充率为:0.9390877983836287
+运行时间:30000ms
+br8:==problem 34===>填充率为:0.9403933316539059
+运行时间:30001ms
+br3:==problem 36===>填充率为:0.9591863572886596
+运行时间:30000ms
+br7:==problem 40===>填充率为:0.9347014684798279
+运行时间:30001ms
+br1:==problem 31===>填充率为:0.9508074212967794
+Guillotine Blocks块生成完毕:10000块
+生成时间2990ms
+运行时间:30001ms
+br6:==problem 39===>填充率为:0.960286271478337
+运行时间:30000ms
+br10:==problem 38===>填充率为:0.9382860601097655
+Guillotine Blocks块生成完毕:3282块
+生成时间683ms
+运行时间:30000ms
+br4:==problem 38===>填充率为:0.9455854876199833
+Guillotine Blocks块生成完毕:3483块
+生成时间1528ms
+Guillotine Blocks块生成完毕:2297块
+生成时间633ms
+Guillotine Blocks块生成完毕:8688块
+生成时间20581ms
+Guillotine Blocks块生成完毕:10000块
+生成时间784ms
+Guillotine Blocks块生成完毕:10000块
+生成时间6370ms
+运行时间:30000ms
+br2:==problem 34===>填充率为:0.961522478515847
+Guillotine Blocks块生成完毕:7604块
+生成时间36261ms
+Guillotine Blocks块生成完毕:10000块
+生成时间6686ms
+运行时间:30000ms
+br13:==problem 38===>填充率为:0.9351495964389048
+运行时间:30001ms
+br9:==problem 37===>填充率为:0.934123760951451
+Guillotine Blocks块生成完毕:5667块
+生成时间8605ms
+运行时间:30001ms
+br15:==problem 39===>填充率为:0.9284180059435779
+运行时间:30000ms
+br14:==problem 38===>填充率为:0.9253056369605199
+运行时间:30001ms
+br11:==problem 38===>填充率为:0.9345146598727402
+Guillotine Blocks块生成完毕:10000块
+生成时间4559ms
+Guillotine Blocks块生成完毕:10000块
+生成时间783ms
+Guillotine Blocks块生成完毕:5441块
+生成时间1161ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4581ms
+Guillotine Blocks块生成完毕:7234块
+生成时间23328ms
+Guillotine Blocks块生成完毕:10000块
+生成时间7707ms
+运行时间:30001ms
+br12:==problem 39===>填充率为:0.9311988320224716
+运行时间:30000ms
+br7:==problem 41===>填充率为:0.9520195336464867
+运行时间:30000ms
+br3:==problem 37===>填充率为:0.9604877695364714
+运行时间:30000ms
+br6:==problem 40===>填充率为:0.9470611127691211
+运行时间:30000ms
+br5:==problem 39===>填充率为:0.9621653580204735
+运行时间:30000ms
+br10:==problem 39===>填充率为:0.9336530338369179
+Guillotine Blocks块生成完毕:2042块
+生成时间375ms
+运行时间:30000ms
+br8:==problem 35===>填充率为:0.9434612999433027
+Guillotine Blocks块生成完毕:2810块
+生成时间1111ms
+Guillotine Blocks块生成完毕:2581块
+生成时间927ms
+运行时间:30000ms
+br0:==problem 26===>填充率为:0.8985612978827915
+Guillotine Blocks块生成完毕:3752块
+生成时间2231ms
+Guillotine Blocks块生成完毕:10000块
+生成时间5340ms
+运行时间:30000ms
+br4:==problem 39===>填充率为:0.967053090068934
+Guillotine Blocks块生成完毕:10000块
+生成时间4743ms
+Guillotine Blocks块生成完毕:10000块
+生成时间5926ms
+Guillotine Blocks块生成完毕:2453块
+生成时间782ms
+运行时间:30001ms
+br2:==problem 35===>填充率为:0.9568772885799156
+运行时间:30000ms
+br13:==problem 39===>填充率为:0.9376989805786846
+运行时间:30000ms
+br14:==problem 39===>填充率为:0.9287572259137868
+运行时间:30001ms
+br15:==problem 40===>填充率为:0.9271112430133713
+Guillotine Blocks块生成完毕:4432块
+生成时间11595ms
+Guillotine Blocks块生成完毕:4920块
+生成时间3532ms
+运行时间:30001ms
+br9:==problem 38===>填充率为:0.9385577484860228
+Guillotine Blocks块生成完毕:10000块
+生成时间2919ms
+Guillotine Blocks块生成完毕:9128块
+生成时间1772ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2062ms
+运行时间:30000ms
+br1:==problem 32===>填充率为:0.9727688152924497
+Guillotine Blocks块生成完毕:10000块
+生成时间828ms
+Guillotine Blocks块生成完毕:10000块
+生成时间775ms
+运行时间:30000ms
+br11:==problem 39===>填充率为:0.9321095115192548
+运行时间:30000ms
+br7:==problem 42===>填充率为:0.9495807856662862
+Guillotine Blocks块生成完毕:7563块
+生成时间3442ms
+运行时间:30001ms
+br3:==problem 38===>填充率为:0.9472858081956502
+Guillotine Blocks块生成完毕:1810块
+生成时间289ms
+运行时间:30000ms
+br5:==problem 40===>填充率为:0.9489968301361067
+运行时间:30001ms
+br6:==problem 41===>填充率为:0.95119772200513
+运行时间:30000ms
+br12:==problem 40===>填充率为:0.927248732287081
+运行时间:30000ms
+br8:==problem 36===>填充率为:0.9530773735261528
+Guillotine Blocks块生成完毕:10000块
+生成时间1445ms
+Guillotine Blocks块生成完毕:3260块
+生成时间1585ms
+运行时间:30000ms
+br10:==problem 40===>填充率为:0.9361183690588316
+Guillotine Blocks块生成完毕:4383块
+生成时间3383ms
+运行时间:30001ms
+br4:==problem 40===>填充率为:0.9544409002174171
+Guillotine Blocks块生成完毕:10000块
+生成时间8142ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3045ms
+Guillotine Blocks块生成完毕:3957块
+生成时间2460ms
+Guillotine Blocks块生成完毕:10000块
+生成时间5347ms
+运行时间:30000ms
+br0:==problem 27===>填充率为:0.8758698846977795
+运行时间:30000ms
+br2:==problem 36===>填充率为:0.9569657243926644
+运行时间:30000ms
+br13:==problem 40===>填充率为:0.9258459561802376
+运行时间:30022ms
+运行时间:30038ms
+br14:==problem 40===>填充率为:0.9273187564349433
+br15:==problem 41===>填充率为:0.9292642113792066
+运行时间:30001ms
+br9:==problem 39===>填充率为:0.9288725813087703
+Guillotine Blocks块生成完毕:10000块
+生成时间2627ms
+Guillotine Blocks块生成完毕:3843块
+生成时间2110ms
+运行时间:30001ms
+br1:==problem 33===>填充率为:0.9768207109295498
+Guillotine Blocks块生成完毕:10000块
+生成时间1218ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2753ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3249ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3762ms
+运行时间:30000ms
+br11:==problem 40===>填充率为:0.9342415424322408
+运行时间:30000ms
+br7:==problem 43===>填充率为:0.9559872806635644
+Guillotine Blocks块生成完毕:10000块
+生成时间2072ms
+Guillotine Blocks块生成完毕:3462块
+生成时间1588ms
+运行时间:30000ms
+br12:==problem 41===>填充率为:0.9367155517417635
+运行时间:30093ms
+br6:==problem 42===>填充率为:0.9500799943635048
+运行时间:30001ms
+br5:==problem 41===>填充率为:0.9497015914458209
+Guillotine Blocks块生成完毕:5844块
+生成时间13308ms
+Guillotine Blocks块生成完毕:2344块
+生成时间612ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1418ms
+运行时间:30001ms
+br3:==problem 39===>填充率为:0.9748212174165044
+Guillotine Blocks块生成完毕:3370块
+生成时间1660ms
+运行时间:30000ms
+br10:==problem 41===>填充率为:0.9344176829085911
+运行时间:30001ms
+br4:==problem 41===>填充率为:0.9543245810349217
+Guillotine Blocks块生成完毕:2155块
+生成时间662ms
+运行时间:30001ms
+br8:==problem 37===>填充率为:0.9445743748176282
+Guillotine Blocks块生成完毕:10000块
+生成时间2037ms
+Guillotine Blocks块生成完毕:3860块
+生成时间1310ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3454ms
+运行时间:30000ms
+br0:==problem 28===>填充率为:0.9039957300889808
+运行时间:30000ms
+br2:==problem 37===>填充率为:0.9487209210352274
+运行时间:30001ms
+br9:==problem 40===>填充率为:0.9340699217869817
+运行时间:30000ms
+br15:==problem 42===>填充率为:0.930155681593852
+运行时间:30000ms
+br13:==problem 41===>填充率为:0.934312497133563
+运行时间:30000ms
+br14:==problem 41===>填充率为:0.929762456288913
+Guillotine Blocks块生成完毕:5031块
+生成时间650ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2215ms
+Guillotine Blocks块生成完毕:4364块
+生成时间4965ms
+Guillotine Blocks块生成完毕:8540块
+生成时间2161ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2845ms
+运行时间:30001ms
+br11:==problem 41===>填充率为:0.9325018062707339
+运行时间:30001ms
+br7:==problem 44===>填充率为:0.9521644008797718
+Guillotine Blocks块生成完毕:10000块
+生成时间1422ms
+运行时间:30000ms
+br1:==problem 34===>填充率为:0.9461766549394774
+Guillotine Blocks块生成完毕:2638块
+生成时间864ms
+运行时间:30000ms
+br6:==problem 43===>填充率为:0.9442829786484509
+运行时间:30001ms
+br12:==problem 42===>填充率为:0.9308953718923668
+运行时间:30001ms
+br5:==problem 42===>填充率为:0.9522158804265392
+Guillotine Blocks块生成完毕:3350块
+生成时间1391ms
+运行时间:30001ms
+br3:==problem 40===>填充率为:0.9482052614821989
+Guillotine Blocks块生成完毕:2518块
+生成时间1006ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4098ms
+运行时间:30001ms
+br10:==problem 42===>填充率为:0.9362885274057964
+运行时间:30000ms
+br4:==problem 42===>填充率为:0.9552746761175449
+运行时间:30000ms
+br8:==problem 38===>填充率为:0.9429180893610487
+Guillotine Blocks块生成完毕:2340块
+生成时间655ms
+Guillotine Blocks块生成完毕:5495块
+生成时间11346ms
+Guillotine Blocks块生成完毕:10000块
+生成时间617ms
+Guillotine Blocks块生成完毕:5196块
+生成时间7730ms
+Guillotine Blocks块生成完毕:10000块
+生成时间5732ms
+运行时间:30009ms
+br15:==problem 43===>填充率为:0.9286744398899023
+运行时间:30001ms
+br9:==problem 41===>填充率为:0.9460353437497715
+运行时间:30000ms
+br2:==problem 38===>填充率为:0.9560088827974564
+运行时间:30001ms
+br14:==problem 42===>填充率为:0.9361196651868651
+运行时间:30001ms
+br13:==problem 42===>填充率为:0.9384091258048457
+Guillotine Blocks块生成完毕:10000块
+生成时间1629ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2925ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1671ms
+Guillotine Blocks块生成完毕:9047块
+生成时间4275ms
+Guillotine Blocks块生成完毕:9659块
+生成时间5363ms
+运行时间:30000ms
+br11:==problem 42===>填充率为:0.9314816538061963
+运行时间:30000ms
+br7:==problem 45===>填充率为:0.9415494113917026
+Guillotine Blocks块生成完毕:2086块
+生成时间233ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3498ms
+运行时间:30000ms
+br6:==problem 44===>填充率为:0.9485122111877784
+运行时间:30001ms
+br5:==problem 43===>填充率为:0.9402498934848629
+运行时间:30001ms
+br12:==problem 43===>填充率为:0.9328457122422948
+Guillotine Blocks块生成完毕:3962块
+生成时间2412ms
+Guillotine Blocks块生成完毕:3354块
+生成时间1714ms
+Guillotine Blocks块生成完毕:8826块
+生成时间56187ms
+运行时间:30000ms
+br4:==problem 43===>填充率为:0.9553640757178057
+运行时间:30000ms
+br1:==problem 35===>填充率为:0.93748382332512
+运行时间:30000ms
+br8:==problem 39===>填充率为:0.9415753671864251
+Guillotine Blocks块生成完毕:10000块
+生成时间3386ms
+Guillotine Blocks块生成完毕:2978块
+生成时间851ms
+运行时间:30001ms
+br3:==problem 41===>填充率为:0.9581451012010122
+运行时间:30000ms
+br10:==problem 43===>填充率为:0.9385814775992518
+Guillotine Blocks块生成完毕:4150块
+生成时间3386ms
+Guillotine Blocks块生成完毕:10000块
+生成时间7200ms
+Guillotine Blocks块生成完毕:10000块
+生成时间7450ms
+运行时间:30000ms
+br9:==problem 42===>填充率为:0.941560777437535
+运行时间:30000ms
+br15:==problem 44===>填充率为:0.9334539618645898
+运行时间:30001ms
+br2:==problem 39===>填充率为:0.9727454185197421
+Guillotine Blocks块生成完毕:10000块
+生成时间6989ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1394ms
+运行时间:30001ms
+br14:==problem 43===>填充率为:0.9340520418669295
+Guillotine Blocks块生成完毕:2946块
+生成时间1876ms
+运行时间:30000ms
+br13:==problem 43===>填充率为:0.9331282349195503
+Guillotine Blocks块生成完毕:8996块
+生成时间3179ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1307ms
+运行时间:30001ms
+br7:==problem 46===>填充率为:0.9406044675871613
+Guillotine Blocks块生成完毕:10000块
+生成时间4642ms
+运行时间:30001ms
+br11:==problem 43===>填充率为:0.9372268908680136
+Guillotine Blocks块生成完毕:3401块
+生成时间1628ms
+运行时间:30000ms
+br6:==problem 45===>填充率为:0.9507466362154124
+运行时间:30001ms
+br5:==problem 44===>填充率为:0.9504448377879149
+Guillotine Blocks块生成完毕:10000块
+生成时间3440ms
+运行时间:30000ms
+br0:==problem 29===>填充率为:0.8798531852512594
+Guillotine Blocks块生成完毕:3340块
+生成时间1504ms
+运行时间:30005ms
+br12:==problem 44===>填充率为:0.9317495867345617
+运行时间:30000ms
+br4:==problem 44===>填充率为:0.9469259831131134
+Guillotine Blocks块生成完毕:6137块
+生成时间4922ms
+Guillotine Blocks块生成完毕:5106块
+生成时间2753ms
+运行时间:30000ms
+br3:==problem 42===>填充率为:0.9569208584222731
+Guillotine Blocks块生成完毕:10000块
+生成时间8879ms
+Guillotine Blocks块生成完毕:10000块
+生成时间6670ms
+运行时间:30000ms
+br8:==problem 40===>填充率为:0.9394352271647166
+运行时间:30000ms
+br1:==problem 36===>填充率为:0.9656325337441949
+Guillotine Blocks块生成完毕:2200块
+生成时间811ms
+运行时间:30000ms
+br10:==problem 44===>填充率为:0.9390616764186454
+Guillotine Blocks块生成完毕:10000块
+生成时间2155ms
+运行时间:30000ms
+br9:==problem 43===>填充率为:0.9418158155536693
+运行时间:30001ms
+br2:==problem 40===>填充率为:0.9490516330880882
+Guillotine Blocks块生成完毕:10000块
+生成时间2042ms
+运行时间:30000ms
+br15:==problem 45===>填充率为:0.9276603360228544
+Guillotine Blocks块生成完毕:10000块
+生成时间352ms
+运行时间:30000ms
+br13:==problem 44===>填充率为:0.9410956336437616
+Guillotine Blocks块生成完毕:7263块
+生成时间1751ms
+Guillotine Blocks块生成完毕:5062块
+生成时间8383ms
+运行时间:30000ms
+br14:==problem 44===>填充率为:0.9338030523482849
+运行时间:30000ms
+br7:==problem 47===>填充率为:0.9566329518285708
+Guillotine Blocks块生成完毕:10000块
+生成时间2328ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1472ms
+Guillotine Blocks块生成完毕:2230块
+生成时间492ms
+运行时间:30000ms
+br11:==problem 44===>填充率为:0.9313742081156225
+运行时间:30000ms
+br6:==problem 46===>填充率为:0.9481326783123216
+Guillotine Blocks块生成完毕:10000块
+生成时间1939ms
+运行时间:30000ms
+br5:==problem 45===>填充率为:0.9546218928653801
+Guillotine Blocks块生成完毕:4070块
+生成时间2639ms
+运行时间:30000ms
+br4:==problem 45===>填充率为:0.9618159351962571
+Guillotine Blocks块生成完毕:2790块
+生成时间689ms
+Guillotine Blocks块生成完毕:2581块
+生成时间504ms
+运行时间:30001ms
+br0:==problem 30===>填充率为:0.9198760236918911
+运行时间:30000ms
+br12:==problem 45===>填充率为:0.932486086564071
+运行时间:30000ms
+br3:==problem 43===>填充率为:0.945286115278292
+运行时间:30000ms
+br8:==problem 41===>填充率为:0.9435607694613625
+Guillotine Blocks块生成完毕:2998块
+生成时间1716ms
+Guillotine Blocks块生成完毕:9840块
+生成时间3937ms
+Guillotine Blocks块生成完毕:10000块
+生成时间5021ms
+运行时间:30001ms
+br10:==problem 45===>填充率为:0.9347633170508634
+运行时间:30001ms
+br9:==problem 44===>填充率为:0.9453545109575994
+运行时间:30000ms
+br15:==problem 46===>填充率为:0.9295321110735197
+Guillotine Blocks块生成完毕:10000块
+生成时间2046ms
+运行时间:30000ms
+br1:==problem 37===>填充率为:0.9470690557075829
+Guillotine Blocks块生成完毕:10000块
+生成时间4246ms
+Guillotine Blocks块生成完毕:8250块
+生成时间33468ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2763ms
+Guillotine Blocks块生成完毕:6519块
+生成时间1033ms
+运行时间:30000ms
+br13:==problem 45===>填充率为:0.9240821585649802
+运行时间:30000ms
+br14:==problem 45===>填充率为:0.9370230331921773
+Guillotine Blocks块生成完毕:2966块
+生成时间3015ms
+运行时间:30000ms
+br7:==problem 48===>填充率为:0.9429635203103263
+Guillotine Blocks块生成完毕:10000块
+生成时间1273ms
+Guillotine Blocks块生成完毕:2649块
+生成时间744ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1634ms
+运行时间:30000ms
+br11:==problem 45===>填充率为:0.9269460365401756
+Guillotine Blocks块生成完毕:10000块
+生成时间1232ms
+运行时间:30000ms
+br6:==problem 47===>填充率为:0.9517758615761848
+运行时间:30000ms
+br5:==problem 46===>填充率为:0.9477204763636098
+Guillotine Blocks块生成完毕:2874块
+生成时间1029ms
+运行时间:30000ms
+br4:==problem 46===>填充率为:0.9588167281607411
+Guillotine Blocks块生成完毕:3693块
+生成时间1816ms
+Guillotine Blocks块生成完毕:3579块
+生成时间2079ms
+运行时间:30001ms
+br3:==problem 44===>填充率为:0.9440625039465437
+运行时间:30000ms
+br12:==problem 46===>填充率为:0.9277406294928284
+运行时间:30000ms
+br0:==problem 31===>填充率为:0.9120563835635013
+Guillotine Blocks块生成完毕:10000块
+生成时间654ms
+运行时间:30000ms
+br10:==problem 46===>填充率为:0.9355347458691735
+运行时间:30001ms
+br8:==problem 42===>填充率为:0.9450145598382432
+Guillotine Blocks块生成完毕:4780块
+生成时间4305ms
+运行时间:30000ms
+br2:==problem 41===>填充率为:0.950918356562828
+运行时间:30000ms
+br9:==problem 45===>填充率为:0.941565961949669
+运行时间:30035ms
+br15:==problem 47===>填充率为:0.9295069528960486
+Guillotine Blocks块生成完毕:10000块
+生成时间1028ms
+运行时间:30000ms
+br1:==problem 38===>填充率为:0.9073354864567914
+Guillotine Blocks块生成完毕:10000块
+生成时间3647ms
+运行时间:30000ms
+br13:==problem 46===>填充率为:0.9237973095040748
+Guillotine Blocks块生成完毕:9094块
+生成时间2598ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4923ms
+运行时间:30000ms
+br7:==problem 49===>填充率为:0.9467957056287185
+运行时间:30000ms
+br14:==problem 46===>填充率为:0.9291200420610164
+Guillotine Blocks块生成完毕:10000块
+生成时间739ms
+Guillotine Blocks块生成完毕:10000块
+生成时间5520ms
+Guillotine Blocks块生成完毕:4287块
+生成时间2753ms
+运行时间:30001ms
+br11:==problem 46===>填充率为:0.9356529261585889
+Guillotine Blocks块生成完毕:9552块
+生成时间4319ms
+Guillotine Blocks块生成完毕:5741块
+生成时间19397ms
+运行时间:30004ms
+br6:==problem 48===>填充率为:0.9506800684089729
+Guillotine Blocks块生成完毕:10000块
+生成时间1960ms
+Guillotine Blocks块生成完毕:7827块
+生成时间16223ms
+运行时间:30000ms
+br5:==problem 47===>填充率为:0.9491845360626023
+Guillotine Blocks块生成完毕:2358块
+生成时间669ms
+运行时间:30000ms
+br4:==problem 47===>填充率为:0.9521415026178462
+Guillotine Blocks块生成完毕:3218块
+生成时间1483ms
+Guillotine Blocks块生成完毕:3222块
+生成时间1520ms
+运行时间:30000ms
+br12:==problem 47===>填充率为:0.9423049875671411
+运行时间:30000ms
+br3:==problem 45===>填充率为:0.9574586518540281
+Guillotine Blocks块生成完毕:10000块
+生成时间1900ms
+运行时间:30000ms
+br8:==problem 43===>填充率为:0.9424638131023256
+Guillotine Blocks块生成完毕:3888块
+生成时间2944ms
+运行时间:30000ms
+br10:==problem 47===>填充率为:0.9361807493747013
+运行时间:30000ms
+br15:==problem 48===>填充率为:0.9342183118297938
+运行时间:30000ms
+br9:==problem 46===>填充率为:0.9362124214263923
+Guillotine Blocks块生成完毕:10000块
+生成时间1375ms
+运行时间:30000ms
+br13:==problem 47===>填充率为:0.9295696655524397
+Guillotine Blocks块生成完毕:10000块
+生成时间2043ms
+运行时间:30000ms
+br1:==problem 39===>填充率为:0.9653155473548686
+运行时间:30000ms
+br7:==problem 50===>填充率为:0.9464912817111018
+Guillotine Blocks块生成完毕:10000块
+生成时间2454ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4369ms
+运行时间:30000ms
+br14:==problem 47===>填充率为:0.9311755681859725
+运行时间:30000ms
+br0:==problem 32===>填充率为:0.95020143159003
+Guillotine Blocks块生成完毕:4250块
+生成时间2536ms
+运行时间:30000ms
+br11:==problem 47===>填充率为:0.9340454282905534
+运行时间:30000ms
+br2:==problem 42===>填充率为:0.9619095222870877
+Guillotine Blocks块生成完毕:8405块
+生成时间2902ms
+运行时间:30000ms
+br6:==problem 49===>填充率为:0.9549888300350752
+Guillotine Blocks块生成完毕:5739块
+生成时间7583ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2209ms
+Guillotine Blocks块生成完毕:3384块
+生成时间2117ms
+运行时间:30001ms
+br5:==problem 48===>填充率为:0.955423996713817
+Guillotine Blocks块生成完毕:4218块
+生成时间2609ms
+运行时间:30001ms
+br4:==problem 48===>填充率为:0.9576899608569334
+Guillotine Blocks块生成完毕:10006块
+生成时间6976ms
+Guillotine Blocks块生成完毕:2574块
+生成时间1009ms
+Guillotine Blocks块生成完毕:10000块
+生成时间23975ms
+Guillotine Blocks块生成完毕:2732块
+生成时间1129ms
+运行时间:30000ms
+br12:==problem 48===>填充率为:0.9319946878691057
+Guillotine Blocks块生成完毕:10000块
+生成时间1234ms
+运行时间:30001ms
+br3:==problem 46===>填充率为:0.9556431088195863
+运行时间:30000ms
+br10:==problem 48===>填充率为:0.9313847433101514
+Guillotine Blocks块生成完毕:3962块
+生成时间2377ms
+运行时间:30001ms
+br9:==problem 47===>填充率为:0.9411525303410279
+运行时间:30001ms
+br13:==problem 48===>填充率为:0.9335700484087204
+运行时间:30054ms
+br15:==problem 49===>填充率为:0.9303853621282023
+Guillotine Blocks块生成完毕:10000块
+生成时间5954ms
+运行时间:30000ms
+br7:==problem 51===>填充率为:0.9503733845758106
+Guillotine Blocks块生成完毕:10000块
+生成时间3808ms
+Guillotine Blocks块生成完毕:8205块
+生成时间2028ms
+运行时间:30000ms
+br14:==problem 48===>填充率为:0.9348719259332621
+Guillotine Blocks块生成完毕:10000块
+生成时间5880ms
+运行时间:30000ms
+br1:==problem 40===>填充率为:0.955160151573865
+运行时间:30000ms
+br11:==problem 48===>填充率为:0.930311084021666
+运行时间:30000ms
+br2:==problem 43===>填充率为:0.945995795227723
+Guillotine Blocks块生成完毕:4824块
+生成时间4092ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2043ms
+运行时间:30000ms
+br6:==problem 50===>填充率为:0.959428699996876
+运行时间:30000ms
+br0:==problem 33===>填充率为:0.980877791078784
+运行时间:30000ms
+br5:==problem 49===>填充率为:0.9504083800327155
+Guillotine Blocks块生成完毕:2744块
+生成时间2004ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2460ms
+运行时间:30001ms
+运行时间:30001ms
+br8:==problem 44===>填充率为:0.9490986925059206
+br4:==problem 49===>填充率为:0.9513842647398006
+Guillotine Blocks块生成完毕:4955块
+生成时间3684ms
+运行时间:30000ms
+br12:==problem 49===>填充率为:0.935381570122853
+Guillotine Blocks块生成完毕:5569块
+生成时间10850ms
+Guillotine Blocks块生成完毕:10000块
+生成时间7559ms
+Guillotine Blocks块生成完毕:10000块
+生成时间5949ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2114ms
+运行时间:30000ms
+br3:==problem 47===>填充率为:0.957081146255752
+Guillotine Blocks块生成完毕:6770块
+生成时间9057ms
+Guillotine Blocks块生成完毕:6991块
+生成时间11629ms
+Guillotine Blocks块生成完毕:3502块
+生成时间1306ms
+运行时间:30000ms
+br10:==problem 49===>填充率为:0.930267181838787
+运行时间:30000ms
+br9:==problem 48===>填充率为:0.9366375514213872
+运行时间:30000ms
+br13:==problem 49===>填充率为:0.9380531891064094
+Guillotine Blocks块生成完毕:10000块
+生成时间2520ms
+运行时间:30000ms
+br15:==problem 50===>填充率为:0.9247836297035323
+Guillotine Blocks块生成完毕:10000块
+生成时间2067ms
+运行时间:30001ms
+br7:==problem 52===>填充率为:0.9495532014030087
+运行时间:30000ms
+br14:==problem 49===>填充率为:0.9295454379284285
+Guillotine Blocks块生成完毕:10000块
+生成时间4529ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1108ms
+Guillotine Blocks块生成完毕:2120块
+生成时间436ms
+运行时间:30000ms
+br2:==problem 44===>填充率为:0.9261109977460665
+运行时间:30080ms
+br11:==problem 49===>填充率为:0.9350230744024018
+Guillotine Blocks块生成完毕:10000块
+生成时间2450ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1225ms
+运行时间:30001ms
+br6:==problem 51===>填充率为:0.9572859344850483
+Guillotine Blocks块生成完毕:4232块
+生成时间1495ms
+运行时间:30000ms
+br1:==problem 41===>填充率为:0.9466959037701373
+运行时间:30000ms
+br0:==problem 34===>填充率为:0.9610290857777533
+运行时间:30000ms
+br8:==problem 45===>填充率为:0.9435176648957349
+运行时间:30000ms
+br12:==problem 50===>填充率为:0.9301647544900866
+运行时间:30000ms
+br4:==problem 50===>填充率为:0.9608399840210677
+运行时间:30002ms
+br5:==problem 50===>填充率为:0.9553227325569416
+Guillotine Blocks块生成完毕:6184块
+生成时间11605ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3036ms
+运行时间:30000ms
+br3:==problem 48===>填充率为:0.9559404206500448
+Guillotine Blocks块生成完毕:10000块
+生成时间2882ms
+Guillotine Blocks块生成完毕:10000块
+生成时间8114ms
+Guillotine Blocks块生成完毕:3380块
+生成时间1257ms
+Guillotine Blocks块生成完毕:6114块
+生成时间5239ms
+Guillotine Blocks块生成完毕:10000块
+生成时间10793ms
+运行时间:30000ms
+br10:==problem 50===>填充率为:0.9366227955022364
+Guillotine Blocks块生成完毕:6186块
+生成时间9578ms
+运行时间:30001ms
+br13:==problem 50===>填充率为:0.9284810509404905
+运行时间:30000ms
+br9:==problem 49===>填充率为:0.9410970627080036
+运行时间:30001ms
+br15:==problem 51===>填充率为:0.9262976069488414
+运行时间:30000ms
+br7:==problem 53===>填充率为:0.9474928563404922
+Guillotine Blocks块生成完毕:10000块
+生成时间2562ms
+运行时间:30001ms
+br14:==problem 50===>填充率为:0.9375060569060027
+Guillotine Blocks块生成完毕:10000块
+生成时间4995ms
+Guillotine Blocks块生成完毕:3708块
+生成时间1040ms
+运行时间:30000ms
+br11:==problem 50===>填充率为:0.9326856570471811
+Guillotine Blocks块生成完毕:10000块
+生成时间4415ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4405ms
+运行时间:30000ms
+br6:==problem 52===>填充率为:0.944109297491959
+Guillotine Blocks块生成完毕:10000块
+生成时间3865ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2889ms
+Guillotine Blocks块生成完毕:2532块
+生成时间760ms
+运行时间:30000ms
+br2:==problem 45===>填充率为:0.9567133782347533
+运行时间:30000ms
+br8:==problem 46===>填充率为:0.9353403931322496
+运行时间:30000ms
+br12:==problem 51===>填充率为:0.9282205292057527
+Guillotine Blocks块生成完毕:3437块
+生成时间2521ms
+运行时间:30001ms
+br1:==problem 42===>填充率为:0.960998510449783
+运行时间:30000ms
+br3:==problem 49===>填充率为:0.9594061340754719
+运行时间:30000ms
+br5:==problem 51===>填充率为:0.9639548787920884
+运行时间:30001ms
+br0:==problem 35===>填充率为:0.9519561895431049
+Guillotine Blocks块生成完毕:10000块
+生成时间3509ms
+Guillotine Blocks块生成完毕:4476块
+生成时间3495ms
+运行时间:30001ms
+br4:==problem 51===>填充率为:0.9625552266861462
+Guillotine Blocks块生成完毕:10000块
+生成时间4107ms
+Guillotine Blocks块生成完毕:5150块
+生成时间5280ms
+运行时间:30001ms
+br10:==problem 51===>填充率为:0.9444305046059073
+Guillotine Blocks块生成完毕:5496块
+生成时间11143ms
+运行时间:30001ms
+br13:==problem 51===>填充率为:0.9346495568903828
+运行时间:30068ms
+br7:==problem 54===>填充率为:0.9500465609070503
+Guillotine Blocks块生成完毕:10000块
+生成时间2060ms
+运行时间:30000ms
+br9:==problem 50===>填充率为:0.9368599204642664
+运行时间:30009ms
+br15:==problem 52===>填充率为:0.9283761642719317
+Guillotine Blocks块生成完毕:3370块
+生成时间802ms
+运行时间:30001ms
+br14:==problem 51===>填充率为:0.931144693751533
+运行时间:30000ms
+br11:==problem 51===>填充率为:0.9289635096754296
+运行时间:30000ms
+br6:==problem 53===>填充率为:0.9577702210928553
+Guillotine Blocks块生成完毕:10000块
+生成时间5826ms
+Guillotine Blocks块生成完毕:10000块
+生成时间5265ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3237ms
+Guillotine Blocks块生成完毕:10000块
+生成时间7124ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2804ms
+Guillotine Blocks块生成完毕:3894块
+生成时间2772ms
+运行时间:30000ms
+br2:==problem 46===>填充率为:0.9500111998755717
+运行时间:30000ms
+br12:==problem 52===>填充率为:0.9318461981241372
+运行时间:30001ms
+br3:==problem 50===>填充率为:0.9576831478762443
+Guillotine Blocks块生成完毕:10000块
+生成时间1502ms
+Guillotine Blocks块生成完毕:9377块
+生成时间30203ms
+Guillotine Blocks块生成完毕:4891块
+生成时间6862ms
+运行时间:30000ms
+br0:==problem 36===>填充率为:0.9326289265201754
+运行时间:30008ms
+br5:==problem 52===>填充率为:0.9469296056247969
+Guillotine Blocks块生成完毕:10000块
+生成时间43553ms
+Guillotine Blocks块生成完毕:2958块
+生成时间1124ms
+运行时间:30000ms
+br1:==problem 43===>填充率为:0.9582804967294369
+运行时间:30000ms
+br10:==problem 52===>填充率为:0.9318999708205022
+运行时间:30000ms
+br7:==problem 55===>填充率为:0.9438852667464727
+Guillotine Blocks块生成完毕:5946块
+生成时间8743ms
+Guillotine Blocks块生成完毕:3144块
+生成时间4073ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3149ms
+Guillotine Blocks块生成完毕:3568块
+生成时间1464ms
+运行时间:30000ms
+br13:==problem 52===>填充率为:0.9260792259922193
+运行时间:30001ms
+br15:==problem 53===>填充率为:0.930989058685354
+运行时间:30000ms
+br14:==problem 52===>填充率为:0.9322700652251508
+运行时间:30000ms
+br9:==problem 51===>填充率为:0.9484476041904152
+运行时间:30000ms
+br11:==problem 52===>填充率为:0.9320340702208935
+Guillotine Blocks块生成完毕:10000块
+生成时间1325ms
+运行时间:30000ms
+br6:==problem 54===>填充率为:0.948538665493283
+Guillotine Blocks块生成完毕:10000块
+生成时间1000ms
+Guillotine Blocks块生成完毕:5336块
+生成时间16950ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3096ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2736ms
+Guillotine Blocks块生成完毕:3328块
+生成时间1428ms
+Guillotine Blocks块生成完毕:10000块
+生成时间8016ms
+运行时间:30000ms
+br12:==problem 53===>填充率为:0.938507099790559
+运行时间:30000ms
+br4:==problem 52===>填充率为:0.9543228528642104
+运行时间:30001ms
+br2:==problem 47===>填充率为:0.9673346489586775
+Guillotine Blocks块生成完毕:2504块
+生成时间839ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2365ms
+运行时间:30000ms
+br8:==problem 47===>填充率为:0.9479580666023698
+运行时间:30000ms
+br5:==problem 53===>填充率为:0.954213845173186
+运行时间:30001ms
+br3:==problem 51===>填充率为:0.9650384418281122
+Guillotine Blocks块生成完毕:10000块
+生成时间4453ms
+运行时间:30000ms
+br1:==problem 44===>填充率为:0.894186766067501
+Guillotine Blocks块生成完毕:6061块
+生成时间9232ms
+运行时间:30000ms
+br10:==problem 53===>填充率为:0.9386845031608907
+运行时间:30000ms
+br7:==problem 56===>填充率为:0.9457009759511752
+Guillotine Blocks块生成完毕:5612块
+生成时间5830ms
+Guillotine Blocks块生成完毕:2658块
+生成时间580ms
+运行时间:30000ms
+br13:==problem 53===>填充率为:0.9355674814105329
+Guillotine Blocks块生成完毕:10000块
+生成时间3663ms
+运行时间:30000ms
+br11:==problem 53===>填充率为:0.9353122771241378
+运行时间:30001ms
+br0:==problem 37===>填充率为:0.9519766617192241
+运行时间:30000ms
+br15:==problem 54===>填充率为:0.9391094005175207
+运行时间:30000ms
+br14:==problem 53===>填充率为:0.9389018870959487
+Guillotine Blocks块生成完毕:10000块
+生成时间2029ms
+运行时间:30000ms
+br6:==problem 55===>填充率为:0.9477617530563696
+Guillotine Blocks块生成完毕:2964块
+生成时间2232ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2482ms
+Guillotine Blocks块生成完毕:3725块
+生成时间1581ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4194ms
+运行时间:30000ms
+br9:==problem 52===>填充率为:0.9447414423977438
+Guillotine Blocks块生成完毕:10000块
+生成时间4979ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1453ms
+Guillotine Blocks块生成完毕:7218块
+生成时间16874ms
+Guillotine Blocks块生成完毕:8534块
+生成时间20619ms
+运行时间:30001ms
+br4:==problem 53===>填充率为:0.954173698438199
+运行时间:30001ms
+br12:==problem 54===>填充率为:0.9313464576820843
+Guillotine Blocks块生成完毕:10000块
+生成时间1497ms
+运行时间:30000ms
+br8:==problem 48===>填充率为:0.9458471725465459
+运行时间:30001ms
+br2:==problem 48===>填充率为:0.9682249559814979
+Guillotine Blocks块生成完毕:5362块
+生成时间6691ms
+运行时间:30001ms
+br5:==problem 54===>填充率为:0.9570368120301951
+运行时间:30000ms
+br7:==problem 57===>填充率为:0.9562462736319036
+Guillotine Blocks块生成完毕:10000块
+生成时间2207ms
+Guillotine Blocks块生成完毕:3510块
+生成时间1794ms
+Guillotine Blocks块生成完毕:3992块
+生成时间2779ms
+Guillotine Blocks块生成完毕:2074块
+生成时间414ms
+运行时间:30001ms
+br10:==problem 54===>填充率为:0.9395245602968731
+运行时间:30000ms
+br13:==problem 54===>填充率为:0.9326282950731847
+Guillotine Blocks块生成完毕:10000块
+生成时间2810ms
+运行时间:30000ms
+br0:==problem 38===>填充率为:0.7797506249663505
+运行时间:30000ms
+br15:==problem 55===>填充率为:0.9328592385015164
+运行时间:30000ms
+br6:==problem 56===>填充率为:0.9510294247650851
+运行时间:30001ms
+br11:==problem 54===>填充率为:0.9351266981769794
+Guillotine Blocks块生成完毕:10000块
+生成时间3949ms
+运行时间:30000ms
+br14:==problem 54===>填充率为:0.9334566870568655
+Guillotine Blocks块生成完毕:2740块
+生成时间922ms
+Guillotine Blocks块生成完毕:6487块
+生成时间1345ms
+运行时间:30000ms
+br9:==problem 53===>填充率为:0.9446167482341087
+运行时间:30040ms
+br1:==problem 45===>填充率为:0.9586965538281972
+Guillotine Blocks块生成完毕:10000块
+生成时间2768ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1385ms
+运行时间:30000ms
+br3:==problem 52===>填充率为:0.9593964962003508
+Guillotine Blocks块生成完毕:10000块
+生成时间6075ms
+Guillotine Blocks块生成完毕:2336块
+生成时间664ms
+Guillotine Blocks块生成完毕:3849块
+生成时间3645ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4537ms
+运行时间:30000ms
+br12:==problem 55===>填充率为:0.935978553401472
+运行时间:30001ms
+br4:==problem 54===>填充率为:0.9602300062280613
+Guillotine Blocks块生成完毕:10000块
+生成时间3787ms
+运行时间:30000ms
+br8:==problem 49===>填充率为:0.9402195840293098
+Guillotine Blocks块生成完毕:4056块
+生成时间1841ms
+运行时间:30000ms
+br5:==problem 55===>填充率为:0.9557813957105473
+运行时间:30000ms
+br2:==problem 49===>填充率为:0.9593911787520082
+运行时间:30000ms
+br7:==problem 58===>填充率为:0.9537090863892598
+Guillotine Blocks块生成完毕:10000块
+生成时间2487ms
+Guillotine Blocks块生成完毕:3378块
+生成时间739ms
+运行时间:30001ms
+br10:==problem 55===>填充率为:0.9403308848699319
+Guillotine Blocks块生成完毕:10000块
+生成时间538ms
+运行时间:30000ms
+br13:==problem 55===>填充率为:0.9376464043081967
+Guillotine Blocks块生成完毕:7434块
+生成时间9961ms
+运行时间:30001ms
+br6:==problem 57===>填充率为:0.9628680588189549
+运行时间:30000ms
+br15:==problem 56===>填充率为:0.928957029035262
+运行时间:30001ms
+br11:==problem 55===>填充率为:0.9341607836855368
+Guillotine Blocks块生成完毕:2454块
+生成时间629ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2165ms
+运行时间:30000ms
+br14:==problem 55===>填充率为:0.9309898563026053
+运行时间:30000ms
+br0:==problem 39===>填充率为:0.909355452145956
+运行时间:30000ms
+br3:==problem 53===>填充率为:0.9617038699724357
+Guillotine Blocks块生成完毕:9984块
+生成时间4068ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2103ms
+运行时间:30000ms
+br1:==problem 46===>填充率为:0.9369735476885385
+运行时间:30000ms
+br9:==problem 54===>填充率为:0.9362395404129398
+Guillotine Blocks块生成完毕:8233块
+生成时间18364ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4943ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2484ms
+运行时间:30007ms
+br12:==problem 56===>填充率为:0.932098278409631
+运行时间:30000ms
+br4:==problem 55===>填充率为:0.9496090013765545
+Guillotine Blocks块生成完毕:10000块
+生成时间1501ms
+Guillotine Blocks块生成完毕:5214块
+生成时间9827ms
+运行时间:30001ms
+br8:==problem 50===>填充率为:0.9439138812653666
+运行时间:30000ms
+br7:==problem 59===>填充率为:0.9512560477666384
+Guillotine Blocks块生成完毕:5784块
+生成时间17816ms
+Guillotine Blocks块生成完毕:2341块
+生成时间593ms
+Guillotine Blocks块生成完毕:10000块
+生成时间6411ms
+Guillotine Blocks块生成完毕:7781块
+生成时间18518ms
+运行时间:30000ms
+br10:==problem 56===>填充率为:0.9393429694359716
+运行时间:30001ms
+br5:==problem 56===>填充率为:0.9656717499257219
+Guillotine Blocks块生成完毕:10000块
+生成时间1612ms
+Guillotine Blocks块生成完毕:10000块
+生成时间9183ms
+运行时间:30007ms
+br6:==problem 58===>填充率为:0.9574458567439535
+Guillotine Blocks块生成完毕:2390块
+生成时间774ms
+运行时间:30000ms
+br13:==problem 56===>填充率为:0.9337566576114953
+Guillotine Blocks块生成完毕:3434块
+生成时间1393ms
+运行时间:30001ms
+br15:==problem 57===>填充率为:0.9332057699631966
+运行时间:30000ms
+br14:==problem 56===>填充率为:0.9330399985111144
+运行时间:30000ms
+br2:==problem 50===>填充率为:0.9675868289463276
+Guillotine Blocks块生成完毕:10000块
+生成时间4142ms
+运行时间:30014ms
+br11:==problem 56===>填充率为:0.9367783308662588
+Guillotine Blocks块生成完毕:7591块
+生成时间2096ms
+运行时间:30000ms
+br9:==problem 55===>填充率为:0.9402727252786841
+Guillotine Blocks块生成完毕:9663块
+生成时间3787ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3625ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3771ms
+运行时间:30001ms
+br12:==problem 57===>填充率为:0.9342727159731495
+运行时间:30000ms
+br1:==problem 47===>填充率为:0.9539289628782285
+Guillotine Blocks块生成完毕:10000块
+生成时间1761ms
+运行时间:30001ms
+br0:==problem 40===>填充率为:0.9440232212969124
+运行时间:30000ms
+br7:==problem 60===>填充率为:0.9385988590085219
+运行时间:30000ms
+br4:==problem 56===>填充率为:0.974354677792541
+Guillotine Blocks块生成完毕:2060块
+生成时间198ms
+运行时间:30000ms
+br3:==problem 54===>填充率为:0.9580814247571089
+Guillotine Blocks块生成完毕:7472块
+生成时间15870ms
+Guillotine Blocks块生成完毕:2202块
+生成时间303ms
+Guillotine Blocks块生成完毕:3390块
+生成时间2684ms
+运行时间:30001ms
+br10:==problem 57===>填充率为:0.9357226511999819
+Guillotine Blocks块生成完毕:4515块
+生成时间3568ms
+运行时间:30001ms
+br8:==problem 51===>填充率为:0.9491033452732205
+运行时间:30001ms
+br5:==problem 57===>填充率为:0.953227657909937
+Guillotine Blocks块生成完毕:10000块
+生成时间2875ms
+Guillotine Blocks块生成完毕:2604块
+生成时间968ms
+运行时间:30001ms
+br6:==problem 59===>填充率为:0.9590106820890394
+Guillotine Blocks块生成完毕:2702块
+生成时间478ms
+运行时间:30000ms
+br13:==problem 57===>填充率为:0.9347504554726846
+运行时间:30000ms
+br15:==problem 58===>填充率为:0.9383318566336165
+Guillotine Blocks块生成完毕:10000块
+生成时间909ms
+Guillotine Blocks块生成完毕:10000块
+生成时间8370ms
+运行时间:30001ms
+br14:==problem 57===>填充率为:0.9400463349154958
+运行时间:30000ms
+br11:==problem 57===>填充率为:0.9347801999493514
+Guillotine Blocks块生成完毕:10000块
+生成时间2877ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1870ms
+运行时间:30000ms
+br9:==problem 56===>填充率为:0.9348631853775488
+Guillotine Blocks块生成完毕:10000块
+生成时间2080ms
+Guillotine Blocks块生成完毕:9232块
+生成时间28242ms
+运行时间:30000ms
+br12:==problem 58===>填充率为:0.938241592948
+Guillotine Blocks块生成完毕:10000块
+生成时间2596ms
+运行时间:30000ms
+br7:==problem 61===>填充率为:0.942787612472341
+运行时间:30000ms
+br2:==problem 51===>填充率为:0.9677128524720485
+运行时间:30001ms
+br4:==problem 57===>填充率为:0.9501712218366334
+运行时间:30000ms
+br0:==problem 41===>填充率为:0.9459102507775107
+Guillotine Blocks块生成完毕:10000块
+生成时间4516ms
+Guillotine Blocks块生成完毕:2470块
+生成时间645ms
+Guillotine Blocks块生成完毕:2272块
+生成时间659ms
+Guillotine Blocks块生成完毕:4073块
+生成时间3303ms
+运行时间:30000ms
+br3:==problem 55===>填充率为:0.9594236484209505
+运行时间:30001ms
+br10:==problem 58===>填充率为:0.9449821234033531
+运行时间:30000ms
+br5:==problem 58===>填充率为:0.9540534908716028
+Guillotine Blocks块生成完毕:10000块
+生成时间973ms
+运行时间:30000ms
+br6:==problem 60===>填充率为:0.94813839456929
+Guillotine Blocks块生成完毕:2892块
+生成时间863ms
+运行时间:30001ms
+br13:==problem 58===>填充率为:0.9377699020459547
+Guillotine Blocks块生成完毕:5140块
+生成时间4620ms
+运行时间:30000ms
+br8:==problem 52===>填充率为:0.9472324343079108
+Guillotine Blocks块生成完毕:7361块
+生成时间10624ms
+运行时间:30001ms
+br15:==problem 59===>填充率为:0.9266609880749574
+Guillotine Blocks块生成完毕:10000块
+生成时间1320ms
+运行时间:30000ms
+br14:==problem 58===>填充率为:0.9296804014141754
+Guillotine Blocks块生成完毕:10000块
+生成时间1554ms
+运行时间:30001ms
+br11:==problem 58===>填充率为:0.9391188389883288
+运行时间:30000ms
+br1:==problem 48===>填充率为:0.964225669848938
+Guillotine Blocks块生成完毕:10000块
+生成时间2035ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1340ms
+运行时间:30000ms
+br9:==problem 57===>填充率为:0.9359379746238071
+Guillotine Blocks块生成完毕:4156块
+生成时间4203ms
+Guillotine Blocks块生成完毕:10000块
+生成时间12813ms
+运行时间:30001ms
+br12:==problem 59===>填充率为:0.9367926215086797
+运行时间:30005ms
+br7:==problem 62===>填充率为:0.949110291190118
+运行时间:30001ms
+br4:==problem 58===>填充率为:0.9536556792674683
+Guillotine Blocks块生成完毕:2066块
+生成时间449ms
+运行时间:30000ms
+br2:==problem 52===>填充率为:0.9630955791399161
+Guillotine Blocks块生成完毕:10000块
+生成时间1835ms
+运行时间:30001ms
+br10:==problem 59===>填充率为:0.933807538945324
+Guillotine Blocks块生成完毕:10000块
+生成时间13408ms
+Guillotine Blocks块生成完毕:4342块
+生成时间4950ms
+运行时间:30001ms
+br6:==problem 61===>填充率为:0.9594043062026041
+运行时间:30000ms
+br5:==problem 59===>填充率为:0.9644040037727296
+Guillotine Blocks块生成完毕:3083块
+生成时间1122ms
+运行时间:30000ms
+br3:==problem 56===>填充率为:0.9663910677502741
+Guillotine Blocks块生成完毕:10000块
+生成时间4390ms
+运行时间:30000ms
+br13:==problem 59===>填充率为:0.9285099645658536
+Guillotine Blocks块生成完毕:3027块
+生成时间1298ms
+Guillotine Blocks块生成完毕:8458块
+生成时间13236ms
+Guillotine Blocks块生成完毕:3588块
+生成时间1333ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1352ms
+运行时间:30000ms
+br15:==problem 60===>填充率为:0.9293017990921786
+运行时间:30000ms
+br14:==problem 59===>填充率为:0.934301230789887
+运行时间:30000ms
+br11:==problem 59===>填充率为:0.9369491206602144
+Guillotine Blocks块生成完毕:10000块
+生成时间3016ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1984ms
+运行时间:30001ms
+br1:==problem 49===>填充率为:0.935581107371911
+Guillotine Blocks块生成完毕:10000块
+生成时间1792ms
+运行时间:30000ms
+br8:==problem 53===>填充率为:0.9515321230377785
+运行时间:30000ms
+br7:==problem 63===>填充率为:0.9420376860857664
+Guillotine Blocks块生成完毕:10000块
+生成时间2747ms
+运行时间:30000ms
+br12:==problem 60===>填充率为:0.9335855687110705
+Guillotine Blocks块生成完毕:2212块
+生成时间273ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2800ms
+Guillotine Blocks块生成完毕:10000块
+生成时间10488ms
+运行时间:30000ms
+br9:==problem 58===>填充率为:0.9445034865844102
+运行时间:30000ms
+br2:==problem 53===>填充率为:0.9392599840077741
+Guillotine Blocks块生成完毕:10000块
+生成时间3831ms
+运行时间:30001ms
+br6:==problem 62===>填充率为:0.9515399662740839
+运行时间:30000ms
+br10:==problem 60===>填充率为:0.9348480971178765
+运行时间:30000ms
+br5:==problem 60===>填充率为:0.9542569165047614
+运行时间:30000ms
+br4:==problem 59===>填充率为:0.9719522878653835
+Guillotine Blocks块生成完毕:3055块
+生成时间1163ms
+运行时间:30000ms
+br3:==problem 57===>填充率为:0.9635468310998943
+Guillotine Blocks块生成完毕:3036块
+生成时间663ms
+Guillotine Blocks块生成完毕:9480块
+生成时间77939ms
+运行时间:30000ms
+br13:==problem 60===>填充率为:0.9316561990480439
+Guillotine Blocks块生成完毕:3406块
+生成时间1001ms
+Guillotine Blocks块生成完毕:5628块
+生成时间9011ms
+Guillotine Blocks块生成完毕:2302块
+生成时间444ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3844ms
+运行时间:30001ms
+br15:==problem 61===>填充率为:0.9262793614542157
+Guillotine Blocks块生成完毕:10000块
+生成时间3700ms
+运行时间:30000ms
+br14:==problem 60===>填充率为:0.9277523278791823
+运行时间:30001ms
+br11:==problem 60===>填充率为:0.9397302126115251
+Guillotine Blocks块生成完毕:10000块
+生成时间3370ms
+Guillotine Blocks块生成完毕:9561块
+生成时间5450ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2980ms
+运行时间:30000ms
+br8:==problem 54===>填充率为:0.9462253095918127
+运行时间:30000ms
+br7:==problem 64===>填充率为:0.9467633024278804
+运行时间:30000ms
+br12:==problem 61===>填充率为:0.9350707985012772
+运行时间:30001ms
+br1:==problem 50===>填充率为:0.9780801485695066
+Guillotine Blocks块生成完毕:4418块
+生成时间2561ms
+Guillotine Blocks块生成完毕:10000块
+生成时间5944ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3971ms
+运行时间:30000ms
+br9:==problem 59===>填充率为:0.9342807253797156
+运行时间:30000ms
+br6:==problem 63===>填充率为:0.9549812859052391
+运行时间:30000ms
+br5:==problem 61===>填充率为:0.959264357609036
+运行时间:30000ms
+br0:==problem 42===>填充率为:0.8504328070610396
+运行时间:30000ms
+br4:==problem 60===>填充率为:0.9498594199594411
+Guillotine Blocks块生成完毕:10000块
+生成时间3257ms
+运行时间:30000ms
+br2:==problem 54===>填充率为:0.9517056712580617
+运行时间:30000ms
+br3:==problem 58===>填充率为:0.9616391632729161
+Guillotine Blocks块生成完毕:3186块
+生成时间883ms
+运行时间:30000ms
+br10:==problem 61===>填充率为:0.9303091232125896
+Guillotine Blocks块生成完毕:3995块
+生成时间1407ms
+Guillotine Blocks块生成完毕:4750块
+生成时间2312ms
+运行时间:30001ms
+br13:==problem 61===>填充率为:0.9285256178044123
+Guillotine Blocks块生成完毕:3768块
+生成时间3373ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2980ms
+Guillotine Blocks块生成完毕:4776块
+生成时间5927ms
+运行时间:30000ms
+br14:==problem 61===>填充率为:0.9305669197550518
+运行时间:30009ms
+br15:==problem 62===>填充率为:0.9272213474281165
+运行时间:30000ms
+br11:==problem 61===>填充率为:0.9354396300119443
+Guillotine Blocks块生成完毕:10000块
+生成时间6210ms
+Guillotine Blocks块生成完毕:10000块
+生成时间10362ms
+Guillotine Blocks块生成完毕:5012块
+生成时间835ms
+Guillotine Blocks块生成完毕:8220块
+生成时间24573ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2561ms
+运行时间:30000ms
+br7:==problem 65===>填充率为:0.9583235015929081
+Guillotine Blocks块生成完毕:10000块
+生成时间6386ms
+运行时间:30001ms
+br8:==problem 55===>填充率为:0.9447367563963919
+Guillotine Blocks块生成完毕:2518块
+生成时间472ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1352ms
+运行时间:30000ms
+br12:==problem 62===>填充率为:0.9402462377391273
+Guillotine Blocks块生成完毕:10000块
+生成时间1638ms
+运行时间:30000ms
+br9:==problem 60===>填充率为:0.9411019148796163
+运行时间:30000ms
+br6:==problem 64===>填充率为:0.9444969394761383
+运行时间:30000ms
+br5:==problem 62===>填充率为:0.9489410633966132
+运行时间:30000ms
+br4:==problem 61===>填充率为:0.9643166646837016
+Guillotine Blocks块生成完毕:2906块
+生成时间900ms
+运行时间:30001ms
+br2:==problem 55===>填充率为:0.9608067499689261
+运行时间:30001ms
+br10:==problem 62===>填充率为:0.9384182984032368
+运行时间:30000ms
+br0:==problem 43===>填充率为:0.8668291590256042
+Guillotine Blocks块生成完毕:5186块
+生成时间4592ms
+Guillotine Blocks块生成完毕:10000块
+生成时间5661ms
+Guillotine Blocks块生成完毕:4369块
+生成时间3013ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2111ms
+运行时间:30000ms
+br13:==problem 62===>填充率为:0.9307819440724077
+运行时间:30000ms
+br3:==problem 59===>填充率为:0.9670777497356231
+运行时间:30000ms
+br15:==problem 63===>填充率为:0.934288302743604
+运行时间:30000ms
+br1:==problem 51===>填充率为:0.9634570326910077
+运行时间:30000ms
+br14:==problem 62===>填充率为:0.9325627575223615
+Guillotine Blocks块生成完毕:3170块
+生成时间1780ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2975ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2042ms
+Guillotine Blocks块生成完毕:6794块
+生成时间2153ms
+运行时间:30000ms
+br11:==problem 62===>填充率为:0.9362576197373048
+运行时间:30001ms
+br7:==problem 66===>填充率为:0.9567541231826789
+Guillotine Blocks块生成完毕:7703块
+生成时间15753ms
+运行时间:30000ms
+br8:==problem 56===>填充率为:0.9398908992536297
+Guillotine Blocks块生成完毕:10000块
+生成时间2055ms
+Guillotine Blocks块生成完毕:3564块
+生成时间1732ms
+运行时间:30000ms
+br12:==problem 63===>填充率为:0.9357417275459112
+Guillotine Blocks块生成完毕:10000块
+生成时间2383ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2409ms
+运行时间:30000ms
+br5:==problem 63===>填充率为:0.9610986114148334
+Guillotine Blocks块生成完毕:5350块
+生成时间27128ms
+运行时间:30001ms
+br6:==problem 65===>填充率为:0.959808531978802
+运行时间:30000ms
+br9:==problem 61===>填充率为:0.9379099835757314
+Guillotine Blocks块生成完毕:2800块
+生成时间1029ms
+运行时间:30000ms
+br4:==problem 62===>填充率为:0.9635610552742109
+运行时间:30000ms
+br10:==problem 63===>填充率为:0.937553282494096
+Guillotine Blocks块生成完毕:3010块
+生成时间1131ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1744ms
+Guillotine Blocks块生成完毕:3166块
+生成时间1278ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1797ms
+运行时间:30001ms
+br3:==problem 60===>填充率为:0.9504249638247343
+运行时间:30000ms
+br13:==problem 63===>填充率为:0.9315210693920362
+运行时间:30000ms
+br15:==problem 64===>填充率为:0.9274262021255171
+运行时间:30000ms
+br14:==problem 63===>填充率为:0.9316669004128334
+Guillotine Blocks块生成完毕:2614块
+生成时间948ms
+运行时间:30000ms
+br2:==problem 56===>填充率为:0.968435294297502
+Guillotine Blocks块生成完毕:10000块
+生成时间3640ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3480ms
+运行时间:30000ms
+br11:==problem 63===>填充率为:0.9326260351576391
+Guillotine Blocks块生成完毕:10000块
+生成时间3469ms
+运行时间:30000ms
+br7:==problem 67===>填充率为:0.9478705281090289
+Guillotine Blocks块生成完毕:2050块
+生成时间328ms
+运行时间:30000ms
+br8:==problem 57===>填充率为:0.9439586142995492
+Guillotine Blocks块生成完毕:10000块
+生成时间3516ms
+运行时间:30000ms
+br12:==problem 64===>填充率为:0.9295505559724583
+Guillotine Blocks块生成完毕:9744块
+生成时间45442ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4365ms
+Guillotine Blocks块生成完毕:6758块
+生成时间9518ms
+运行时间:30001ms
+br0:==problem 44===>填充率为:0.8630617468748359
+Guillotine Blocks块生成完毕:10000块
+生成时间2825ms
+运行时间:30000ms
+br5:==problem 64===>填充率为:0.9531406511614304
+运行时间:30001ms
+br6:==problem 66===>填充率为:0.9549232592501999
+运行时间:30001ms
+br9:==problem 62===>填充率为:0.9341207698867583
+运行时间:30000ms
+br4:==problem 63===>填充率为:0.9554218365004277
+运行时间:30001ms
+br10:==problem 64===>填充率为:0.934155665641507
+Guillotine Blocks块生成完毕:3478块
+生成时间1618ms
+Guillotine Blocks块生成完毕:5212块
+生成时间4784ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1532ms
+Guillotine Blocks块生成完毕:10000块
+生成时间7763ms
+Guillotine Blocks块生成完毕:3776块
+生成时间2001ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3598ms
+运行时间:30001ms
+br3:==problem 61===>填充率为:0.9636440074683562
+运行时间:30001ms
+br13:==problem 64===>填充率为:0.924117087553781
+运行时间:30000ms
+br15:==problem 65===>填充率为:0.9331300627924182
+Guillotine Blocks块生成完毕:3995块
+生成时间2805ms
+运行时间:30000ms
+br14:==problem 64===>填充率为:0.929549093674164
+运行时间:30000ms
+br7:==problem 68===>填充率为:0.9476067162031292
+Guillotine Blocks块生成完毕:10000块
+生成时间2579ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2899ms
+运行时间:30000ms
+br11:==problem 64===>填充率为:0.9331514987560494
+Guillotine Blocks块生成完毕:2970块
+生成时间966ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3943ms
+运行时间:30000ms
+br1:==problem 52===>填充率为:0.9531252305612368
+Guillotine Blocks块生成完毕:10000块
+生成时间1696ms
+运行时间:30001ms
+br8:==problem 58===>填充率为:0.9492955710308073
+运行时间:30001ms
+br2:==problem 57===>填充率为:0.9603913907852608
+运行时间:30000ms
+br12:==problem 65===>填充率为:0.9349921667339103
+Guillotine Blocks块生成完毕:10000块
+生成时间3552ms
+Guillotine Blocks块生成完毕:4166块
+生成时间4018ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3033ms
+Guillotine Blocks块生成完毕:5536块
+生成时间9031ms
+运行时间:30000ms
+br6:==problem 67===>填充率为:0.9538876861854686
+运行时间:30001ms
+br5:==problem 65===>填充率为:0.9723964609722555
+运行时间:30000ms
+br9:==problem 63===>填充率为:0.9392873688667388
+运行时间:30001ms
+br0:==problem 45===>填充率为:0.9495762990692471
+运行时间:30001ms
+br4:==problem 64===>填充率为:0.9483736916584523
+Guillotine Blocks块生成完毕:2762块
+生成时间742ms
+Guillotine Blocks块生成完毕:2996块
+生成时间1024ms
+运行时间:30000ms
+br10:==problem 65===>填充率为:0.9317208392794591
+Guillotine Blocks块生成完毕:10000块
+生成时间2588ms
+Guillotine Blocks块生成完毕:5556块
+生成时间4760ms
+运行时间:30000ms
+br3:==problem 62===>填充率为:0.9543662233022551
+Guillotine Blocks块生成完毕:10000块
+生成时间4528ms
+运行时间:30000ms
+br13:==problem 65===>填充率为:0.9431332798486655
+运行时间:30000ms
+br15:==problem 66===>填充率为:0.9274310875311819
+Guillotine Blocks块生成完毕:4228块
+生成时间3356ms
+运行时间:30000ms
+br7:==problem 69===>填充率为:0.9408249090550164
+运行时间:30000ms
+br14:==problem 65===>填充率为:0.9352782454547448
+Guillotine Blocks块生成完毕:4509块
+生成时间772ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1853ms
+Guillotine Blocks块生成完毕:10000块
+生成时间15237ms
+Guillotine Blocks块生成完毕:2662块
+生成时间485ms
+运行时间:30000ms
+br11:==problem 65===>填充率为:0.9401444750714698
+Guillotine Blocks块生成完毕:10000块
+生成时间2878ms
+Guillotine Blocks块生成完毕:10000块
+生成时间914ms
+运行时间:30000ms
+br8:==problem 59===>填充率为:0.9462158378869524
+运行时间:30000ms
+br2:==problem 58===>填充率为:0.9587768140641191
+运行时间:30000ms
+br12:==problem 66===>填充率为:0.9388362498429691
+运行时间:30000ms
+br1:==problem 53===>填充率为:0.9061678412688495
+Guillotine Blocks块生成完毕:10000块
+生成时间2791ms
+运行时间:30000ms
+br6:==problem 68===>填充率为:0.9447493853362057
+运行时间:30000ms
+br5:==problem 66===>填充率为:0.95515852310531
+Guillotine Blocks块生成完毕:10000块
+生成时间6601ms
+Guillotine Blocks块生成完毕:9548块
+生成时间5393ms
+运行时间:30001ms
+br9:==problem 64===>填充率为:0.9367869052517114
+Guillotine Blocks块生成完毕:3742块
+生成时间2125ms
+Guillotine Blocks块生成完毕:3433块
+生成时间1671ms
+运行时间:30000ms
+br4:==problem 65===>填充率为:0.9688745819987092
+运行时间:30001ms
+br10:==problem 66===>填充率为:0.9314637738861441
+Guillotine Blocks块生成完毕:3054块
+生成时间886ms
+Guillotine Blocks块生成完毕:10000块
+生成时间7351ms
+Guillotine Blocks块生成完毕:6954块
+生成时间14072ms
+运行时间:30007ms
+br3:==problem 63===>填充率为:0.9586212122319923
+Guillotine Blocks块生成完毕:10000块
+生成时间3234ms
+运行时间:30004ms
+br15:==problem 67===>填充率为:0.9229333238505505
+运行时间:30001ms
+br13:==problem 66===>填充率为:0.9339673282680206
+运行时间:30001ms
+br0:==problem 46===>填充率为:0.9369402471682926
+运行时间:30000ms
+br7:==problem 70===>填充率为:0.9395582263916925
+Guillotine Blocks块生成完毕:4184块
+生成时间2007ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1012ms
+运行时间:30000ms
+br14:==problem 66===>填充率为:0.9281836394078755
+Guillotine Blocks块生成完毕:2702块
+生成时间713ms
+运行时间:30001ms
+br11:==problem 66===>填充率为:0.9387589806717399
+Guillotine Blocks块生成完毕:8378块
+生成时间3273ms
+Guillotine Blocks块生成完毕:9642块
+生成时间2783ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2947ms
+运行时间:30000ms
+br2:==problem 59===>填充率为:0.9701425275560144
+运行时间:30001ms
+br8:==problem 60===>填充率为:0.9445565281316282
+运行时间:30000ms
+br12:==problem 67===>填充率为:0.9325752867600189
+运行时间:30000ms
+br6:==problem 69===>填充率为:0.9531526818883057
+Guillotine Blocks块生成完毕:3863块
+生成时间3494ms
+运行时间:30000ms
+br5:==problem 67===>填充率为:0.9504072168408907
+Guillotine Blocks块生成完毕:10000块
+生成时间1573ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1598ms
+Guillotine Blocks块生成完毕:2102块
+生成时间381ms
+Guillotine Blocks块生成完毕:3675块
+生成时间1896ms
+运行时间:30000ms
+br4:==problem 66===>填充率为:0.95634119008482
+运行时间:30001ms
+br9:==problem 65===>填充率为:0.9348363654974705
+运行时间:30008ms
+br1:==problem 54===>填充率为:0.9337211968778603
+运行时间:30000ms
+br10:==problem 67===>填充率为:0.9328998837472856
+Guillotine Blocks块生成完毕:5058块
+生成时间3911ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1442ms
+运行时间:30000ms
+br3:==problem 64===>填充率为:0.9595036427844552
+运行时间:30000ms
+br15:==problem 68===>填充率为:0.9309181039840317
+运行时间:30000ms
+br7:==problem 71===>填充率为:0.9485211843818566
+Guillotine Blocks块生成完毕:3768块
+生成时间4564ms
+运行时间:30001ms
+br13:==problem 67===>填充率为:0.9258075708500141
+Guillotine Blocks块生成完毕:10000块
+生成时间4588ms
+Guillotine Blocks块生成完毕:3363块
+生成时间953ms
+Guillotine Blocks块生成完毕:5110块
+生成时间3857ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3526ms
+运行时间:30000ms
+br14:==problem 67===>填充率为:0.9256687522142187
+运行时间:30001ms
+br11:==problem 67===>填充率为:0.9325467719432814
+Guillotine Blocks块生成完毕:10000块
+生成时间1101ms
+Guillotine Blocks块生成完毕:9050块
+生成时间3003ms
+Guillotine Blocks块生成完毕:10000块
+生成时间9953ms
+运行时间:30001ms
+br2:==problem 60===>填充率为:0.9565595045733379
+Guillotine Blocks块生成完毕:7392块
+生成时间46962ms
+运行时间:30000ms
+br8:==problem 61===>填充率为:0.9385746646185628
+运行时间:30001ms
+br12:==problem 68===>填充率为:0.9334285710487537
+运行时间:30000ms
+br6:==problem 70===>填充率为:0.947229908519948
+Guillotine Blocks块生成完毕:3040块
+生成时间1933ms
+运行时间:30000ms
+br5:==problem 68===>填充率为:0.9580316401470008
+Guillotine Blocks块生成完毕:10000块
+生成时间681ms
+Guillotine Blocks块生成完毕:3770块
+生成时间1845ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3000ms
+Guillotine Blocks块生成完毕:3482块
+生成时间1912ms
+运行时间:30001ms
+br4:==problem 67===>填充率为:0.9551823186866434
+运行时间:30000ms
+br9:==problem 66===>填充率为:0.9389709142222468
+运行时间:30001ms
+br1:==problem 55===>填充率为:0.9301542525296099
+Guillotine Blocks块生成完毕:10000块
+生成时间2665ms
+运行时间:30000ms
+br10:==problem 68===>填充率为:0.9349899732864689
+运行时间:30000ms
+br7:==problem 72===>填充率为:0.9415504084132668
+Guillotine Blocks块生成完毕:4902块
+生成时间4928ms
+运行时间:30000ms
+br3:==problem 65===>填充率为:0.9724222505967174
+运行时间:30001ms
+br15:==problem 69===>填充率为:0.9287214660736826
+Guillotine Blocks块生成完毕:2330块
+生成时间410ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3310ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1916ms
+Guillotine Blocks块生成完毕:2999块
+生成时间1118ms
+Guillotine Blocks块生成完毕:6793块
+生成时间1966ms
+运行时间:30000ms
+br11:==problem 68===>填充率为:0.9294221395949832
+运行时间:30000ms
+br14:==problem 68===>填充率为:0.9378593681143198
+Guillotine Blocks块生成完毕:10000块
+生成时间2414ms
+运行时间:30000ms
+br13:==problem 68===>填充率为:0.9344639779432242
+Guillotine Blocks块生成完毕:10000块
+生成时间2307ms
+运行时间:30000ms
+br0:==problem 47===>填充率为:0.9249999169148696
+Guillotine Blocks块生成完毕:10000块
+生成时间1541ms
+运行时间:30001ms
+br2:==problem 61===>填充率为:0.9473123289692592
+运行时间:30000ms
+br12:==problem 69===>填充率为:0.9323456726937728
+运行时间:30000ms
+br6:==problem 71===>填充率为:0.9588902751181304
+运行时间:30000ms
+br8:==problem 62===>填充率为:0.9327153018216914
+Guillotine Blocks块生成完毕:10000块
+生成时间570ms
+运行时间:30000ms
+br5:==problem 69===>填充率为:0.9492228216906694
+Guillotine Blocks块生成完毕:10000块
+生成时间761ms
+Guillotine Blocks块生成完毕:3372块
+生成时间1111ms
+Guillotine Blocks块生成完毕:4312块
+生成时间4369ms
+Guillotine Blocks块生成完毕:2376块
+生成时间639ms
+Guillotine Blocks块生成完毕:10000块
+生成时间10628ms
+运行时间:30000ms
+br9:==problem 67===>填充率为:0.9338320656758045
+运行时间:30000ms
+br4:==problem 68===>填充率为:0.9512300919719159
+运行时间:30001ms
+br7:==problem 73===>填充率为:0.9476744472013937
+运行时间:30074ms
+br1:==problem 56===>填充率为:0.9739873750482725
+运行时间:30001ms
+br10:==problem 69===>填充率为:0.9360824098144144
+Guillotine Blocks块生成完毕:10000块
+生成时间3207ms
+Guillotine Blocks块生成完毕:3898块
+生成时间2022ms
+运行时间:30002ms
+br3:==problem 66===>填充率为:0.9516067999529406
+Guillotine Blocks块生成完毕:2218块
+生成时间419ms
+运行时间:30000ms
+br15:==problem 70===>填充率为:0.9358134798644848
+Guillotine Blocks块生成完毕:10000块
+生成时间2946ms
+运行时间:30000ms
+br11:==problem 69===>填充率为:0.9325435482402237
+Guillotine Blocks块生成完毕:10000块
+生成时间3119ms
+运行时间:30000ms
+br14:==problem 69===>填充率为:0.9361657940512376
+Guillotine Blocks块生成完毕:10000块
+生成时间678ms
+运行时间:30001ms
+br13:==problem 69===>填充率为:0.9224742618883189
+Guillotine Blocks块生成完毕:5906块
+生成时间8186ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2670ms
+Guillotine Blocks块生成完毕:6028块
+生成时间11362ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3284ms
+运行时间:30000ms
+br12:==problem 70===>填充率为:0.9303193593006492
+运行时间:30000ms
+br8:==problem 63===>填充率为:0.9401751168675444
+运行时间:30000ms
+br6:==problem 72===>填充率为:0.9489489066329186
+运行时间:30000ms
+br2:==problem 62===>填充率为:0.9602028872415138
+运行时间:30000ms
+br5:==problem 70===>填充率为:0.9467394071443906
+Guillotine Blocks块生成完毕:10000块
+生成时间1991ms
+Guillotine Blocks块生成完毕:2554块
+生成时间610ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1360ms
+运行时间:30000ms
+br0:==problem 48===>填充率为:0.8854700059356018
+Guillotine Blocks块生成完毕:4488块
+生成时间2978ms
+Guillotine Blocks块生成完毕:4674块
+生成时间5162ms
+运行时间:30000ms
+br9:==problem 68===>填充率为:0.9344900999082075
+运行时间:30001ms
+br4:==problem 69===>填充率为:0.9583491582811614
+运行时间:30000ms
+br7:==problem 74===>填充率为:0.9333780220554464
+Guillotine Blocks块生成完毕:10000块
+生成时间1538ms
+Guillotine Blocks块生成完毕:2884块
+生成时间1213ms
+运行时间:30000ms
+br10:==problem 70===>填充率为:0.9391811528360943
+Guillotine Blocks块生成完毕:2807块
+生成时间967ms
+Guillotine Blocks块生成完毕:10000块
+生成时间11339ms
+运行时间:30000ms
+br15:==problem 71===>填充率为:0.9350867840803573
+Guillotine Blocks块生成完毕:10000块
+生成时间2589ms
+运行时间:30000ms
+br11:==problem 70===>填充率为:0.9316103028220363
+运行时间:30000ms
+br3:==problem 67===>填充率为:0.9635837208977714
+Guillotine Blocks块生成完毕:10000块
+生成时间2763ms
+运行时间:30000ms
+br14:==problem 70===>填充率为:0.9278674838698527
+运行时间:30003ms
+br1:==problem 57===>填充率为:0.9564304235148201
+Guillotine Blocks块生成完毕:10000块
+生成时间2695ms
+运行时间:30001ms
+br13:==problem 70===>填充率为:0.9278097563212829
+Guillotine Blocks块生成完毕:10000块
+生成时间3774ms
+Guillotine Blocks块生成完毕:3672块
+生成时间4824ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1662ms
+运行时间:30000ms
+br12:==problem 71===>填充率为:0.9359490083291181
+运行时间:30000ms
+br6:==problem 73===>填充率为:0.9538092538224145
+运行时间:30000ms
+br8:==problem 64===>填充率为:0.9328735291439374
+Guillotine Blocks块生成完毕:1890块
+生成时间369ms
+Guillotine Blocks块生成完毕:6559块
+生成时间11512ms
+运行时间:30000ms
+br5:==problem 71===>填充率为:0.958848632850797
+Guillotine Blocks块生成完毕:10000块
+生成时间3913ms
+运行时间:30000ms
+br2:==problem 63===>填充率为:0.9513709378848919
+Guillotine Blocks块生成完毕:10000块
+生成时间4084ms
+Guillotine Blocks块生成完毕:4069块
+生成时间2292ms
+Guillotine Blocks块生成完毕:4301块
+生成时间2493ms
+运行时间:30000ms
+br9:==problem 69===>填充率为:0.9392570261771335
+运行时间:30016ms
+br4:==problem 70===>填充率为:0.9505517849677064
+运行时间:30001ms
+br7:==problem 75===>填充率为:0.950176074008246
+运行时间:30000ms
+br0:==problem 49===>填充率为:0.940677881608342
+Guillotine Blocks块生成完毕:1818块
+生成时间314ms
+Guillotine Blocks块生成完毕:4584块
+生成时间2344ms
+运行时间:30000ms
+br10:==problem 71===>填充率为:0.9349632531085471
+Guillotine Blocks块生成完毕:10000块
+生成时间3272ms
+运行时间:30000ms
+br15:==problem 72===>填充率为:0.9350476676009867
+Guillotine Blocks块生成完毕:10000块
+生成时间1595ms
+运行时间:30001ms
+br11:==problem 71===>填充率为:0.942881066626963
+Guillotine Blocks块生成完毕:6735块
+生成时间1360ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1649ms
+运行时间:30000ms
+br14:==problem 71===>填充率为:0.9316914271433139
+运行时间:30001ms
+br1:==problem 58===>填充率为:0.9460411597088962
+运行时间:30000ms
+br13:==problem 71===>填充率为:0.9274598017522322
+Guillotine Blocks块生成完毕:10000块
+生成时间1304ms
+Guillotine Blocks块生成完毕:10000块
+生成时间15543ms
+运行时间:30001ms
+br6:==problem 74===>填充率为:0.9414425971481195
+Guillotine Blocks块生成完毕:10000块
+生成时间3266ms
+运行时间:30000ms
+br3:==problem 68===>填充率为:0.9590975891353896
+Guillotine Blocks块生成完毕:10000块
+生成时间3555ms
+运行时间:30001ms
+br12:==problem 72===>填充率为:0.92722310883288
+Guillotine Blocks块生成完毕:3782块
+生成时间1979ms
+运行时间:30000ms
+br8:==problem 65===>填充率为:0.9476211397817587
+运行时间:30008ms
+br5:==problem 72===>填充率为:0.9535980181870027
+Guillotine Blocks块生成完毕:10000块
+生成时间2241ms
+Guillotine Blocks块生成完毕:4910块
+生成时间3882ms
+运行时间:30000ms
+br2:==problem 64===>填充率为:0.9458102827486689
+Guillotine Blocks块生成完毕:3602块
+生成时间1677ms
+运行时间:30001ms
+br7:==problem 76===>填充率为:0.9446656022907568
+Guillotine Blocks块生成完毕:10000块
+生成时间7670ms
+运行时间:30000ms
+br4:==problem 71===>填充率为:0.9632449329702403
+运行时间:30000ms
+br9:==problem 70===>填充率为:0.939370055188467
+Guillotine Blocks块生成完毕:3866块
+生成时间1978ms
+Guillotine Blocks块生成完毕:3988块
+生成时间1753ms
+运行时间:30001ms
+br10:==problem 72===>填充率为:0.9318224025428038
+Guillotine Blocks块生成完毕:10000块
+生成时间9668ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3926ms
+运行时间:30000ms
+br15:==problem 73===>填充率为:0.935941929476012
+Guillotine Blocks块生成完毕:10000块
+生成时间1504ms
+运行时间:30001ms
+br11:==problem 72===>填充率为:0.9282439592125125
+Guillotine Blocks块生成完毕:6941块
+生成时间1779ms
+运行时间:30000ms
+br13:==problem 72===>填充率为:0.9294989767235345
+运行时间:30046ms
+br0:==problem 50===>填充率为:0.9826644537219147
+运行时间:30001ms
+br14:==problem 72===>填充率为:0.9284111929628889
+运行时间:30001ms
+br1:==problem 59===>填充率为:0.9716326095178337
+Guillotine Blocks块生成完毕:10000块
+生成时间6324ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1657ms
+运行时间:30000ms
+br6:==problem 75===>填充率为:0.9565640244044291
+Guillotine Blocks块生成完毕:10000块
+生成时间3629ms
+Guillotine Blocks块生成完毕:2610块
+生成时间764ms
+运行时间:30001ms
+br12:==problem 73===>填充率为:0.9383744959225141
+运行时间:30018ms
+br3:==problem 69===>填充率为:0.9606174820419799
+运行时间:30000ms
+br5:==problem 73===>填充率为:0.9478879427523511
+Guillotine Blocks块生成完毕:5285块
+生成时间6211ms
+Guillotine Blocks块生成完毕:2512块
+生成时间1168ms
+Guillotine Blocks块生成完毕:2306块
+生成时间514ms
+Guillotine Blocks块生成完毕:10000块
+生成时间10956ms
+运行时间:30001ms
+br8:==problem 66===>填充率为:0.9391553964456846
+Guillotine Blocks块生成完毕:10000块
+生成时间5413ms
+运行时间:30001ms
+br7:==problem 77===>填充率为:0.9502831541242461
+运行时间:30001ms
+br4:==problem 72===>填充率为:0.9562807373439745
+Guillotine Blocks块生成完毕:10000块
+生成时间3315ms
+运行时间:30000ms
+br2:==problem 65===>填充率为:0.9714663063209173
+Guillotine Blocks块生成完毕:3914块
+生成时间1692ms
+运行时间:30000ms
+br9:==problem 71===>填充率为:0.9415016540587751
+Guillotine Blocks块生成完毕:3394块
+生成时间1696ms
+运行时间:30000ms
+br10:==problem 73===>填充率为:0.9360480458045001
+运行时间:30000ms
+br15:==problem 74===>填充率为:0.9258884625329267
+Guillotine Blocks块生成完毕:10000块
+生成时间2001ms
+Guillotine Blocks块生成完毕:5870块
+生成时间8536ms
+Guillotine Blocks块生成完毕:10000块
+生成时间6128ms
+Guillotine Blocks块生成完毕:9619块
+生成时间4464ms
+运行时间:30000ms
+br11:==problem 73===>填充率为:0.9318539748923382
+运行时间:30000ms
+br13:==problem 73===>填充率为:0.9375335414671239
+Guillotine Blocks块生成完毕:10000块
+生成时间1116ms
+运行时间:30000ms
+br14:==problem 73===>填充率为:0.9334077665321131
+运行时间:30001ms
+br6:==problem 76===>填充率为:0.9564187251284663
+Guillotine Blocks块生成完毕:8458块
+生成时间3250ms
+运行时间:30001ms
+br1:==problem 60===>填充率为:0.9525195067269044
+运行时间:30000ms
+br3:==problem 70===>填充率为:0.9490133142259689
+Guillotine Blocks块生成完毕:10000块
+生成时间2478ms
+Guillotine Blocks块生成完毕:4920块
+生成时间2480ms
+运行时间:30001ms
+br5:==problem 74===>填充率为:0.9517603745078868
+运行时间:30000ms
+br0:==problem 51===>填充率为:0.9399887403031344
+运行时间:30000ms
+br12:==problem 74===>填充率为:0.920542698777851
+Guillotine Blocks块生成完毕:4500块
+生成时间2550ms
+Guillotine Blocks块生成完毕:3572块
+生成时间1575ms
+Guillotine Blocks块生成完毕:4039块
+生成时间5037ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1727ms
+运行时间:30001ms
+br8:==problem 67===>填充率为:0.939117709030556
+运行时间:30000ms
+br7:==problem 78===>填充率为:0.9480892081721205
+运行时间:30000ms
+br4:==problem 73===>填充率为:0.9532096450536763
+Guillotine Blocks块生成完毕:10000块
+生成时间2204ms
+Guillotine Blocks块生成完毕:3707块
+生成时间1374ms
+Guillotine Blocks块生成完毕:2000块
+生成时间466ms
+运行时间:30000ms
+br9:==problem 72===>填充率为:0.9315176795187178
+运行时间:30000ms
+br2:==problem 66===>填充率为:0.9605317714215068
+运行时间:30000ms
+br10:==problem 74===>填充率为:0.9392737761394129
+运行时间:30000ms
+br15:==problem 75===>填充率为:0.9379496317999363
+Guillotine Blocks块生成完毕:10000块
+生成时间4915ms
+Guillotine Blocks块生成完毕:5396块
+生成时间1131ms
+运行时间:30000ms
+br11:==problem 74===>填充率为:0.9307092612003741
+Guillotine Blocks块生成完毕:10000块
+生成时间4741ms
+运行时间:30000ms
+br13:==problem 74===>填充率为:0.9258387443909228
+Guillotine Blocks块生成完毕:10000块
+生成时间1508ms
+Guillotine Blocks块生成完毕:5366块
+生成时间24904ms
+运行时间:30001ms
+br14:==problem 74===>填充率为:0.9310859691813987
+运行时间:30001ms
+br6:==problem 77===>填充率为:0.9589561117754228
+Guillotine Blocks块生成完毕:10000块
+生成时间1530ms
+运行时间:30000ms
+br3:==problem 71===>填充率为:0.9628815518441243
+运行时间:30000ms
+br5:==problem 75===>填充率为:0.9488082268902034
+Guillotine Blocks块生成完毕:10000块
+生成时间3163ms
+Guillotine Blocks块生成完毕:4347块
+生成时间2872ms
+运行时间:30000ms
+br1:==problem 61===>填充率为:0.9577032877118422
+运行时间:30001ms
+br12:==problem 75===>填充率为:0.9331206907897142
+Guillotine Blocks块生成完毕:2820块
+生成时间854ms
+Guillotine Blocks块生成完毕:4719块
+生成时间3969ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1702ms
+运行时间:30000ms
+br8:==problem 68===>填充率为:0.9447472251228164
+运行时间:30000ms
+br7:==problem 79===>填充率为:0.9517767256615405
+Guillotine Blocks块生成完毕:8937块
+生成时间22902ms
+运行时间:30000ms
+br4:==problem 74===>填充率为:0.9357997209668982
+Guillotine Blocks块生成完毕:2483块
+生成时间669ms
+Guillotine Blocks块生成完毕:5652块
+生成时间9661ms
+Guillotine Blocks块生成完毕:10000块
+生成时间5872ms
+运行时间:30000ms
+br9:==problem 73===>填充率为:0.9449336016872264
+运行时间:30000ms
+br15:==problem 76===>填充率为:0.929416223933702
+运行时间:30001ms
+br10:==problem 75===>填充率为:0.9365836790228657
+Guillotine Blocks块生成完毕:7316块
+生成时间11225ms
+运行时间:30000ms
+br11:==problem 75===>填充率为:0.9319366944481187
+运行时间:30000ms
+br0:==problem 52===>填充率为:0.8972619793802646
+Guillotine Blocks块生成完毕:10000块
+生成时间635ms
+运行时间:30000ms
+br13:==problem 75===>填充率为:0.9295114062590355
+Guillotine Blocks块生成完毕:10000块
+生成时间8106ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3428ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2315ms
+Guillotine Blocks块生成完毕:10000块
+生成时间7681ms
+运行时间:30000ms
+br14:==problem 75===>填充率为:0.9325702351840934
+运行时间:30001ms
+br6:==problem 78===>填充率为:0.9609206098315631
+Guillotine Blocks块生成完毕:10000块
+生成时间2347ms
+运行时间:30000ms
+br5:==problem 76===>填充率为:0.9549935825045315
+运行时间:30000ms
+br3:==problem 72===>填充率为:0.9459226138449073
+Guillotine Blocks块生成完毕:9605块
+生成时间3708ms
+运行时间:30000ms
+br12:==problem 76===>填充率为:0.9281031132995365
+Guillotine Blocks块生成完毕:4823块
+生成时间4244ms
+Guillotine Blocks块生成完毕:3018块
+生成时间1265ms
+运行时间:30000ms
+br2:==problem 67===>填充率为:0.9679147161047564
+Guillotine Blocks块生成完毕:5564块
+生成时间4722ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1401ms
+运行时间:30000ms
+br7:==problem 80===>填充率为:0.9564550831815091
+运行时间:30000ms
+br1:==problem 62===>填充率为:0.9486331166694694
+Guillotine Blocks块生成完毕:2200块
+生成时间374ms
+运行时间:30003ms
+br8:==problem 69===>填充率为:0.942396780019156
+Guillotine Blocks块生成完毕:5492块
+生成时间6765ms
+运行时间:30001ms
+br4:==problem 75===>填充率为:0.95659802283977
+Guillotine Blocks块生成完毕:5220块
+生成时间8351ms
+Guillotine Blocks块生成完毕:3331块
+生成时间1454ms
+运行时间:30000ms
+br11:==problem 76===>填充率为:0.9365425020322623
+运行时间:30001ms
+br9:==problem 74===>填充率为:0.93520011219816
+运行时间:30001ms
+br10:==problem 76===>填充率为:0.9462498363222932
+Guillotine Blocks块生成完毕:10000块
+生成时间9881ms
+运行时间:30000ms
+br0:==problem 53===>填充率为:0.9426376271950261
+运行时间:30000ms
+br15:==problem 77===>填充率为:0.9244022024871035
+运行时间:30000ms
+br13:==problem 76===>填充率为:0.933596502714225
+Guillotine Blocks块生成完毕:10000块
+生成时间2608ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2776ms
+运行时间:30000ms
+br14:==problem 76===>填充率为:0.9377053282826436
+Guillotine Blocks块生成完毕:10000块
+生成时间4701ms
+运行时间:30001ms
+br6:==problem 79===>填充率为:0.9511069265746792
+Guillotine Blocks块生成完毕:10000块
+生成时间4294ms
+Guillotine Blocks块生成完毕:10000块
+生成时间8784ms
+运行时间:30000ms
+br3:==problem 73===>填充率为:0.9438869949171841
+运行时间:30000ms
+br5:==problem 77===>填充率为:0.9644434525926217
+运行时间:30000ms
+br12:==problem 77===>填充率为:0.9310808511373689
+Guillotine Blocks块生成完毕:3966块
+生成时间2444ms
+Guillotine Blocks块生成完毕:3382块
+生成时间1945ms
+Guillotine Blocks块生成完毕:10000块
+生成时间5448ms
+运行时间:30001ms
+br7:==problem 81===>填充率为:0.9437436564502975
+Guillotine Blocks块生成完毕:10000块
+生成时间3023ms
+Guillotine Blocks块生成完毕:4693块
+生成时间4076ms
+Guillotine Blocks块生成完毕:2526块
+生成时间560ms
+运行时间:30000ms
+br2:==problem 68===>填充率为:0.9474283158112332
+运行时间:30000ms
+br1:==problem 63===>填充率为:0.943730628701858
+Guillotine Blocks块生成完毕:4470块
+生成时间4330ms
+运行时间:30000ms
+br4:==problem 76===>填充率为:0.9581944870024945
+运行时间:30000ms
+br8:==problem 70===>填充率为:0.9331476103719488
+运行时间:30001ms
+br11:==problem 77===>填充率为:0.939024022237569
+运行时间:30001ms
+br10:==problem 77===>填充率为:0.9346478619537236
+Guillotine Blocks块生成完毕:10000块
+生成时间2180ms
+运行时间:30001ms
+br15:==problem 78===>填充率为:0.9258940126196343
+Guillotine Blocks块生成完毕:10000块
+生成时间6753ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2146ms
+运行时间:30000ms
+br13:==problem 77===>填充率为:0.928543630660673
+Guillotine Blocks块生成完毕:6184块
+生成时间12848ms
+运行时间:30000ms
+br9:==problem 75===>填充率为:0.9410241139635529
+Guillotine Blocks块生成完毕:10000块
+生成时间1285ms
+Guillotine Blocks块生成完毕:10000块
+生成时间708ms
+Guillotine Blocks块生成完毕:7354块
+生成时间12697ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1312ms
+运行时间:30000ms
+br6:==problem 80===>填充率为:0.9452798672764894
+运行时间:30000ms
+br3:==problem 74===>填充率为:0.9542718053601209
+运行时间:30001ms
+br14:==problem 77===>填充率为:0.9303539559489286
+Guillotine Blocks块生成完毕:1926块
+生成时间377ms
+运行时间:30001ms
+br12:==problem 78===>填充率为:0.9377067905809379
+运行时间:30000ms
+br5:==problem 78===>填充率为:0.9593673167025705
+Guillotine Blocks块生成完毕:10000块
+生成时间758ms
+运行时间:30000ms
+br7:==problem 82===>填充率为:0.94367665660118
+Guillotine Blocks块生成完毕:3363块
+生成时间1376ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4194ms
+Guillotine Blocks块生成完毕:6981块
+生成时间7028ms
+运行时间:30000ms
+br2:==problem 69===>填充率为:0.92945141879492
+Guillotine Blocks块生成完毕:6941块
+生成时间6935ms
+Guillotine Blocks块生成完毕:7080块
+生成时间58258ms
+Guillotine Blocks块生成完毕:3458块
+生成时间2664ms
+运行时间:30000ms
+br11:==problem 78===>填充率为:0.9333567854961279
+运行时间:30000ms
+br8:==problem 71===>填充率为:0.9553994367492843
+运行时间:30000ms
+br10:==problem 78===>填充率为:0.9378198528263235
+运行时间:30001ms
+br1:==problem 64===>填充率为:0.9587722277649235
+Guillotine Blocks块生成完毕:10000块
+生成时间1561ms
+运行时间:30000ms
+br15:==problem 79===>填充率为:0.9359967988960978
+运行时间:30000ms
+br13:==problem 78===>填充率为:0.9312400754811793
+Guillotine Blocks块生成完毕:10000块
+生成时间1996ms
+运行时间:30001ms
+br4:==problem 77===>填充率为:0.9584014686792323
+运行时间:30000ms
+br9:==problem 76===>填充率为:0.9407784810841745
+Guillotine Blocks块生成完毕:10016块
+生成时间2332ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3982ms
+运行时间:30000ms
+br6:==problem 81===>填充率为:0.946977063851255
+Guillotine Blocks块生成完毕:10000块
+生成时间2522ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2512ms
+Guillotine Blocks块生成完毕:4502块
+生成时间2116ms
+运行时间:30000ms
+br14:==problem 78===>填充率为:0.9257870654398427
+Guillotine Blocks块生成完毕:3088块
+生成时间1312ms
+Guillotine Blocks块生成完毕:10000块
+生成时间5433ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1387ms
+运行时间:30000ms
+br7:==problem 83===>填充率为:0.9568495049123252
+运行时间:30000ms
+br12:==problem 79===>填充率为:0.9274859569512676
+运行时间:30000ms
+br3:==problem 75===>填充率为:0.9590632583595273
+Guillotine Blocks块生成完毕:3912块
+生成时间2216ms
+运行时间:30000ms
+br5:==problem 79===>填充率为:0.9665065893155181
+Guillotine Blocks块生成完毕:10000块
+生成时间2014ms
+Guillotine Blocks块生成完毕:4969块
+生成时间4111ms
+运行时间:30000ms
+br0:==problem 54===>填充率为:0.7873116377009747
+Guillotine Blocks块生成完毕:3810块
+生成时间2047ms
+运行时间:30000ms
+br2:==problem 70===>填充率为:0.9449200089599005
+Guillotine Blocks块生成完毕:3496块
+生成时间5819ms
+Guillotine Blocks块生成完毕:4884块
+生成时间5432ms
+运行时间:30001ms
+br11:==problem 79===>填充率为:0.927863063740918
+运行时间:30001ms
+br8:==problem 72===>填充率为:0.9394605847465006
+运行时间:30000ms
+br1:==problem 65===>填充率为:0.977336503418787
+运行时间:30001ms
+br10:==problem 79===>填充率为:0.9385934750920749
+运行时间:30001ms
+br15:==problem 80===>填充率为:0.9303833348510218
+运行时间:30000ms
+br13:==problem 79===>填充率为:0.9267239998378178
+Guillotine Blocks块生成完毕:10000块
+生成时间3581ms
+运行时间:30000ms
+br4:==problem 78===>填充率为:0.9554976101393104
+Guillotine Blocks块生成完毕:10000块
+生成时间1578ms
+Guillotine Blocks块生成完毕:2850块
+生成时间259ms
+运行时间:30000ms
+br6:==problem 82===>填充率为:0.9491541933729971
+Guillotine Blocks块生成完毕:10000块
+生成时间1102ms
+运行时间:30001ms
+br9:==problem 77===>填充率为:0.936723660850486
+Guillotine Blocks块生成完毕:10000块
+生成时间6640ms
+运行时间:30002ms
+br14:==problem 79===>填充率为:0.9259027199412954
+Guillotine Blocks块生成完毕:3424块
+生成时间1215ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1478ms
+运行时间:30000ms
+br7:==problem 84===>填充率为:0.9542089930015732
+运行时间:30001ms
+br12:==problem 80===>填充率为:0.9379100500438358
+Guillotine Blocks块生成完毕:10000块
+生成时间8479ms
+Guillotine Blocks块生成完毕:2012块
+生成时间333ms
+运行时间:30001ms
+br3:==problem 76===>填充率为:0.957847390561928
+Guillotine Blocks块生成完毕:4791块
+生成时间1176ms
+运行时间:30000ms
+br5:==problem 80===>填充率为:0.9508531181184741
+Guillotine Blocks块生成完毕:2559块
+生成时间764ms
+运行时间:30000ms
+br0:==problem 55===>填充率为:0.7347650119875226
+运行时间:30001ms
+br2:==problem 71===>填充率为:0.9565732634709245
+Guillotine Blocks块生成完毕:10000块
+生成时间16090ms
+Guillotine Blocks块生成完毕:2990块
+生成时间1438ms
+运行时间:30000ms
+br11:==problem 80===>填充率为:0.9325331459819034
+Guillotine Blocks块生成完毕:10000块
+生成时间6376ms
+Guillotine Blocks块生成完毕:8963块
+生成时间30641ms
+运行时间:30000ms
+br10:==problem 80===>填充率为:0.9453524836804187
+运行时间:30003ms
+br15:==problem 81===>填充率为:0.9238449671348459
+Guillotine Blocks块生成完毕:8531块
+生成时间16794ms
+运行时间:30001ms
+br13:==problem 80===>填充率为:0.9360826756868316
+Guillotine Blocks块生成完毕:7262块
+生成时间1964ms
+Guillotine Blocks块生成完毕:3831块
+生成时间466ms
+运行时间:30000ms
+br8:==problem 73===>填充率为:0.9488407297931978
+运行时间:30000ms
+br6:==problem 83===>填充率为:0.9445473887672892
+Guillotine Blocks块生成完毕:10000块
+生成时间3443ms
+Guillotine Blocks块生成完毕:5964块
+生成时间2087ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1289ms
+运行时间:30001ms
+br14:==problem 80===>填充率为:0.928648317924919
+Guillotine Blocks块生成完毕:2792块
+生成时间1077ms
+运行时间:30000ms
+br4:==problem 79===>填充率为:0.9698904140364684
+Guillotine Blocks块生成完毕:3929块
+生成时间710ms
+运行时间:30000ms
+br7:==problem 85===>填充率为:0.945211936873912
+运行时间:30001ms
+br12:==problem 81===>填充率为:0.9346985106491873
+Guillotine Blocks块生成完毕:3938块
+生成时间1939ms
+Guillotine Blocks块生成完毕:2686块
+生成时间636ms
+运行时间:30000ms
+br5:==problem 81===>填充率为:0.951363692861525
+Guillotine Blocks块生成完毕:10000块
+生成时间4228ms
+Guillotine Blocks块生成完毕:3053块
+生成时间1252ms
+运行时间:30000ms
+br9:==problem 78===>填充率为:0.942357297965212
+运行时间:30001ms
+br2:==problem 72===>填充率为:0.9496209988693776
+运行时间:30000ms
+br0:==problem 56===>填充率为:0.9256388083332392
+运行时间:30000ms
+br1:==problem 66===>填充率为:0.974467341229301
+Guillotine Blocks块生成完毕:10000块
+生成时间6458ms
+Guillotine Blocks块生成完毕:4662块
+生成时间3959ms
+运行时间:30000ms
+br3:==problem 77===>填充率为:0.9689552742773089
+运行时间:30000ms
+br11:==problem 81===>填充率为:0.9289608841853104
+运行时间:30001ms
+br15:==problem 82===>填充率为:0.9255187669369038
+Guillotine Blocks块生成完毕:4795块
+生成时间2820ms
+运行时间:30000ms
+br10:==problem 81===>填充率为:0.9338615110460019
+运行时间:30001ms
+br13:==problem 81===>填充率为:0.9243975829538559
+运行时间:30001ms
+br8:==problem 74===>填充率为:0.9373882421911609
+运行时间:30001ms
+br6:==problem 84===>填充率为:0.9512472739768731
+Guillotine Blocks块生成完毕:10000块
+生成时间721ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3882ms
+Guillotine Blocks块生成完毕:7341块
+生成时间1160ms
+运行时间:30001ms
+br14:==problem 81===>填充率为:0.922168608310773
+Guillotine Blocks块生成完毕:10000块
+生成时间5360ms
+Guillotine Blocks块生成完毕:2811块
+生成时间973ms
+运行时间:30000ms
+br4:==problem 80===>填充率为:0.9570506706299382
+Guillotine Blocks块生成完毕:7014块
+生成时间1766ms
+运行时间:30000ms
+br7:==problem 86===>填充率为:0.9429076538686763
+Guillotine Blocks块生成完毕:2940块
+生成时间930ms
+Guillotine Blocks块生成完毕:3329块
+生成时间1846ms
+运行时间:30000ms
+br12:==problem 82===>填充率为:0.9271821977146937
+运行时间:30000ms
+br5:==problem 82===>填充率为:0.9525801256380108
+Guillotine Blocks块生成完毕:10000块
+生成时间1366ms
+Guillotine Blocks块生成完毕:3608块
+生成时间1442ms
+Guillotine Blocks块生成完毕:10000块
+生成时间13971ms
+运行时间:30000ms
+br9:==problem 79===>填充率为:0.9357380053320713
+运行时间:30000ms
+br2:==problem 73===>填充率为:0.9435531920974741
+Guillotine Blocks块生成完毕:10000块
+生成时间2249ms
+运行时间:30000ms
+br3:==problem 78===>填充率为:0.9611876786745728
+Guillotine Blocks块生成完毕:4198块
+生成时间3611ms
+运行时间:30001ms
+br10:==problem 82===>填充率为:0.9349006069202602
+运行时间:30000ms
+br11:==problem 82===>填充率为:0.9366424700611041
+运行时间:30000ms
+br13:==problem 82===>填充率为:0.9358581464305631
+运行时间:30000ms
+br15:==problem 83===>填充率为:0.9311255177034472
+运行时间:30000ms
+br6:==problem 85===>填充率为:0.9505754476128313
+Guillotine Blocks块生成完毕:7766块
+生成时间41103ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1376ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1202ms
+运行时间:30000ms
+br14:==problem 82===>填充率为:0.9326531541441866
+Guillotine Blocks块生成完毕:3338块
+生成时间1211ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3621ms
+运行时间:30000ms
+br7:==problem 87===>填充率为:0.9463417617105168
+Guillotine Blocks块生成完毕:10000块
+生成时间1163ms
+Guillotine Blocks块生成完毕:9252块
+生成时间45987ms
+运行时间:30000ms
+br4:==problem 81===>填充率为:0.9504283536980527
+Guillotine Blocks块生成完毕:2789块
+生成时间967ms
+运行时间:30000ms
+br12:==problem 83===>填充率为:0.9350119077608823
+运行时间:30001ms
+br5:==problem 83===>填充率为:0.9574084352012422
+运行时间:30001ms
+br8:==problem 75===>填充率为:0.9408921415424987
+Guillotine Blocks块生成完毕:4489块
+生成时间3307ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1492ms
+Guillotine Blocks块生成完毕:3150块
+生成时间1565ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1999ms
+Guillotine Blocks块生成完毕:10000块
+生成时间19651ms
+Guillotine Blocks块生成完毕:9048块
+生成时间24032ms
+运行时间:30001ms
+br9:==problem 80===>填充率为:0.9418875346381909
+运行时间:30000ms
+br2:==problem 74===>填充率为:0.9560612596636315
+Guillotine Blocks块生成完毕:10000块
+生成时间2608ms
+运行时间:30000ms
+br0:==problem 57===>填充率为:0.9321021667937315
+运行时间:30000ms
+br13:==problem 83===>填充率为:0.9294267923622831
+运行时间:30000ms
+br15:==problem 84===>填充率为:0.9338348241021323
+运行时间:30001ms
+br6:==problem 86===>填充率为:0.9577532717262631
+运行时间:30001ms
+br11:==problem 83===>填充率为:0.9372831893523415
+Guillotine Blocks块生成完毕:10000块
+生成时间867ms
+Guillotine Blocks块生成完毕:2496块
+生成时间738ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1207ms
+运行时间:30000ms
+br14:==problem 83===>填充率为:0.9363832444543999
+运行时间:30000ms
+br1:==problem 67===>填充率为:0.9671181955770795
+Guillotine Blocks块生成完毕:10000块
+生成时间3135ms
+运行时间:30000ms
+br7:==problem 88===>填充率为:0.9434156363556602
+Guillotine Blocks块生成完毕:10000块
+生成时间1066ms
+Guillotine Blocks块生成完毕:2038块
+生成时间350ms
+运行时间:30000ms
+br4:==problem 82===>填充率为:0.9546485133411455
+Guillotine Blocks块生成完毕:4002块
+生成时间9770ms
+运行时间:30001ms
+br12:==problem 84===>填充率为:0.9340534376971195
+运行时间:30001ms
+br5:==problem 84===>填充率为:0.9547667268646131
+Guillotine Blocks块生成完毕:10000块
+生成时间7241ms
+运行时间:30000ms
+br8:==problem 76===>填充率为:0.9393908264710554
+Guillotine Blocks块生成完毕:4090块
+生成时间1970ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1575ms
+Guillotine Blocks块生成完毕:3280块
+生成时间1624ms
+运行时间:30005ms
+br10:==problem 83===>填充率为:0.937109840536371
+运行时间:30000ms
+br3:==problem 79===>填充率为:0.9670613321138651
+Guillotine Blocks块生成完毕:10000块
+生成时间3276ms
+Guillotine Blocks块生成完毕:3855块
+生成时间2911ms
+运行时间:30001ms
+br9:==problem 81===>填充率为:0.928384007508237
+Guillotine Blocks块生成完毕:10000块
+生成时间2600ms
+Guillotine Blocks块生成完毕:10000块
+生成时间15064ms
+运行时间:30004ms
+br13:==problem 84===>填充率为:0.9318988740967815
+运行时间:30001ms
+br6:==problem 87===>填充率为:0.9599176726060349
+运行时间:30000ms
+br15:==problem 85===>填充率为:0.9273801397292488
+Guillotine Blocks块生成完毕:10000块
+生成时间1111ms
+运行时间:30000ms
+br11:==problem 84===>填充率为:0.942123263770031
+Guillotine Blocks块生成完毕:8444块
+生成时间41954ms
+运行时间:30001ms
+br14:==problem 84===>填充率为:0.9251914447573615
+Guillotine Blocks块生成完毕:10000块
+生成时间2757ms
+运行时间:30001ms
+br7:==problem 89===>填充率为:0.9401803013796785
+Guillotine Blocks块生成完毕:5053块
+生成时间4815ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2139ms
+运行时间:30001ms
+br0:==problem 58===>填充率为:0.9231532335735713
+Guillotine Blocks块生成完毕:10000块
+生成时间1945ms
+Guillotine Blocks块生成完毕:1625块
+生成时间219ms
+运行时间:30001ms
+br1:==problem 68===>填充率为:0.9691049604481545
+运行时间:30000ms
+br4:==problem 83===>填充率为:0.9546756655617452
+运行时间:30001ms
+br12:==problem 85===>填充率为:0.9387440918163805
+运行时间:30000ms
+br5:==problem 85===>填充率为:0.9644810403055938
+Guillotine Blocks块生成完毕:2940块
+生成时间950ms
+Guillotine Blocks块生成完毕:10000块
+生成时间5758ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1585ms
+Guillotine Blocks块生成完毕:3874块
+生成时间2332ms
+运行时间:30001ms
+br10:==problem 84===>填充率为:0.9373842873389561
+运行时间:30001ms
+br3:==problem 80===>填充率为:0.9591517938744324
+Guillotine Blocks块生成完毕:2346块
+生成时间429ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2472ms
+运行时间:30001ms
+br9:==problem 82===>填充率为:0.9345392863053771
+运行时间:30000ms
+br8:==problem 77===>填充率为:0.9494116243408857
+Guillotine Blocks块生成完毕:10000块
+生成时间828ms
+Guillotine Blocks块生成完毕:7080块
+生成时间18609ms
+运行时间:30000ms
+br13:==problem 85===>填充率为:0.9323481652476834
+运行时间:30000ms
+br2:==problem 75===>填充率为:0.9592998515767232
+运行时间:30001ms
+br15:==problem 86===>填充率为:0.931079687945544
+Guillotine Blocks块生成完毕:10000块
+生成时间1163ms
+运行时间:30000ms
+br6:==problem 88===>填充率为:0.9510513592394986
+运行时间:30000ms
+br11:==problem 85===>填充率为:0.9364678583511523
+运行时间:30001ms
+br14:==problem 85===>填充率为:0.9361749334155766
+运行时间:30001ms
+br7:==problem 90===>填充率为:0.9467651967688525
+Guillotine Blocks块生成完毕:10000块
+生成时间2016ms
+Guillotine Blocks块生成完毕:2354块
+生成时间517ms
+Guillotine Blocks块生成完毕:1960块
+生成时间212ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1844ms
+Guillotine Blocks块生成完毕:10000块
+生成时间14189ms
+运行时间:30000ms
+br4:==problem 84===>填充率为:0.9572779583125344
+Guillotine Blocks块生成完毕:10000块
+生成时间4859ms
+运行时间:30000ms
+br0:==problem 59===>填充率为:0.9606278843003002
+运行时间:30001ms
+br12:==problem 86===>填充率为:0.9340835145143076
+Guillotine Blocks块生成完毕:3562块
+生成时间2066ms
+运行时间:30001ms
+br5:==problem 86===>填充率为:0.9471677608424434
+Guillotine Blocks块生成完毕:10000块
+生成时间2038ms
+Guillotine Blocks块生成完毕:3102块
+生成时间1264ms
+运行时间:30001ms
+br3:==problem 81===>填充率为:0.9564507627547307
+运行时间:30007ms
+br10:==problem 85===>填充率为:0.9381927721254041
+Guillotine Blocks块生成完毕:10000块
+生成时间2699ms
+运行时间:30000ms
+br8:==problem 78===>填充率为:0.946557550411072
+运行时间:30000ms
+br1:==problem 69===>填充率为:0.9246829969936476
+Guillotine Blocks块生成完毕:10000块
+生成时间805ms
+Guillotine Blocks块生成完毕:6739块
+生成时间9104ms
+运行时间:30001ms
+br13:==problem 86===>填充率为:0.936040069631986
+Guillotine Blocks块生成完毕:9661块
+生成时间31171ms
+运行时间:30000ms
+br15:==problem 87===>填充率为:0.9366442314658676
+运行时间:30000ms
+br6:==problem 89===>填充率为:0.9400941587165275
+Guillotine Blocks块生成完毕:10000块
+生成时间2487ms
+运行时间:30000ms
+br7:==problem 91===>填充率为:0.9493600783260141
+运行时间:30000ms
+br11:==problem 86===>填充率为:0.9358547233231925
+Guillotine Blocks块生成完毕:1488块
+生成时间180ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1512ms
+Guillotine Blocks块生成完毕:2402块
+生成时间561ms
+运行时间:30000ms
+br9:==problem 83===>填充率为:0.9449786338278782
+运行时间:30001ms
+br14:==problem 86===>填充率为:0.9359466487114161
+Guillotine Blocks块生成完毕:6584块
+生成时间12897ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3615ms
+运行时间:30000ms
+br4:==problem 85===>填充率为:0.9624357170346451
+Guillotine Blocks块生成完毕:10000块
+生成时间1341ms
+运行时间:30001ms
+br12:==problem 87===>填充率为:0.9354594707410728
+运行时间:30000ms
+br5:==problem 87===>填充率为:0.9545279734340281
+Guillotine Blocks块生成完毕:10000块
+生成时间6063ms
+Guillotine Blocks块生成完毕:5620块
+生成时间4863ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2360ms
+Guillotine Blocks块生成完毕:4597块
+生成时间4183ms
+运行时间:30000ms
+br10:==problem 86===>填充率为:0.9369421415092647
+运行时间:30001ms
+br8:==problem 79===>填充率为:0.9440710783319962
+Guillotine Blocks块生成完毕:10000块
+生成时间2776ms
+运行时间:30000ms
+br3:==problem 82===>填充率为:0.9579321706289411
+Guillotine Blocks块生成完毕:8022块
+生成时间49200ms
+运行时间:30001ms
+br2:==problem 76===>填充率为:0.9693813348257638
+Guillotine Blocks块生成完毕:10000块
+生成时间4606ms
+运行时间:30001ms
+Guillotine Blocks块生成完毕:4980块
+生成时间4222ms
+br13:==problem 87===>填充率为:0.9388736049175762
+运行时间:30000ms
+br6:==problem 90===>填充率为:0.9482990147432903
+运行时间:30000ms
+br15:==problem 88===>填充率为:0.9268724895827863
+运行时间:30001ms
+br7:==problem 92===>填充率为:0.9559323780094265
+Guillotine Blocks块生成完毕:10000块
+生成时间1833ms
+Guillotine Blocks块生成完毕:3044块
+生成时间1064ms
+Guillotine Blocks块生成完毕:1434块
+生成时间145ms
+运行时间:30000ms
+br1:==problem 70===>填充率为:0.9235139559755158
+运行时间:30001ms
+br11:==problem 87===>填充率为:0.937543212576297
+Guillotine Blocks块生成完毕:10000块
+生成时间2043ms
+运行时间:30000ms
+br14:==problem 87===>填充率为:0.9257672911788185
+Guillotine Blocks块生成完毕:10000块
+生成时间1820ms
+运行时间:30000ms
+br9:==problem 84===>填充率为:0.9426421470261173
+Guillotine Blocks块生成完毕:4830块
+生成时间4399ms
+Guillotine Blocks块生成完毕:8599块
+生成时间2667ms
+运行时间:30000ms
+br4:==problem 86===>填充率为:0.9562558118048683
+Guillotine Blocks块生成完毕:10000块
+生成时间1393ms
+运行时间:30001ms
+br12:==problem 88===>填充率为:0.9354116469400411
+运行时间:30000ms
+br5:==problem 88===>填充率为:0.9528591255057391
+Guillotine Blocks块生成完毕:3322块
+生成时间1593ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2896ms
+Guillotine Blocks块生成完毕:2396块
+生成时间603ms
+运行时间:30000ms
+br10:==problem 87===>填充率为:0.9386550245566412
+运行时间:30000ms
+br0:==problem 60===>填充率为:0.9634482589012423
+Guillotine Blocks块生成完毕:9852块
+生成时间30530ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4022ms
+运行时间:30005ms
+br8:==problem 80===>填充率为:0.9436469121245133
+运行时间:30000ms
+br3:==problem 83===>填充率为:0.9580468613428818
+Guillotine Blocks块生成完毕:2424块
+生成时间1025ms
+运行时间:30000ms
+br13:==problem 88===>填充率为:0.9249941009557449
+运行时间:30000ms
+br6:==problem 91===>填充率为:0.9509851570076325
+运行时间:30000ms
+br7:==problem 93===>填充率为:0.9357071308976318
+运行时间:30001ms
+br15:==problem 89===>填充率为:0.9298445111636504
+Guillotine Blocks块生成完毕:2589块
+生成时间649ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2221ms
+Guillotine Blocks块生成完毕:10000块
+生成时间6425ms
+Guillotine Blocks块生成完毕:3734块
+生成时间1802ms
+Guillotine Blocks块生成完毕:4948块
+生成时间692ms
+Guillotine Blocks块生成完毕:4626块
+生成时间11394ms
+运行时间:30001ms
+br11:==problem 88===>填充率为:0.9319552058151616
+运行时间:30000ms
+br1:==problem 71===>填充率为:0.9400321439752313
+运行时间:30000ms
+br14:==problem 88===>填充率为:0.9300456436472112
+Guillotine Blocks块生成完毕:10000块
+生成时间1883ms
+运行时间:30000ms
+br9:==problem 85===>填充率为:0.9333577825176922
+Guillotine Blocks块生成完毕:3714块
+生成时间3325ms
+Guillotine Blocks块生成完毕:8718块
+生成时间3197ms
+运行时间:30000ms
+br4:==problem 87===>填充率为:0.9677907530902683
+运行时间:30001ms
+br12:==problem 89===>填充率为:0.9355689769428793
+运行时间:30060ms
+br5:==problem 89===>填充率为:0.9458423868430376
+Guillotine Blocks块生成完毕:10000块
+生成时间4454ms
+Guillotine Blocks块生成完毕:2052块
+生成时间453ms
+Guillotine Blocks块生成完毕:4624块
+生成时间2852ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3000ms
+运行时间:30031ms
+br2:==problem 77===>填充率为:0.9616956279275045
+运行时间:30000ms
+br10:==problem 88===>填充率为:0.9332195288607832
+运行时间:30000ms
+br3:==problem 84===>填充率为:0.9456146671177635
+Guillotine Blocks块生成完毕:10000块
+生成时间2061ms
+运行时间:30001ms
+br6:==problem 92===>填充率为:0.9588296562070242
+运行时间:30000ms
+br13:==problem 89===>填充率为:0.9383637280896203
+运行时间:30017ms
+br8:==problem 81===>填充率为:0.9395218018705453
+运行时间:30001ms
+br7:==problem 94===>填充率为:0.9509693375988132
+运行时间:30000ms
+br15:==problem 90===>填充率为:0.9323619241452701
+Guillotine Blocks块生成完毕:5210块
+生成时间4730ms
+运行时间:30001ms
+br0:==problem 61===>填充率为:0.8513192256997596
+Guillotine Blocks块生成完毕:1632块
+生成时间163ms
+Guillotine Blocks块生成完毕:2998块
+生成时间924ms
+Guillotine Blocks块生成完毕:4214块
+生成时间504ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2036ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2469ms
+运行时间:30000ms
+br11:==problem 89===>填充率为:0.9332281697143401
+Guillotine Blocks块生成完毕:10000块
+生成时间4998ms
+运行时间:30000ms
+br1:==problem 72===>填充率为:0.9410268391558285
+运行时间:30000ms
+br14:==problem 89===>填充率为:0.9336630040525603
+Guillotine Blocks块生成完毕:8173块
+生成时间19573ms
+运行时间:30000ms
+br9:==problem 86===>填充率为:0.9416464215899037
+Guillotine Blocks块生成完毕:10000块
+生成时间4726ms
+运行时间:30001ms
+br5:==problem 90===>填充率为:0.9454408530250631
+Guillotine Blocks块生成完毕:10000块
+生成时间2796ms
+运行时间:30000ms
+br4:==problem 88===>填充率为:0.9543120185632121
+运行时间:30000ms
+br12:==problem 90===>填充率为:0.9324848569041417
+Guillotine Blocks块生成完毕:10000块
+生成时间2383ms
+Guillotine Blocks块生成完毕:2332块
+生成时间574ms
+Guillotine Blocks块生成完毕:4330块
+生成时间7118ms
+Guillotine Blocks块生成完毕:4190块
+生成时间2194ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1437ms
+运行时间:30001ms
+br10:==problem 89===>填充率为:0.9416906561133042
+Guillotine Blocks块生成完毕:10000块
+生成时间3884ms
+运行时间:30000ms
+br3:==problem 85===>填充率为:0.9683025242591964
+运行时间:30000ms
+br6:==problem 93===>填充率为:0.9426238018293351
+运行时间:30000ms
+br7:==problem 95===>填充率为:0.9432373688999728
+运行时间:30000ms
+br15:==problem 91===>填充率为:0.9234197374376945
+运行时间:30058ms
+br13:==problem 90===>填充率为:0.9232190037627593
+运行时间:30001ms
+br8:==problem 82===>填充率为:0.9405666804698763
+Guillotine Blocks块生成完毕:4618块
+生成时间2656ms
+Guillotine Blocks块生成完毕:3486块
+生成时间1527ms
+Guillotine Blocks块生成完毕:5596块
+生成时间4654ms
+运行时间:30000ms
+br0:==problem 62===>填充率为:0.9379978876436459
+Guillotine Blocks块生成完毕:10000块
+生成时间2825ms
+Guillotine Blocks块生成完毕:9192块
+生成时间3721ms
+运行时间:30001ms
+br2:==problem 78===>填充率为:0.9616716994099627
+运行时间:30000ms
+br11:==problem 90===>填充率为:0.93615838285761
+运行时间:30003ms
+br14:==problem 90===>填充率为:0.9300593360766936
+Guillotine Blocks块生成完毕:10000块
+生成时间8704ms
+运行时间:30001ms
+br9:==problem 87===>填充率为:0.9483393608825901
+运行时间:30036ms
+br4:==problem 89===>填充率为:0.9444667629567938
+Guillotine Blocks块生成完毕:6635块
+生成时间1018ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2994ms
+运行时间:30001ms
+br1:==problem 73===>填充率为:0.9290785327298916
+运行时间:30000ms
+br5:==problem 91===>填充率为:0.9532170894813561
+Guillotine Blocks块生成完毕:10000块
+生成时间4006ms
+Guillotine Blocks块生成完毕:2206块
+生成时间317ms
+运行时间:30000ms
+br12:==problem 91===>填充率为:0.9284834770262967
+Guillotine Blocks块生成完毕:2885块
+生成时间594ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2922ms
+Guillotine Blocks块生成完毕:10000块
+生成时间8183ms
+Guillotine Blocks块生成完毕:6600块
+生成时间19978ms
+运行时间:30003ms
+br10:==problem 90===>填充率为:0.9365634727191636
+运行时间:30000ms
+br6:==problem 94===>填充率为:0.9555151577188412
+运行时间:30000ms
+br7:==problem 96===>填充率为:0.9486166990477115
+运行时间:30000ms
+br3:==problem 86===>填充率为:0.9672645583427109
+Guillotine Blocks块生成完毕:10000块
+生成时间5068ms
+运行时间:30000ms
+br15:==problem 92===>填充率为:0.9384889872321418
+Guillotine Blocks块生成完毕:3461块
+生成时间992ms
+Guillotine Blocks块生成完毕:2353块
+生成时间434ms
+运行时间:30000ms
+br13:==problem 91===>填充率为:0.9291424418121598
+Guillotine Blocks块生成完毕:7200块
+生成时间20083ms
+Guillotine Blocks块生成完毕:5357块
+生成时间504ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1533ms
+Guillotine Blocks块生成完毕:4261块
+生成时间3216ms
+运行时间:30000ms
+br8:==problem 83===>填充率为:0.9444178424320413
+运行时间:30000ms
+br14:==problem 91===>填充率为:0.9157129269163253
+运行时间:30000ms
+br11:==problem 91===>填充率为:0.9316855447160848
+运行时间:30000ms
+br2:==problem 79===>填充率为:0.9732068400996756
+运行时间:30001ms
+br4:==problem 90===>填充率为:0.9484197540547206
+Guillotine Blocks块生成完毕:10000块
+生成时间1079ms
+运行时间:30000ms
+br5:==problem 92===>填充率为:0.9526447991034782
+Guillotine Blocks块生成完毕:10000块
+生成时间2322ms
+Guillotine Blocks块生成完毕:1834块
+生成时间391ms
+运行时间:30001ms
+br12:==problem 92===>填充率为:0.9354669151687526
+Guillotine Blocks块生成完毕:4111块
+生成时间4790ms
+Guillotine Blocks块生成完毕:5090块
+生成时间5306ms
+运行时间:30000ms
+br9:==problem 88===>填充率为:0.9410462478422792
+Guillotine Blocks块生成完毕:6731块
+生成时间2094ms
+运行时间:30000ms
+br0:==problem 63===>填充率为:0.916482162287194
+Guillotine Blocks块生成完毕:10000块
+生成时间1311ms
+Guillotine Blocks块生成完毕:10000块
+生成时间18529ms
+运行时间:30000ms
+br10:==problem 91===>填充率为:0.9322801683770018
+运行时间:30000ms
+br6:==problem 95===>填充率为:0.9511701045078004
+运行时间:30000ms
+br7:==problem 97===>填充率为:0.9464157074765318
+运行时间:30000ms
+br1:==problem 74===>填充率为:0.9473274836970357
+运行时间:30000ms
+br15:==problem 93===>填充率为:0.9293885399682681
+Guillotine Blocks块生成完毕:10000块
+生成时间1458ms
+运行时间:30000ms
+br13:==problem 92===>填充率为:0.9333715081812266
+运行时间:30000ms
+br3:==problem 87===>填充率为:0.9619401973172144
+Guillotine Blocks块生成完毕:4634块
+生成时间2091ms
+Guillotine Blocks块生成完毕:4206块
+生成时间2489ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1047ms
+Guillotine Blocks块生成完毕:7367块
+生成时间1551ms
+Guillotine Blocks块生成完毕:10000块
+生成时间17883ms
+运行时间:30000ms
+br14:==problem 92===>填充率为:0.9334764945519418
+Guillotine Blocks块生成完毕:4963块
+生成时间5625ms
+运行时间:30000ms
+br11:==problem 92===>填充率为:0.9335480807002547
+Guillotine Blocks块生成完毕:3853块
+生成时间493ms
+运行时间:30000ms
+br5:==problem 93===>填充率为:0.9491239836196004
+运行时间:30000ms
+br2:==problem 80===>填充率为:0.9574300373351342
+运行时间:30000ms
+br4:==problem 91===>填充率为:0.9645396319395193
+Guillotine Blocks块生成完毕:10000块
+生成时间3542ms
+Guillotine Blocks块生成完毕:4940块
+生成时间2952ms
+Guillotine Blocks块生成完毕:3014块
+生成时间1731ms
+运行时间:30000ms
+br12:==problem 93===>填充率为:0.938781313954779
+Guillotine Blocks块生成完毕:2271块
+生成时间641ms
+运行时间:30001ms
+br9:==problem 89===>填充率为:0.9390271130044181
+Guillotine Blocks块生成完毕:10000块
+生成时间1397ms
+运行时间:30000ms
+br8:==problem 84===>填充率为:0.9481025017929771
+Guillotine Blocks块生成完毕:10000块
+生成时间5875ms
+运行时间:30000ms
+br10:==problem 92===>填充率为:0.9385340858408979
+运行时间:30000ms
+br7:==problem 98===>填充率为:0.9517121518982293
+运行时间:30000ms
+br6:==problem 96===>填充率为:0.9525200384717387
+运行时间:30000ms
+br15:==problem 94===>填充率为:0.9330474761728463
+Guillotine Blocks块生成完毕:10000块
+生成时间7262ms
+Guillotine Blocks块生成完毕:2781块
+生成时间816ms
+运行时间:30000ms
+br13:==problem 93===>填充率为:0.935489780196626
+Guillotine Blocks块生成完毕:3292块
+生成时间1537ms
+Guillotine Blocks块生成完毕:8436块
+生成时间2655ms
+Guillotine Blocks块生成完毕:10000块
+生成时间5521ms
+运行时间:30001ms
+br0:==problem 64===>填充率为:0.9001908299273969
+运行时间:30000ms
+br3:==problem 88===>填充率为:0.9581953510878503
+Guillotine Blocks块生成完毕:10000块
+生成时间2373ms
+运行时间:30000ms
+br14:==problem 93===>填充率为:0.9286844101055447
+Guillotine Blocks块生成完毕:2500块
+生成时间882ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1589ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4684ms
+运行时间:30000ms
+br11:==problem 93===>填充率为:0.9321088136041599
+运行时间:30001ms
+br5:==problem 94===>填充率为:0.9589123425287525
+运行时间:30000ms
+br2:==problem 81===>填充率为:0.9400816627129223
+运行时间:30000ms
+br4:==problem 92===>填充率为:0.9556443052454634
+Guillotine Blocks块生成完毕:1762块
+生成时间189ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1881ms
+运行时间:30000ms
+br9:==problem 90===>填充率为:0.9393147869597556
+运行时间:30001ms
+br12:==problem 94===>填充率为:0.9343767053223005
+Guillotine Blocks块生成完毕:5694块
+生成时间8531ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2745ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4410ms
+运行时间:30000ms
+br8:==problem 85===>填充率为:0.9442147491394042
+运行时间:30000ms
+br7:==problem 99===>填充率为:0.9450933245418187
+运行时间:30000ms
+br6:==problem 97===>填充率为:0.9513443174091265
+Guillotine Blocks块生成完毕:6856块
+生成时间17176ms
+运行时间:30000ms
+br15:==problem 95===>填充率为:0.9274087874821949
+Guillotine Blocks块生成完毕:2636块
+生成时间741ms
+运行时间:30001ms
+br10:==problem 93===>填充率为:0.9384370756426967
+运行时间:30000ms
+br13:==problem 94===>填充率为:0.9358464812782614
+运行时间:30000ms
+br3:==problem 89===>填充率为:0.9413503394193745
+Guillotine Blocks块生成完毕:8915块
+生成时间3305ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1224ms
+Guillotine Blocks块生成完毕:6112块
+生成时间6388ms
+Guillotine Blocks块生成完毕:2122块
+生成时间478ms
+运行时间:30001ms
+br14:==problem 94===>填充率为:0.9361397053203064
+运行时间:30001ms
+br0:==problem 65===>填充率为:0.9124741355989209
+Guillotine Blocks块生成完毕:10000块
+生成时间6285ms
+Guillotine Blocks块生成完毕:10000块
+生成时间13342ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2955ms
+运行时间:30000ms
+br4:==problem 93===>填充率为:0.9430688722556151
+运行时间:30001ms
+br11:==problem 94===>填充率为:0.9347088464394033
+Guillotine Blocks块生成完毕:10000块
+生成时间816ms
+Guillotine Blocks块生成完毕:10000块
+生成时间6251ms
+运行时间:30000ms
+br5:==problem 95===>填充率为:0.9499987371060187
+运行时间:30042ms
+br9:==problem 91===>填充率为:0.9412194304879888
+Guillotine Blocks块生成完毕:6398块
+生成时间7826ms
+运行时间:30000ms
+br12:==problem 95===>填充率为:0.9316864088014405
+Guillotine Blocks块生成完毕:10000块
+生成时间4253ms
+运行时间:30001ms
+br2:==problem 82===>填充率为:0.9550179098306991
+Guillotine Blocks块生成完毕:10000块
+生成时间3089ms
+运行时间:30000ms
+br7:==problem 100===>填充率为:0.9544635326069256
+<=====br7平均填充率为:0.9478731466199971
+Guillotine Blocks块生成完毕:7216块
+生成时间10324ms
+Guillotine Blocks块生成完毕:9346块
+生成时间101581ms
+运行时间:30001ms
+br15:==problem 96===>填充率为:0.9283707138873805
+运行时间:30001ms
+br13:==problem 95===>填充率为:0.9265143594369089
+运行时间:30000ms
+br6:==problem 98===>填充率为:0.9549909570144123
+运行时间:30001ms
+br3:==problem 90===>填充率为:0.9513595718390595
+Guillotine Blocks块生成完毕:6491块
+生成时间866ms
+运行时间:30000ms
+br10:==problem 94===>填充率为:0.9422705238550703
+Guillotine Blocks块生成完毕:2436块
+生成时间676ms
+Guillotine Blocks块生成完毕:6656块
+生成时间8778ms
+运行时间:30000ms
+br8:==problem 86===>填充率为:0.9439333564199216
+Guillotine Blocks块生成完毕:10000块
+生成时间1547ms
+运行时间:30000ms
+br14:==problem 95===>填充率为:0.9331814094029769
+Guillotine Blocks块生成完毕:10000块
+生成时间7129ms
+运行时间:30001ms
+br11:==problem 95===>填充率为:0.9306768247654839
+运行时间:30000ms
+br0:==problem 66===>填充率为:0.924310775609662
+Guillotine Blocks块生成完毕:10000块
+生成时间2474ms
+Guillotine Blocks块生成完毕:10000块
+生成时间7928ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4185ms
+运行时间:30000ms
+br4:==problem 94===>填充率为:0.9625345883397664
+运行时间:30000ms
+br9:==problem 92===>填充率为:0.9467749011120778
+Guillotine Blocks块生成完毕:4374块
+生成时间2131ms
+运行时间:30000ms
+br12:==problem 96===>填充率为:0.9317020620399992
+Guillotine Blocks块生成完毕:10000块
+生成时间11437ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1844ms
+运行时间:30000ms
+br5:==problem 96===>填充率为:0.9650526660024288
+运行时间:30000ms
+br1:==problem 75===>填充率为:0.9538122448871073
+Guillotine Blocks块生成完毕:10000块
+生成时间3737ms
+Guillotine Blocks块生成完毕:3229块
+生成时间1667ms
+Guillotine Blocks块生成完毕:9656块
+生成时间28087ms
+运行时间:30001ms
+br15:==problem 97===>填充率为:0.9290708224297948
+运行时间:30000ms
+br6:==problem 99===>填充率为:0.9480713614861205
+运行时间:30000ms
+br2:==problem 83===>填充率为:0.9619640261325999
+Guillotine Blocks块生成完毕:10000块
+生成时间3848ms
+Guillotine Blocks块生成完毕:10000块
+生成时间909ms
+运行时间:30001ms
+br10:==problem 95===>填充率为:0.9289046189350347
+Guillotine Blocks块生成完毕:3626块
+生成时间1834ms
+Guillotine Blocks块生成完毕:2532块
+生成时间1354ms
+运行时间:30000ms
+br13:==problem 96===>填充率为:0.9299219797391924
+Guillotine Blocks块生成完毕:10000块
+生成时间2055ms
+运行时间:30001ms
+br14:==problem 96===>填充率为:0.9239170185598887
+Guillotine Blocks块生成完毕:10000块
+生成时间4167ms
+运行时间:30000ms
+br8:==problem 87===>填充率为:0.9467774933681449
+运行时间:30000ms
+br11:==problem 96===>填充率为:0.9407339142202527
+Guillotine Blocks块生成完毕:9702块
+生成时间3639ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2604ms
+运行时间:30000ms
+br4:==problem 95===>填充率为:0.9534155632407455
+运行时间:30000ms
+br0:==problem 67===>填充率为:0.9242489602726788
+运行时间:30000ms
+br9:==problem 93===>填充率为:0.9398225035743223
+Guillotine Blocks块生成完毕:10000块
+生成时间10265ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2593ms
+运行时间:30001ms
+br12:==problem 97===>填充率为:0.9304746620263068
+Guillotine Blocks块生成完毕:6010块
+生成时间6605ms
+运行时间:30001ms
+br5:==problem 97===>填充率为:0.9476468297040641
+运行时间:30001ms
+br3:==problem 91===>填充率为:0.9690442750689441
+运行时间:30001ms
+br1:==problem 76===>填充率为:0.9586799700361786
+Guillotine Blocks块生成完毕:2901块
+生成时间1244ms
+Guillotine Blocks块生成完毕:4554块
+生成时间2962ms
+运行时间:30001ms
+br15:==problem 98===>填充率为:0.9294708607154228
+Guillotine Blocks块生成完毕:10000块
+生成时间10564ms
+Guillotine Blocks块生成完毕:10000块
+生成时间5359ms
+运行时间:30000ms
+br6:==problem 100===>填充率为:0.951835084657101
+<=====br6平均填充率为:0.9523881474741124
+运行时间:30000ms
+br2:==problem 84===>填充率为:0.9317774036362041
+Guillotine Blocks块生成完毕:10000块
+生成时间2636ms
+运行时间:30001ms
+br10:==problem 96===>填充率为:0.925511987190267
+Guillotine Blocks块生成完毕:10000块
+生成时间3425ms
+运行时间:30000ms
+br13:==problem 97===>填充率为:0.9335806168373013
+Guillotine Blocks块生成完毕:10000块
+生成时间2503ms
+运行时间:30000ms
+br14:==problem 97===>填充率为:0.9320028634459325
+Guillotine Blocks块生成完毕:10000块
+生成时间1407ms
+运行时间:30000ms
+br11:==problem 97===>填充率为:0.9332313601833456
+Guillotine Blocks块生成完毕:10000块
+生成时间6181ms
+Guillotine Blocks块生成完毕:8023块
+生成时间19576ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4174ms
+运行时间:30001ms
+br8:==problem 88===>填充率为:0.941286596507367
+运行时间:30000ms
+br9:==problem 94===>填充率为:0.9447357593748276
+运行时间:30001ms
+br4:==problem 96===>填充率为:0.964426868800603
+Guillotine Blocks块生成完毕:10000块
+生成时间1321ms
+Guillotine Blocks块生成完毕:3918块
+生成时间2866ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3635ms
+运行时间:30001ms
+br3:==problem 92===>填充率为:0.9493421319378577
+运行时间:30000ms
+br5:==problem 98===>填充率为:0.9555103055472286
+运行时间:30000ms
+br0:==problem 68===>填充率为:0.9696792448691609
+运行时间:30000ms
+br12:==problem 98===>填充率为:0.9333051065450477
+Guillotine Blocks块生成完毕:2124块
+生成时间605ms
+Guillotine Blocks块生成完毕:3544块
+生成时间1043ms
+运行时间:30000ms
+br15:==problem 99===>填充率为:0.928047346560043
+Guillotine Blocks块生成完毕:10000块
+生成时间827ms
+运行时间:30001ms
+br2:==problem 85===>填充率为:0.9685103367872376
+Guillotine Blocks块生成完毕:10000块
+生成时间4263ms
+运行时间:30001ms
+br10:==problem 97===>填充率为:0.9351852565768527
+Guillotine Blocks块生成完毕:10000块
+生成时间9213ms
+运行时间:30001ms
+br13:==problem 98===>填充率为:0.9304440202302322
+Guillotine Blocks块生成完毕:10000块
+生成时间1100ms
+运行时间:30001ms
+br14:==problem 98===>填充率为:0.9308309975333686
+运行时间:30000ms
+br1:==problem 77===>填充率为:0.9626188698959973
+运行时间:30000ms
+br11:==problem 98===>填充率为:0.9328728976969467
+Guillotine Blocks块生成完毕:10000块
+生成时间1049ms
+Guillotine Blocks块生成完毕:10000块
+生成时间12592ms
+运行时间:30000ms
+br8:==problem 89===>填充率为:0.9438710425721561
+Guillotine Blocks块生成完毕:10000块
+生成时间3052ms
+Guillotine Blocks块生成完毕:7956块
+生成时间18735ms
+运行时间:30001ms
+br4:==problem 97===>填充率为:0.9486981889435626
+运行时间:30037ms
+br9:==problem 95===>填充率为:0.9347113722273661
+Guillotine Blocks块生成完毕:10000块
+生成时间2603ms
+运行时间:30000ms
+br3:==problem 93===>填充率为:0.9463305618349451
+运行时间:30000ms
+br5:==problem 99===>填充率为:0.9552514122810457
+Guillotine Blocks块生成完毕:3994块
+生成时间2334ms
+Guillotine Blocks块生成完毕:10000块
+生成时间6009ms
+Guillotine Blocks块生成完毕:3924块
+生成时间2602ms
+运行时间:30000ms
+br15:==problem 100===>填充率为:0.9334528651408692
+<=====br15平均填充率为:0.930125578189422
+运行时间:30001ms
+br12:==problem 99===>填充率为:0.9373869792971795
+Guillotine Blocks块生成完毕:6803块
+生成时间15706ms
+Guillotine Blocks块生成完毕:10000块
+生成时间6403ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1482ms
+运行时间:30004ms
+br0:==problem 69===>填充率为:0.9290645744279921
+运行时间:30000ms
+br13:==problem 99===>填充率为:0.9316940858674851
+运行时间:30000ms
+br14:==problem 99===>填充率为:0.9261263851122081
+Guillotine Blocks块生成完毕:10000块
+生成时间5727ms
+运行时间:30000ms
+br10:==problem 98===>填充率为:0.9409641929675416
+运行时间:30001ms
+br11:==problem 99===>填充率为:0.9382004824255009
+Guillotine Blocks块生成完毕:10000块
+生成时间12455ms
+运行时间:30000ms
+br2:==problem 86===>填充率为:0.9661145936705083
+Guillotine Blocks块生成完毕:10000块
+生成时间3625ms
+运行时间:30001ms
+br8:==problem 90===>填充率为:0.9448075449274533
+Guillotine Blocks块生成完毕:10000块
+生成时间1670ms
+Guillotine Blocks块生成完毕:10000块
+生成时间5168ms
+Guillotine Blocks块生成完毕:4099块
+生成时间2739ms
+运行时间:30001ms
+br4:==problem 98===>填充率为:0.9556623513357763
+Guillotine Blocks块生成完毕:10000块
+生成时间1745ms
+运行时间:30000ms
+br9:==problem 96===>填充率为:0.9371813602165797
+运行时间:30000ms
+br5:==problem 100===>填充率为:0.9533255654275461
+<=====br5平均填充率为:0.9538318297140342
+Guillotine Blocks块生成完毕:4102块
+生成时间2822ms
+运行时间:30000ms
+br1:==problem 78===>填充率为:0.9561453418155497
+运行时间:30000ms
+br3:==problem 94===>填充率为:0.9666606623812464
+Guillotine Blocks块生成完毕:10000块
+生成时间1939ms
+运行时间:30000ms
+br12:==problem 100===>填充率为:0.932772032348697
+<=====br12平均填充率为:0.9331830338834456
+Guillotine Blocks块生成完毕:10000块
+生成时间5414ms
+Guillotine Blocks块生成完毕:5247块
+生成时间3621ms
+运行时间:30001ms
+br13:==problem 100===>填充率为:0.9265930909064322
+<=====br13平均填充率为:0.9321271860528649
+运行时间:30000ms
+br0:==problem 70===>填充率为:0.927158800941986
+运行时间:30000ms
+br14:==problem 100===>填充率为:0.9248521583190482
+<=====br14平均填充率为:0.9308308582826901
+运行时间:30000ms
+br11:==problem 100===>填充率为:0.9312803883864269
+<=====br11平均填充率为:0.9344525952803656
+运行时间:30000ms
+br10:==problem 99===>填充率为:0.9446296762803917
+运行时间:30000ms
+br2:==problem 87===>填充率为:0.9554843165184539
+运行时间:30000ms
+br8:==problem 91===>填充率为:0.939414887924806
+Guillotine Blocks块生成完毕:10000块
+生成时间2115ms
+Guillotine Blocks块生成完毕:4099块
+生成时间2546ms
+运行时间:30000ms
+br4:==problem 99===>填充率为:0.958960365734097
+Guillotine Blocks块生成完毕:6006块
+生成时间11432ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4582ms
+运行时间:30000ms
+br9:==problem 97===>填充率为:0.9392651352858561
+Guillotine Blocks块生成完毕:4940块
+生成时间3674ms
+运行时间:30000ms
+br1:==problem 79===>填充率为:0.9564982209811889
+运行时间:30000ms
+br3:==problem 95===>填充率为:0.9621896188785368
+Guillotine Blocks块生成完毕:10000块
+生成时间12461ms
+Guillotine Blocks块生成完毕:6040块
+生成时间13503ms
+Guillotine Blocks块生成完毕:7455块
+生成时间13836ms
+运行时间:30000ms
+br10:==problem 100===>填充率为:0.9378264331686476
+<=====br10平均填充率为:0.936744577033542
+运行时间:30001ms
+br2:==problem 88===>填充率为:0.9451017992251148
+运行时间:30001ms
+br0:==problem 71===>填充率为:0.8224901477652427
+运行时间:30000ms
+br8:==problem 92===>填充率为:0.9555675345850163
+Guillotine Blocks块生成完毕:3288块
+生成时间1885ms
+运行时间:30014ms
+br4:==problem 100===>填充率为:0.9601394102019235
+<=====br4平均填充率为:0.9562751244449081
+Guillotine Blocks块生成完毕:3246块
+生成时间3628ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4231ms
+运行时间:30000ms
+br9:==problem 98===>填充率为:0.9420020591818707
+Guillotine Blocks块生成完毕:10000块
+生成时间2596ms
+运行时间:30000ms
+br1:==problem 80===>填充率为:0.9624544278060009
+运行时间:30000ms
+br3:==problem 96===>填充率为:0.9693321484285943
+Guillotine Blocks块生成完毕:3327块
+生成时间2254ms
+Guillotine Blocks块生成完毕:5941块
+生成时间6708ms
+运行时间:30000ms
+br2:==problem 89===>填充率为:0.9226853645875223
+Guillotine Blocks块生成完毕:2580块
+生成时间904ms
+运行时间:30001ms
+br0:==problem 72===>填充率为:0.8656380505968504
+运行时间:30000ms
+br8:==problem 93===>填充率为:0.937872063522238
+Guillotine Blocks块生成完毕:10000块
+生成时间421ms
+运行时间:30000ms
+br9:==problem 99===>填充率为:0.9437513335163422
+运行时间:30001ms
+br1:==problem 81===>填充率为:0.9365063433835322
+运行时间:30000ms
+br3:==problem 97===>填充率为:0.961615201521322
+Guillotine Blocks块生成完毕:10000块
+生成时间8987ms
+运行时间:30001ms
+br2:==problem 90===>填充率为:0.9496131888671243
+Guillotine Blocks块生成完毕:5176块
+生成时间3264ms
+运行时间:30001ms
+br8:==problem 94===>填充率为:0.9515698436869592
+Guillotine Blocks块生成完毕:7700块
+生成时间38936ms
+Guillotine Blocks块生成完毕:10000块
+生成时间6359ms
+Guillotine Blocks块生成完毕:7564块
+生成时间23221ms
+Guillotine Blocks块生成完毕:8808块
+生成时间15352ms
+运行时间:30001ms
+br9:==problem 100===>填充率为:0.9470267155251545
+<=====br9平均填充率为:0.9392908630949808
+运行时间:30000ms
+br3:==problem 98===>填充率为:0.9625592812405075
+Guillotine Blocks块生成完毕:3514块
+生成时间1131ms
+运行时间:30001ms
+br0:==problem 73===>填充率为:0.9209906938007193
+运行时间:30001ms
+br8:==problem 95===>填充率为:0.9443593837343244
+运行时间:30000ms
+br1:==problem 82===>填充率为:0.9659577621784522
+运行时间:30000ms
+br2:==problem 91===>填充率为:0.9479364644684778
+Guillotine Blocks块生成完毕:10000块
+生成时间2868ms
+Guillotine Blocks块生成完毕:2944块
+生成时间812ms
+Guillotine Blocks块生成完毕:4776块
+生成时间5888ms
+Guillotine Blocks块生成完毕:6957块
+生成时间15449ms
+运行时间:30000ms
+br3:==problem 99===>填充率为:0.9653890610782057
+Guillotine Blocks块生成完毕:4812块
+生成时间2473ms
+运行时间:30000ms
+br8:==problem 96===>填充率为:0.9477512178618407
+运行时间:30000ms
+br2:==problem 92===>填充率为:0.9503049888965032
+运行时间:30000ms
+br0:==problem 74===>填充率为:0.8568812101980683
+Guillotine Blocks块生成完毕:2636块
+生成时间703ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4124ms
+运行时间:30001ms
+br1:==problem 83===>填充率为:0.9668825993814478
+Guillotine Blocks块生成完毕:2742块
+生成时间1325ms
+运行时间:30001ms
+br3:==problem 100===>填充率为:0.9687332043408989
+<=====br3平均填充率为:0.9581776539550844
+Guillotine Blocks块生成完毕:5164块
+生成时间17314ms
+运行时间:30001ms
+br2:==problem 93===>填充率为:0.9534902733899597
+运行时间:30000ms
+br8:==problem 97===>填充率为:0.9502971124261457
+Guillotine Blocks块生成完毕:10000块
+生成时间3399ms
+Guillotine Blocks块生成完毕:10000块
+生成时间7541ms
+运行时间:30001ms
+br1:==problem 84===>填充率为:0.9383707737086743
+运行时间:30000ms
+br0:==problem 75===>填充率为:0.8221886484442144
+Guillotine Blocks块生成完毕:10000块
+生成时间4010ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2038ms
+运行时间:30027ms
+br2:==problem 94===>填充率为:0.9697396643759543
+Guillotine Blocks块生成完毕:4274块
+生成时间2725ms
+运行时间:30000ms
+br8:==problem 98===>填充率为:0.9538277651894573
+Guillotine Blocks块生成完毕:10000块
+生成时间4978ms
+运行时间:30000ms
+br1:==problem 85===>填充率为:0.9781256127528364
+运行时间:30078ms
+br0:==problem 76===>填充率为:0.9640859538937347
+Guillotine Blocks块生成完毕:2816块
+生成时间5402ms
+运行时间:30001ms
+br2:==problem 95===>填充率为:0.9580627804538575
+Guillotine Blocks块生成完毕:9717块
+生成时间24527ms
+运行时间:30001ms
+br8:==problem 99===>填充率为:0.9471724136097431
+Guillotine Blocks块生成完毕:10000块
+生成时间2253ms
+运行时间:30001ms
+br0:==problem 77===>填充率为:0.9181085038627939
+Guillotine Blocks块生成完毕:9308块
+生成时间17089ms
+运行时间:30000ms
+br1:==problem 86===>填充率为:0.9613533171904464
+Guillotine Blocks块生成完毕:6259块
+生成时间17317ms
+运行时间:30000ms
+br8:==problem 100===>填充率为:0.9432511610316116
+<=====br8平均填充率为:0.9439126020866996
+Guillotine Blocks块生成完毕:4879块
+生成时间3572ms
+运行时间:30000ms
+br2:==problem 96===>填充率为:0.9735349931305214
+Guillotine Blocks块生成完毕:8328块
+生成时间12816ms
+运行时间:30000ms
+br0:==problem 78===>填充率为:0.9268591627278776
+Guillotine Blocks块生成完毕:10000块
+生成时间1366ms
+运行时间:30000ms
+br1:==problem 87===>填充率为:0.9414011875191511
+Guillotine Blocks块生成完毕:4897块
+生成时间4740ms
+运行时间:30000ms
+br2:==problem 97===>填充率为:0.9632484557797673
+运行时间:30001ms
+br0:==problem 79===>填充率为:0.9580595567507998
+Guillotine Blocks块生成完毕:7712块
+生成时间8613ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3392ms
+运行时间:30000ms
+br1:==problem 88===>填充率为:0.9471093353787785
+Guillotine Blocks块生成完毕:4411块
+生成时间2830ms
+运行时间:30000ms
+br2:==problem 98===>填充率为:0.9601836114912717
+运行时间:30000ms
+br0:==problem 80===>填充率为:0.9497767004036608
+运行时间:30000ms
+br1:==problem 89===>填充率为:0.8984429846571675
+Guillotine Blocks块生成完毕:4282块
+生成时间6544ms
+Guillotine Blocks块生成完毕:3731块
+生成时间2116ms
+Guillotine Blocks块生成完毕:8336块
+生成时间11930ms
+运行时间:30000ms
+br0:==problem 81===>填充率为:0.9651168741911662
+运行时间:30001ms
+br1:==problem 90===>填充率为:0.933235913248489
+运行时间:30001ms
+br2:==problem 99===>填充率为:0.9680095660895685
+Guillotine Blocks块生成完毕:10000块
+生成时间3784ms
+Guillotine Blocks块生成完毕:5076块
+生成时间3573ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4531ms
+运行时间:30000ms
+br0:==problem 82===>填充率为:0.9254354159341328
+运行时间:30001ms
+br2:==problem 100===>填充率为:0.9603569603072422
+<=====br2平均填充率为:0.9564828688431426
+运行时间:30000ms
+br1:==problem 91===>填充率为:0.9731650981301858
+Guillotine Blocks块生成完毕:4312块
+生成时间2924ms
+运行时间:30001ms
+br1:==problem 92===>填充率为:0.9436009494304016
+Guillotine Blocks块生成完毕:3800块
+生成时间2435ms
+Guillotine Blocks块生成完毕:9978块
+生成时间46939ms
+运行时间:30001ms
+br1:==problem 93===>填充率为:0.9632855449819573
+运行时间:30000ms
+br0:==problem 83===>填充率为:0.9459471405753878
+Guillotine Blocks块生成完毕:4684块
+生成时间8496ms
+Guillotine Blocks块生成完毕:8841块
+生成时间16607ms
+运行时间:30000ms
+br0:==problem 84===>填充率为:0.9189448055508843
+运行时间:30001ms
+br1:==problem 94===>填充率为:0.957874609250632
+Guillotine Blocks块生成完毕:4876块
+生成时间5744ms
+Guillotine Blocks块生成完毕:10000块
+生成时间10139ms
+运行时间:30000ms
+br1:==problem 95===>填充率为:0.9585313473550015
+运行时间:30000ms
+br0:==problem 85===>填充率为:0.9641517573169751
+Guillotine Blocks块生成完毕:10000块
+生成时间2710ms
+Guillotine Blocks块生成完毕:8320块
+生成时间18744ms
+运行时间:30000ms
+br0:==problem 86===>填充率为:0.9217085493269772
+Guillotine Blocks块生成完毕:10000块
+生成时间6597ms
+运行时间:30000ms
+br1:==problem 96===>填充率为:0.9560673747292255
+Guillotine Blocks块生成完毕:6193块
+生成时间8302ms
+运行时间:30000ms
+br0:==problem 87===>填充率为:0.9337247861554915
+运行时间:30000ms
+br1:==problem 97===>填充率为:0.9526899974143908
+Guillotine Blocks块生成完毕:9046块
+生成时间21180ms
+运行时间:30000ms
+br1:==problem 98===>填充率为:0.9705693857217207
+Guillotine Blocks块生成完毕:8686块
+生成时间21413ms
+Guillotine Blocks块生成完毕:9670块
+生成时间102597ms
+运行时间:30000ms
+br1:==problem 99===>填充率为:0.9518252473776672
+Guillotine Blocks块生成完毕:10000块
+生成时间1474ms
+运行时间:30001ms
+br0:==problem 88===>填充率为:0.9172598391073068
+Guillotine Blocks块生成完毕:1928块
+生成时间1787ms
+运行时间:30000ms
+br1:==problem 100===>填充率为:0.9699350806025466
+<=====br1平均填充率为:0.9505943837110604
+运行时间:30001ms
+br0:==problem 89===>填充率为:0.6413480795038289
+Guillotine Blocks块生成完毕:10000块
+生成时间13905ms
+运行时间:30001ms
+br0:==problem 90===>填充率为:0.939335092965614
+Guillotine Blocks块生成完毕:7944块
+生成时间52744ms
+运行时间:30000ms
+br0:==problem 91===>填充率为:0.942453577014266
+Guillotine Blocks块生成完毕:4434块
+生成时间9893ms
+运行时间:30000ms
+br0:==problem 92===>填充率为:0.873544032792704
+Guillotine Blocks块生成完毕:10000块
+生成时间17333ms
+运行时间:30001ms
+br0:==problem 93===>填充率为:0.9265241634822906
+Guillotine Blocks块生成完毕:6252块
+生成时间26968ms
+运行时间:30000ms
+br0:==problem 94===>填充率为:0.9039595714402509
+Guillotine Blocks块生成完毕:8046块
+生成时间115930ms
+运行时间:30000ms
+br0:==problem 95===>填充率为:0.8662143290609852
+Guillotine Blocks块生成完毕:10000块
+生成时间4946ms
+运行时间:30001ms
+br0:==problem 96===>填充率为:0.9522911887886919
+Guillotine Blocks块生成完毕:10000块
+生成时间4356ms
+运行时间:30000ms
+br0:==problem 97===>填充率为:0.939656931526553
+Guillotine Blocks块生成完毕:8762块
+生成时间86190ms
+运行时间:30001ms
+br0:==problem 98===>填充率为:0.957147348487618
+Guillotine Blocks块生成完毕:10000块
+生成时间4553ms
+运行时间:30000ms
+br0:==problem 99===>填充率为:0.9605545035131716
+Guillotine Blocks块生成完毕:10000块
+生成时间4241ms
+运行时间:30000ms
+br0:==problem 100===>填充率为:0.8954948583597931
+<=====br0平均填充率为:0.9047523122591778

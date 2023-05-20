@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BSG_cover_Manhanttan_Distance_NewSpaceRenew_Diffillrate_TrueFbr_newExpand_VCS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BSG_cover_Manhanttan_Distance_NewSpaceRenew_Diffillrate_TrueFbr_newExpand_VCS_jar</output-path>
+    <root id="archive" name="BSG_cover_Manhanttan_Distance_NewSpaceRenew_Diffillrate_TrueFbr_newExpand_VCS.jar">
+      <element id="module-output" name="BSG_cover_Manhanttan_Distance_NewSpaceRenew_Diffillrate_TrueFbr_newExpand_VCS" />
+    </root>
+  </artifact>
+</component>

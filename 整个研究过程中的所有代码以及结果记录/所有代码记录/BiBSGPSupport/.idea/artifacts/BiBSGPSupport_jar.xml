@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BiBSGPSupport:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BiBSGPSupport_jar</output-path>
+    <root id="archive" name="BiBSGPSupport.jar">
+      <element id="module-output" name="BiBSGPSupport" />
+    </root>
+  </artifact>
+</component>

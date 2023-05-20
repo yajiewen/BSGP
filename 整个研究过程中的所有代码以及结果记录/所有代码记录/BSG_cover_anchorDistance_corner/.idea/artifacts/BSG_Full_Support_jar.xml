@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BSG_Full_Support:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BSG_Full_Support_jar</output-path>
+    <root id="archive" name="BSG_Full_Support.jar">
+      <element id="module-output" name="BSG_cover_anchorDistance_corner" />
+    </root>
+  </artifact>
+</component>

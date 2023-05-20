@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BSGI_Double_Score:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BSGI_Double_Score_jar</output-path>
+    <root id="archive" name="BSGI_Double_Score.jar">
+      <element id="module-output" name="BSGI_Double_Score" />
+    </root>
+  </artifact>
+</component>

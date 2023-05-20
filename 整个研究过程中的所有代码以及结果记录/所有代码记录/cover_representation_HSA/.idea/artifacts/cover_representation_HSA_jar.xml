@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cover_representation_HSA:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/cover_representation_HSA_jar</output-path>
+    <root id="archive" name="cover_representation_HSA.jar">
+      <element id="module-output" name="cover_representation_HSA" />
+    </root>
+  </artifact>
+</component>

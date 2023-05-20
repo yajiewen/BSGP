@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="partition_representation_2LA:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/partition_representation_2LA_jar</output-path>
+    <root id="archive" name="partition_representation_2LA.jar">
+      <element id="module-output" name="partition_representation_2LA" />
+    </root>
+  </artifact>
+</component>

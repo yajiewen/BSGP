@@ -1,0 +1,3215 @@
+BSG_Cover_Not_Support_GuillotineBlock_NewManhanttan2_8Corner_30s_removeSimlarState_Diffillrate_ByFbr29
+***运行时间：30秒
+***多线程运行
+***TASK 8_15
+***开启状态检测
+
+创建输出文件夹
+Guillotine Blocks块生成完毕:3398块
+生成时间213ms
+Guillotine Blocks块生成完毕:6766块
+生成时间1138ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1785ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1929ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2479ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3781ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3950ms
+Guillotine Blocks块生成完毕:10000块
+生成时间6772ms
+运行时间:30001ms
+BR15 problem 1 : 0.9486151702813129
+运行时间:30000ms
+BR14 problem 1 : 0.9510623264767053
+运行时间:30001ms
+BR11 problem 1 : 0.9494739714227033
+运行时间:30000ms
+BR10 problem 1 : 0.9511887488110518
+运行时间:30000ms
+BR8 problem 1 : 0.9506395228653602
+运行时间:30000ms
+BR9 problem 1 : 0.9499503815601527
+运行时间:30000ms
+BR13 problem 1 : 0.949034451083131
+Guillotine Blocks块生成完毕:8106块
+生成时间1824ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1280ms
+运行时间:30001ms
+BR12 problem 1 : 0.9448632451988427
+Guillotine Blocks块生成完毕:10000块
+生成时间3537ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3128ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2506ms
+Guillotine Blocks块生成完毕:10000块
+生成时间6190ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2604ms
+Guillotine Blocks块生成完毕:10000块
+生成时间6084ms
+运行时间:30001ms
+BR15 problem 2 : 0.9459080240960172
+运行时间:30000ms
+BR14 problem 2 : 0.9468024853753554
+Guillotine Blocks块生成完毕:6334块
+生成时间885ms
+运行时间:30000ms
+BR11 problem 2 : 0.9486871220041995
+运行时间:30000ms
+BR8 problem 2 : 0.9536587368002654
+Guillotine Blocks块生成完毕:7685块
+生成时间1563ms
+运行时间:30000ms
+BR13 problem 2 : 0.9421566972264854
+运行时间:30000ms
+BR10 problem 2 : 0.9536155325324813
+Guillotine Blocks块生成完毕:10000块
+生成时间1559ms
+运行时间:30000ms
+BR12 problem 2 : 0.9464577485524909
+Guillotine Blocks块生成完毕:10000块
+生成时间2100ms
+运行时间:30000ms
+BR9 problem 2 : 0.9618446161832552
+Guillotine Blocks块生成完毕:10000块
+生成时间1205ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3128ms
+Guillotine Blocks块生成完毕:10000块
+生成时间742ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3155ms
+运行时间:30000ms
+BR15 problem 3 : 0.9394018601763665
+运行时间:30001ms
+BR14 problem 3 : 0.9423797974185117
+Guillotine Blocks块生成完毕:7785块
+生成时间1619ms
+Guillotine Blocks块生成完毕:5576块
+生成时间738ms
+运行时间:30001ms
+BR11 problem 3 : 0.9508107779360457
+运行时间:30000ms
+BR8 problem 3 : 0.9550615129071088
+运行时间:30000ms
+BR10 problem 3 : 0.9533921332339856
+运行时间:30000ms
+BR13 problem 3 : 0.9462130794606246
+运行时间:30000ms
+BR9 problem 3 : 0.9509783440269435
+Guillotine Blocks块生成完毕:10000块
+生成时间1891ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2303ms
+运行时间:30001ms
+BR12 problem 3 : 0.9509618931711334
+Guillotine Blocks块生成完毕:10000块
+生成时间1253ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2832ms
+Guillotine Blocks块生成完毕:8427块
+生成时间3519ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2497ms
+运行时间:30001ms
+BR15 problem 4 : 0.9452145955980833
+运行时间:30001ms
+BR14 problem 4 : 0.946376092486379
+Guillotine Blocks块生成完毕:6771块
+生成时间1683ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1738ms
+运行时间:30001ms
+BR11 problem 4 : 0.9498596525978061
+运行时间:30000ms
+BR8 problem 4 : 0.9537019410680494
+运行时间:30001ms
+BR9 problem 4 : 0.9518082647770227
+Guillotine Blocks块生成完毕:10000块
+生成时间1053ms
+运行时间:30000ms
+BR10 problem 4 : 0.9487138421821213
+运行时间:30000ms
+BR13 problem 4 : 0.9469269801346777
+Guillotine Blocks块生成完毕:10000块
+生成时间1950ms
+运行时间:30000ms
+BR12 problem 4 : 0.9472708196381343
+Guillotine Blocks块生成完毕:10000块
+生成时间1254ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3601ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3670ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4114ms
+运行时间:30000ms
+BR15 problem 5 : 0.9433633259575893
+运行时间:30000ms
+BR14 problem 5 : 0.946746984508279
+Guillotine Blocks块生成完毕:10000块
+生成时间961ms
+运行时间:30000ms
+BR11 problem 5 : 0.9520748351092503
+运行时间:30000ms
+BR8 problem 5 : 0.9642543840699882
+Guillotine Blocks块生成完毕:10000块
+生成时间4045ms
+Guillotine Blocks块生成完毕:10000块
+生成时间875ms
+运行时间:30000ms
+BR9 problem 5 : 0.9578455294550081
+运行时间:30000ms
+BR10 problem 5 : 0.951391609465324
+Guillotine Blocks块生成完毕:10000块
+生成时间1123ms
+运行时间:30000ms
+BR13 problem 5 : 0.9502836858690804
+Guillotine Blocks块生成完毕:10000块
+生成时间4214ms
+运行时间:30000ms
+BR12 problem 5 : 0.9517779885555218
+Guillotine Blocks块生成完毕:10000块
+生成时间1472ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1903ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1518ms
+运行时间:30000ms
+BR14 problem 6 : 0.9472634749126111
+运行时间:30000ms
+BR15 problem 6 : 0.9475114009415871
+运行时间:30001ms
+BR11 problem 6 : 0.9507038307562542
+Guillotine Blocks块生成完毕:7698块
+生成时间1512ms
+Guillotine Blocks块生成完毕:6290块
+生成时间1422ms
+运行时间:30000ms
+BR9 problem 6 : 0.9539623298665786
+Guillotine Blocks块生成完毕:10000块
+生成时间1572ms
+运行时间:30000ms
+BR8 problem 6 : 0.9494137845542748
+运行时间:30001ms
+BR10 problem 6 : 0.9472459938011846
+Guillotine Blocks块生成完毕:10000块
+生成时间1726ms
+运行时间:30001ms
+BR13 problem 6 : 0.9491713753779543
+Guillotine Blocks块生成完毕:10000块
+生成时间1194ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1161ms
+运行时间:30000ms
+BR12 problem 6 : 0.9435761900615561
+Guillotine Blocks块生成完毕:10000块
+生成时间1839ms
+Guillotine Blocks块生成完毕:7020块
+生成时间2229ms
+运行时间:30000ms
+BR14 problem 7 : 0.9447810906219487
+运行时间:30000ms
+BR15 problem 7 : 0.9453358334202958
+运行时间:30000ms
+BR11 problem 7 : 0.9504882746940639
+Guillotine Blocks块生成完毕:9713块
+生成时间3953ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1536ms
+运行时间:30000ms
+BR9 problem 7 : 0.9545874623873615
+Guillotine Blocks块生成完毕:9380块
+生成时间3134ms
+运行时间:30001ms
+BR8 problem 7 : 0.9531366630751734
+运行时间:30001ms
+BR10 problem 7 : 0.9512789792626162
+Guillotine Blocks块生成完毕:10000块
+生成时间1638ms
+运行时间:30000ms
+BR13 problem 7 : 0.9446675630998331
+Guillotine Blocks块生成完毕:10000块
+生成时间2256ms
+运行时间:30000ms
+BR12 problem 7 : 0.9508792068494052
+Guillotine Blocks块生成完毕:10000块
+生成时间3700ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2350ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3402ms
+运行时间:30000ms
+BR14 problem 8 : 0.9447695584058555
+运行时间:30000ms
+BR11 problem 8 : 0.9518391059774102
+运行时间:30000ms
+BR15 problem 8 : 0.9398455680065085
+Guillotine Blocks块生成完毕:4147块
+生成时间448ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1605ms
+运行时间:30001ms
+BR9 problem 8 : 0.9451822920994017
+Guillotine Blocks块生成完毕:8893块
+生成时间2985ms
+运行时间:30000ms
+BR8 problem 8 : 0.9569742987781168
+运行时间:30000ms
+BR10 problem 8 : 0.9488774866548664
+Guillotine Blocks块生成完毕:10000块
+生成时间2866ms
+Guillotine Blocks块生成完毕:10000块
+生成时间886ms
+运行时间:30000ms
+BR13 problem 8 : 0.950702135819595
+Guillotine Blocks块生成完毕:10000块
+生成时间1978ms
+运行时间:30007ms
+BR12 problem 8 : 0.9483664466350854
+Guillotine Blocks块生成完毕:10000块
+生成时间1605ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3263ms
+运行时间:30001ms
+BR15 problem 9 : 0.944844999704217
+运行时间:30000ms
+BR11 problem 9 : 0.9489850320475964
+运行时间:30000ms
+BR14 problem 9 : 0.9441086328109162
+Guillotine Blocks块生成完毕:10000块
+生成时间2160ms
+Guillotine Blocks块生成完毕:9938块
+生成时间2795ms
+运行时间:30000ms
+BR9 problem 9 : 0.9452481952247984
+运行时间:30007ms
+BR8 problem 9 : 0.9501150230544619
+Guillotine Blocks块生成完毕:10000块
+生成时间5474ms
+运行时间:30001ms
+BR10 problem 9 : 0.9505830582107717
+运行时间:30001ms
+BR13 problem 9 : 0.9434698743287553
+Guillotine Blocks块生成完毕:10000块
+生成时间2790ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4667ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2353ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2803ms
+运行时间:30000ms
+BR12 problem 9 : 0.9497982360694486
+Guillotine Blocks块生成完毕:10000块
+生成时间3272ms
+运行时间:30000ms
+BR11 problem 10 : 0.948862597799507
+运行时间:30001ms
+BR15 problem 10 : 0.9514044045753984
+Guillotine Blocks块生成完毕:10000块
+生成时间1622ms
+运行时间:30000ms
+BR14 problem 10 : 0.9471312033850876
+Guillotine Blocks块生成完毕:10000块
+生成时间1759ms
+运行时间:30001ms
+BR8 problem 10 : 0.9566401303838333
+运行时间:30000ms
+BR9 problem 10 : 0.9491721397611536
+Guillotine Blocks块生成完毕:10000块
+生成时间2930ms
+运行时间:30001ms
+BR13 problem 10 : 0.9451492906856251
+运行时间:30000ms
+BR10 problem 10 : 0.9521913869301107
+Guillotine Blocks块生成完毕:10000块
+生成时间2584ms
+Guillotine Blocks块生成完毕:10000块
+生成时间5112ms
+Guillotine Blocks块生成完毕:9107块
+生成时间2200ms
+运行时间:30000ms
+BR12 problem 10 : 0.9537827662828576
+Guillotine Blocks块生成完毕:10000块
+生成时间5491ms
+Guillotine Blocks块生成完毕:9742块
+生成时间3956ms
+运行时间:30001ms
+BR11 problem 11 : 0.9480279910480757
+运行时间:30000ms
+BR15 problem 11 : 0.9491620698433546
+Guillotine Blocks块生成完毕:3911块
+生成时间274ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2542ms
+运行时间:30001ms
+BR14 problem 11 : 0.9445242578669987
+Guillotine Blocks块生成完毕:5194块
+生成时间1018ms
+运行时间:30000ms
+BR9 problem 11 : 0.9513756238862439
+运行时间:30000ms
+BR8 problem 11 : 0.9607536751876561
+运行时间:30000ms
+BR13 problem 11 : 0.9473534727258104
+运行时间:30000ms
+BR10 problem 11 : 0.9544076661652756
+Guillotine Blocks块生成完毕:10000块
+生成时间1618ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2919ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4463ms
+运行时间:30001ms
+BR12 problem 11 : 0.9551370206735744
+Guillotine Blocks块生成完毕:10000块
+生成时间2642ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3255ms
+运行时间:30001ms
+BR15 problem 12 : 0.9493750004154257
+运行时间:30000ms
+BR11 problem 12 : 0.9557043259436311
+Guillotine Blocks块生成完毕:10000块
+生成时间1523ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1012ms
+运行时间:30000ms
+BR14 problem 12 : 0.9421468267129993
+Guillotine Blocks块生成完毕:6131块
+生成时间1461ms
+运行时间:30000ms
+BR13 problem 12 : 0.9550732445275149
+运行时间:30001ms
+BR8 problem 12 : 0.9611129685253585
+运行时间:30001ms
+BR9 problem 12 : 0.9501984072912851
+运行时间:30000ms
+BR10 problem 12 : 0.953325997470224
+Guillotine Blocks块生成完毕:10000块
+生成时间3164ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2928ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2031ms
+运行时间:30001ms
+BR12 problem 12 : 0.9489387037789111
+Guillotine Blocks块生成完毕:10000块
+生成时间9646ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2002ms
+运行时间:30000ms
+BR15 problem 13 : 0.9469806863629384
+运行时间:30000ms
+BR11 problem 13 : 0.9520297032664421
+Guillotine Blocks块生成完毕:4875块
+生成时间578ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1325ms
+运行时间:30000ms
+BR14 problem 13 : 0.9523643369374555
+Guillotine Blocks块生成完毕:10000块
+生成时间2401ms
+运行时间:30000ms
+BR13 problem 13 : 0.9439810140506926
+运行时间:30000ms
+BR9 problem 13 : 0.9519335903876486
+运行时间:30001ms
+BR10 problem 13 : 0.9531517513348458
+Guillotine Blocks块生成完毕:10000块
+生成时间2143ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1671ms
+运行时间:30000ms
+BR8 problem 13 : 0.9575335614075552
+运行时间:30000ms
+BR12 problem 13 : 0.952711898654752
+Guillotine Blocks块生成完毕:10000块
+生成时间3470ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1603ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2697ms
+运行时间:30000ms
+BR15 problem 14 : 0.9422581940217257
+运行时间:30001ms
+BR11 problem 14 : 0.9483305538587725
+Guillotine Blocks块生成完毕:10000块
+生成时间2035ms
+运行时间:30001ms
+BR14 problem 14 : 0.9429189202123524
+Guillotine Blocks块生成完毕:10000块
+生成时间3766ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2088ms
+运行时间:30001ms
+BR13 problem 14 : 0.9498093362428638
+运行时间:30000ms
+BR9 problem 14 : 0.9522075386794516
+Guillotine Blocks块生成完毕:10000块
+生成时间1642ms
+运行时间:30000ms
+BR10 problem 14 : 0.9472050826829983
+Guillotine Blocks块生成完毕:10000块
+生成时间1772ms
+运行时间:30001ms
+BR8 problem 14 : 0.9558200801472402
+Guillotine Blocks块生成完毕:10000块
+生成时间2075ms
+运行时间:30001ms
+BR12 problem 14 : 0.9505930948945185
+Guillotine Blocks块生成完毕:10000块
+生成时间4431ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2880ms
+运行时间:30000ms
+BR15 problem 15 : 0.9498266511840295
+Guillotine Blocks块生成完毕:5507块
+生成时间668ms
+运行时间:30000ms
+BR11 problem 15 : 0.9501250265041565
+运行时间:30000ms
+BR14 problem 15 : 0.943150328917414
+Guillotine Blocks块生成完毕:9044块
+生成时间2585ms
+Guillotine Blocks块生成完毕:5654块
+生成时间1097ms
+运行时间:30001ms
+BR13 problem 15 : 0.9460479394555331
+运行时间:30000ms
+BR9 problem 15 : 0.9496999629772659
+Guillotine Blocks块生成完毕:10000块
+生成时间1556ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2629ms
+运行时间:30001ms
+BR10 problem 15 : 0.9575611124367805
+Guillotine Blocks块生成完毕:10000块
+生成时间715ms
+运行时间:30000ms
+BR8 problem 15 : 0.9537715331732338
+运行时间:30000ms
+BR12 problem 15 : 0.9506365982687718
+Guillotine Blocks块生成完毕:10000块
+生成时间1762ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2862ms
+运行时间:30001ms
+BR15 problem 16 : 0.9428020360509703
+Guillotine Blocks块生成完毕:10000块
+生成时间1704ms
+运行时间:30000ms
+BR11 problem 16 : 0.9489568163373283
+运行时间:30000ms
+BR14 problem 16 : 0.9432212503846842
+Guillotine Blocks块生成完毕:10000块
+生成时间1162ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3280ms
+运行时间:30000ms
+BR9 problem 16 : 0.9518811802874214
+运行时间:30000ms
+BR13 problem 16 : 0.9445086378624921
+Guillotine Blocks块生成完毕:10000块
+生成时间1157ms
+运行时间:30001ms
+BR10 problem 16 : 0.9549768657763043
+Guillotine Blocks块生成完毕:10000块
+生成时间1836ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1721ms
+运行时间:30000ms
+BR8 problem 16 : 0.9551705538321853
+运行时间:30001ms
+BR12 problem 16 : 0.9533084498906932
+Guillotine Blocks块生成完毕:10000块
+生成时间1257ms
+Guillotine Blocks块生成完毕:10000块
+生成时间883ms
+运行时间:30000ms
+BR15 problem 17 : 0.9470784277102868
+Guillotine Blocks块生成完毕:4117块
+生成时间349ms
+运行时间:30000ms
+BR11 problem 17 : 0.9511995831120499
+Guillotine Blocks块生成完毕:5449块
+生成时间1544ms
+运行时间:30000ms
+BR14 problem 17 : 0.9484202193314505
+Guillotine Blocks块生成完毕:4662块
+生成时间759ms
+运行时间:30000ms
+BR9 problem 17 : 0.9530648775225476
+运行时间:30000ms
+BR13 problem 17 : 0.9479778408633941
+Guillotine Blocks块生成完毕:10000块
+生成时间1598ms
+Guillotine Blocks块生成完毕:4828块
+生成时间801ms
+运行时间:30001ms
+BR10 problem 17 : 0.9499172472101675
+运行时间:30001ms
+BR8 problem 17 : 0.9530943893608493
+Guillotine Blocks块生成完毕:10000块
+生成时间3492ms
+运行时间:30001ms
+BR12 problem 17 : 0.9497988342823871
+Guillotine Blocks块生成完毕:10000块
+生成时间2821ms
+Guillotine Blocks块生成完毕:9570块
+生成时间6702ms
+运行时间:30001ms
+BR15 problem 18 : 0.9408557502554037
+Guillotine Blocks块生成完毕:6824块
+生成时间971ms
+运行时间:30000ms
+BR11 problem 18 : 0.9524321344038243
+运行时间:30000ms
+BR14 problem 18 : 0.9411264083760447
+Guillotine Blocks块生成完毕:10000块
+生成时间4760ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1999ms
+运行时间:30001ms
+BR9 problem 18 : 0.9524219980179212
+运行时间:30008ms
+BR13 problem 18 : 0.9478506541458483
+Guillotine Blocks块生成完毕:10000块
+生成时间1491ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3147ms
+运行时间:30000ms
+BR10 problem 18 : 0.9517310620738979
+Guillotine Blocks块生成完毕:10000块
+生成时间3224ms
+运行时间:30000ms
+BR12 problem 18 : 0.9514180970048808
+运行时间:30000ms
+BR8 problem 18 : 0.9570160407476066
+Guillotine Blocks块生成完毕:10000块
+生成时间2201ms
+运行时间:30000ms
+BR15 problem 19 : 0.9467093635612547
+Guillotine Blocks块生成完毕:10000块
+生成时间2527ms
+Guillotine Blocks块生成完毕:5870块
+生成时间796ms
+运行时间:30000ms
+BR11 problem 19 : 0.9488690452056224
+运行时间:30000ms
+BR14 problem 19 : 0.9461115826653843
+Guillotine Blocks块生成完毕:6756块
+生成时间1712ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2684ms
+运行时间:30000ms
+BR13 problem 19 : 0.9503892039846299
+运行时间:30000ms
+BR9 problem 19 : 0.9566563486012785
+Guillotine Blocks块生成完毕:10000块
+生成时间1882ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1334ms
+运行时间:30000ms
+BR10 problem 19 : 0.9503378573740712
+运行时间:30001ms
+BR12 problem 19 : 0.9484074906894803
+Guillotine Blocks块生成完毕:10000块
+生成时间4240ms
+运行时间:30000ms
+BR8 problem 19 : 0.956017490416961
+运行时间:30001ms
+BR15 problem 20 : 0.9448692605622803
+Guillotine Blocks块生成完毕:10000块
+生成时间2983ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1199ms
+Guillotine Blocks块生成完毕:7593块
+生成时间1397ms
+运行时间:30000ms
+BR14 problem 20 : 0.9446035543154084
+运行时间:30000ms
+BR11 problem 20 : 0.9521520378123751
+Guillotine Blocks块生成完毕:6041块
+生成时间1351ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1481ms
+运行时间:30000ms
+BR13 problem 20 : 0.9478699631301426
+运行时间:30000ms
+BR9 problem 20 : 0.9544482781769926
+Guillotine Blocks块生成完毕:7009块
+生成时间1897ms
+Guillotine Blocks块生成完毕:8658块
+生成时间3450ms
+运行时间:30000ms
+BR10 problem 20 : 0.9525072765957164
+运行时间:30000ms
+BR12 problem 20 : 0.953652787904932
+Guillotine Blocks块生成完毕:10000块
+生成时间2105ms
+运行时间:30000ms
+BR8 problem 20 : 0.9573026844473277
+运行时间:30001ms
+BR15 problem 21 : 0.9450253941392414
+Guillotine Blocks块生成完毕:10000块
+生成时间1625ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3167ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1887ms
+运行时间:30000ms
+BR14 problem 21 : 0.9438209588555788
+运行时间:30001ms
+BR11 problem 21 : 0.9477856151058073
+Guillotine Blocks块生成完毕:10000块
+生成时间1491ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1065ms
+运行时间:30000ms
+BR13 problem 21 : 0.9458829988547546
+运行时间:30000ms
+BR9 problem 21 : 0.9522241224714703
+Guillotine Blocks块生成完毕:10000块
+生成时间986ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3337ms
+运行时间:30001ms
+BR10 problem 21 : 0.9516003525468251
+运行时间:30000ms
+BR12 problem 21 : 0.9480553759070404
+运行时间:30000ms
+BR8 problem 21 : 0.9551035872171201
+Guillotine Blocks块生成完毕:10000块
+生成时间3556ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1090ms
+运行时间:30000ms
+BR15 problem 22 : 0.9498031547091654
+Guillotine Blocks块生成完毕:3843块
+生成时间443ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3186ms
+运行时间:30000ms
+BR14 problem 22 : 0.9488973273839949
+运行时间:30000ms
+BR11 problem 22 : 0.9567368082415132
+Guillotine Blocks块生成完毕:4213块
+生成时间643ms
+Guillotine Blocks块生成完毕:7653块
+生成时间3127ms
+运行时间:30000ms
+BR13 problem 22 : 0.9477942891934162
+Guillotine Blocks块生成完毕:4840块
+生成时间852ms
+运行时间:30001ms
+BR9 problem 22 : 0.9566272023375503
+Guillotine Blocks块生成完毕:10000块
+生成时间2193ms
+运行时间:30001ms
+BR10 problem 22 : 0.9531004711923913
+运行时间:30000ms
+BR12 problem 22 : 0.9451680679250851
+运行时间:30001ms
+BR15 problem 23 : 0.94481944271812
+Guillotine Blocks块生成完毕:6384块
+生成时间1073ms
+Guillotine Blocks块生成完毕:7345块
+生成时间2006ms
+运行时间:30000ms
+BR8 problem 22 : 0.9575759348240357
+Guillotine Blocks块生成完毕:4226块
+生成时间487ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1413ms
+运行时间:30001ms
+BR14 problem 23 : 0.9470228603751061
+运行时间:30001ms
+BR11 problem 23 : 0.9512474069130816
+Guillotine Blocks块生成完毕:10000块
+生成时间2818ms
+运行时间:30000ms
+BR13 problem 23 : 0.9484586378957262
+Guillotine Blocks块生成完毕:10000块
+生成时间3009ms
+Guillotine Blocks块生成完毕:5871块
+生成时间1215ms
+运行时间:30000ms
+BR9 problem 23 : 0.9468526023259849
+Guillotine Blocks块生成完毕:10000块
+生成时间2837ms
+运行时间:30000ms
+BR12 problem 23 : 0.9503768076831811
+运行时间:30000ms
+BR10 problem 23 : 0.9498725474100371
+运行时间:30001ms
+BR15 problem 24 : 0.9445012599029167
+Guillotine Blocks块生成完毕:10000块
+生成时间1187ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1912ms
+运行时间:30000ms
+BR8 problem 23 : 0.956846846188154
+Guillotine Blocks块生成完毕:10000块
+生成时间4335ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1480ms
+运行时间:30000ms
+BR14 problem 24 : 0.9454626877973201
+运行时间:30000ms
+BR11 problem 24 : 0.9456938970980691
+运行时间:30001ms
+BR13 problem 24 : 0.9520815483877829
+Guillotine Blocks块生成完毕:10000块
+生成时间3588ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3802ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4963ms
+运行时间:30001ms
+BR9 problem 24 : 0.9549471212996375
+运行时间:30000ms
+BR10 problem 24 : 0.9477531122028128
+运行时间:30000ms
+BR12 problem 24 : 0.9520314646712056
+Guillotine Blocks块生成完毕:10000块
+生成时间4728ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2278ms
+运行时间:30000ms
+BR15 problem 25 : 0.9514145409613016
+运行时间:30001ms
+BR8 problem 24 : 0.950457998472563
+Guillotine Blocks块生成完毕:10000块
+生成时间2804ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2373ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3573ms
+运行时间:30000ms
+BR14 problem 25 : 0.9476302791460975
+运行时间:30000ms
+BR11 problem 25 : 0.9534220771149652
+Guillotine Blocks块生成完毕:10000块
+生成时间2095ms
+运行时间:30000ms
+BR13 problem 25 : 0.9513537891139868
+Guillotine Blocks块生成完毕:10000块
+生成时间2537ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2045ms
+运行时间:30000ms
+BR9 problem 25 : 0.9512190582666049
+运行时间:30000ms
+BR12 problem 25 : 0.9488015136116708
+运行时间:30000ms
+BR10 problem 25 : 0.9531072509390281
+Guillotine Blocks块生成完毕:10000块
+生成时间2908ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1205ms
+运行时间:30000ms
+BR8 problem 25 : 0.9535857548217624
+Guillotine Blocks块生成完毕:10000块
+生成时间2680ms
+运行时间:30000ms
+BR15 problem 26 : 0.9433533225078947
+Guillotine Blocks块生成完毕:8267块
+生成时间2726ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4387ms
+运行时间:30000ms
+BR14 problem 26 : 0.9434300599342896
+运行时间:30000ms
+BR11 problem 26 : 0.9477632818227681
+Guillotine Blocks块生成完毕:9059块
+生成时间2010ms
+运行时间:30001ms
+BR13 problem 26 : 0.9451432088540832
+Guillotine Blocks块生成完毕:10000块
+生成时间1651ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3180ms
+运行时间:30001ms
+BR9 problem 26 : 0.9574399743167245
+运行时间:30000ms
+BR12 problem 26 : 0.9478834893893642
+Guillotine Blocks块生成完毕:10000块
+生成时间1372ms
+运行时间:30000ms
+BR10 problem 26 : 0.9519277744285238
+Guillotine Blocks块生成完毕:8886块
+生成时间2469ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1705ms
+运行时间:30000ms
+BR15 problem 27 : 0.947256429293557
+运行时间:30000ms
+BR8 problem 26 : 0.9513847964846349
+Guillotine Blocks块生成完毕:9507块
+生成时间3469ms
+运行时间:30000ms
+BR14 problem 27 : 0.952289792958502
+Guillotine Blocks块生成完毕:10000块
+生成时间8758ms
+运行时间:30000ms
+BR11 problem 27 : 0.9501214704605775
+Guillotine Blocks块生成完毕:10000块
+生成时间2865ms
+运行时间:30001ms
+BR13 problem 27 : 0.9440142813368863
+Guillotine Blocks块生成完毕:10000块
+生成时间3029ms
+Guillotine Blocks块生成完毕:8810块
+生成时间3583ms
+运行时间:30001ms
+BR9 problem 27 : 0.9592483387959037
+运行时间:30000ms
+BR12 problem 27 : 0.9509428168252042
+运行时间:30000ms
+BR10 problem 27 : 0.9542541248443815
+Guillotine Blocks块生成完毕:10000块
+生成时间1409ms
+Guillotine Blocks块生成完毕:10000块
+生成时间6353ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2836ms
+运行时间:30000ms
+BR15 problem 28 : 0.9496662636483943
+Guillotine Blocks块生成完毕:10000块
+生成时间2411ms
+运行时间:30000ms
+BR8 problem 27 : 0.9609152591491684
+运行时间:30000ms
+BR14 problem 28 : 0.9465710102021894
+Guillotine Blocks块生成完毕:10000块
+生成时间2333ms
+运行时间:30001ms
+BR11 problem 28 : 0.9483383638610259
+Guillotine Blocks块生成完毕:10000块
+生成时间2599ms
+Guillotine Blocks块生成完毕:10000块
+生成时间713ms
+运行时间:30000ms
+BR13 problem 28 : 0.944906748573096
+Guillotine Blocks块生成完毕:10000块
+生成时间5324ms
+运行时间:30000ms
+BR12 problem 28 : 0.9477576652679562
+运行时间:30001ms
+BR9 problem 28 : 0.9474820552735461
+运行时间:30000ms
+BR10 problem 28 : 0.9505186838517735
+Guillotine Blocks块生成完毕:10000块
+生成时间2623ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2222ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2111ms
+运行时间:30000ms
+BR15 problem 29 : 0.9430642194883152
+Guillotine Blocks块生成完毕:5650块
+生成时间1130ms
+运行时间:30000ms
+BR8 problem 28 : 0.9563456102137547
+Guillotine Blocks块生成完毕:10000块
+生成时间1361ms
+运行时间:30001ms
+BR14 problem 29 : 0.9490834380759877
+运行时间:30000ms
+BR11 problem 29 : 0.9531768762782648
+Guillotine Blocks块生成完毕:10000块
+生成时间1583ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4930ms
+运行时间:30001ms
+BR13 problem 29 : 0.9436516978280217
+Guillotine Blocks块生成完毕:10000块
+生成时间2361ms
+运行时间:30000ms
+BR12 problem 29 : 0.9443323312158811
+运行时间:30000ms
+BR9 problem 29 : 0.9504268249316542
+运行时间:30000ms
+BR10 problem 29 : 0.9498586223421898
+Guillotine Blocks块生成完毕:10000块
+生成时间757ms
+Guillotine Blocks块生成完毕:10000块
+生成时间850ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1603ms
+运行时间:30000ms
+BR15 problem 30 : 0.9471974056169536
+Guillotine Blocks块生成完毕:6133块
+生成时间1387ms
+运行时间:30000ms
+BR8 problem 29 : 0.9519931125750342
+运行时间:30000ms
+BR14 problem 30 : 0.9468743706301376
+Guillotine Blocks块生成完毕:10000块
+生成时间2967ms
+Guillotine Blocks块生成完毕:9076块
+生成时间2590ms
+运行时间:30001ms
+BR11 problem 30 : 0.9534540150390732
+Guillotine Blocks块生成完毕:10000块
+生成时间2416ms
+运行时间:30000ms
+BR13 problem 30 : 0.9488433220492648
+运行时间:30000ms
+BR12 problem 30 : 0.9482359697463777
+Guillotine Blocks块生成完毕:10000块
+生成时间2284ms
+运行时间:30000ms
+BR10 problem 30 : 0.9498444646359775
+运行时间:30000ms
+BR9 problem 30 : 0.9561602971390134
+Guillotine Blocks块生成完毕:10000块
+生成时间1841ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1525ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2641ms
+运行时间:30001ms
+BR15 problem 31 : 0.9433198890514404
+Guillotine Blocks块生成完毕:10000块
+生成时间1775ms
+运行时间:30000ms
+BR8 problem 30 : 0.9590662826582722
+运行时间:30000ms
+BR14 problem 31 : 0.9419302071611406
+Guillotine Blocks块生成完毕:10000块
+生成时间2427ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1630ms
+运行时间:30001ms
+BR11 problem 31 : 0.9479521177070365
+Guillotine Blocks块生成完毕:10000块
+生成时间882ms
+运行时间:30000ms
+BR13 problem 31 : 0.9446280810458889
+运行时间:30000ms
+BR12 problem 31 : 0.9505831579129281
+运行时间:30001ms
+BR10 problem 31 : 0.9509559775098523
+Guillotine Blocks块生成完毕:10000块
+生成时间3486ms
+Guillotine Blocks块生成完毕:10000块
+生成时间991ms
+运行时间:30000ms
+BR9 problem 31 : 0.9525969088343422
+Guillotine Blocks块生成完毕:10000块
+生成时间1165ms
+运行时间:30000ms
+BR15 problem 32 : 0.9489595082955518
+Guillotine Blocks块生成完毕:10000块
+生成时间3827ms
+Guillotine Blocks块生成完毕:7384块
+生成时间1255ms
+运行时间:30000ms
+BR8 problem 31 : 0.9506698323209133
+运行时间:30000ms
+BR14 problem 32 : 0.9452745498281467
+Guillotine Blocks块生成完毕:10000块
+生成时间4574ms
+运行时间:30001ms
+BR11 problem 32 : 0.9497035854889494
+Guillotine Blocks块生成完毕:10000块
+生成时间3149ms
+Guillotine Blocks块生成完毕:10000块
+生成时间944ms
+运行时间:30000ms
+BR13 problem 32 : 0.9498327994836757
+运行时间:30000ms
+BR12 problem 32 : 0.9520765300459095
+运行时间:30000ms
+BR10 problem 32 : 0.9511214498554651
+Guillotine Blocks块生成完毕:10000块
+生成时间2387ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2611ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1544ms
+运行时间:30001ms
+BR9 problem 32 : 0.9556356643919066
+运行时间:30000ms
+BR15 problem 33 : 0.9526335992279065
+Guillotine Blocks块生成完毕:10000块
+生成时间1586ms
+Guillotine Blocks块生成完毕:4746块
+生成时间495ms
+运行时间:30001ms
+BR8 problem 32 : 0.962089650849695
+运行时间:30000ms
+BR14 problem 33 : 0.9474432379006448
+运行时间:30000ms
+BR11 problem 33 : 0.9474463951355983
+Guillotine Blocks块生成完毕:10000块
+生成时间3273ms
+Guillotine Blocks块生成完毕:6051块
+生成时间1428ms
+Guillotine Blocks块生成完毕:7192块
+生成时间2493ms
+运行时间:30000ms
+BR12 problem 33 : 0.9464640297883457
+运行时间:30016ms
+BR13 problem 33 : 0.9472139229408679
+运行时间:30000ms
+BR10 problem 33 : 0.9516667874170561
+Guillotine Blocks块生成完毕:4656块
+生成时间760ms
+Guillotine Blocks块生成完毕:5587块
+生成时间857ms
+运行时间:30000ms
+BR9 problem 33 : 0.9523354897801967
+Guillotine Blocks块生成完毕:10000块
+生成时间2473ms
+运行时间:30000ms
+BR15 problem 34 : 0.9443408723672815
+Guillotine Blocks块生成完毕:10000块
+生成时间1045ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3608ms
+运行时间:30000ms
+BR8 problem 33 : 0.9601921526426721
+运行时间:30000ms
+BR14 problem 34 : 0.9469868678966368
+运行时间:30000ms
+BR11 problem 34 : 0.9542881232797223
+Guillotine Blocks块生成完毕:10000块
+生成时间2067ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4412ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4180ms
+运行时间:30001ms
+BR13 problem 34 : 0.9475032918328646
+运行时间:30000ms
+BR12 problem 34 : 0.9426080156545679
+运行时间:30000ms
+BR10 problem 34 : 0.9439678866000967
+Guillotine Blocks块生成完毕:10000块
+生成时间1637ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1145ms
+运行时间:30000ms
+BR15 problem 35 : 0.9502048546974007
+Guillotine Blocks块生成完毕:10000块
+生成时间5795ms
+运行时间:30000ms
+BR9 problem 34 : 0.9521044466497084
+Guillotine Blocks块生成完毕:10000块
+生成时间908ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2293ms
+运行时间:30001ms
+BR14 problem 35 : 0.9500238620494377
+运行时间:30000ms
+BR8 problem 34 : 0.9545231877305197
+运行时间:30000ms
+BR11 problem 35 : 0.9464575159141259
+Guillotine Blocks块生成完毕:10000块
+生成时间3187ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3167ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2162ms
+运行时间:30000ms
+BR12 problem 35 : 0.9503770735555982
+运行时间:30000ms
+BR10 problem 35 : 0.9477730858681499
+运行时间:30000ms
+BR13 problem 35 : 0.9504139301194232
+Guillotine Blocks块生成完毕:10000块
+生成时间821ms
+运行时间:30001ms
+BR15 problem 36 : 0.9467556253618358
+Guillotine Blocks块生成完毕:10000块
+生成时间4718ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1181ms
+运行时间:30001ms
+BR9 problem 35 : 0.9570200288338636
+Guillotine Blocks块生成完毕:6465块
+生成时间1399ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1878ms
+运行时间:30000ms
+BR14 problem 36 : 0.9542841019594133
+运行时间:30000ms
+BR8 problem 35 : 0.9517751968951419
+运行时间:30000ms
+BR11 problem 36 : 0.9550214991083303
+Guillotine Blocks块生成完毕:10000块
+生成时间3138ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1742ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4773ms
+运行时间:30000ms
+BR10 problem 36 : 0.9560147652246854
+运行时间:30001ms
+BR12 problem 36 : 0.9466705129543012
+运行时间:30000ms
+BR13 problem 36 : 0.9506793372598258
+Guillotine Blocks块生成完毕:10000块
+生成时间1943ms
+运行时间:30000ms
+BR15 problem 37 : 0.9490703106253917
+Guillotine Blocks块生成完毕:10000块
+生成时间1992ms
+Guillotine Blocks块生成完毕:4760块
+生成时间738ms
+运行时间:30000ms
+BR9 problem 36 : 0.9590056305131138
+Guillotine Blocks块生成完毕:9189块
+生成时间3634ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4588ms
+运行时间:30000ms
+BR14 problem 37 : 0.9432711014628965
+运行时间:30001ms
+BR8 problem 36 : 0.9646025772342754
+Guillotine Blocks块生成完毕:7392块
+生成时间2187ms
+运行时间:30001ms
+BR11 problem 37 : 0.948339095010173
+Guillotine Blocks块生成完毕:6768块
+生成时间3126ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2412ms
+运行时间:30001ms
+BR10 problem 37 : 0.9523454267617869
+运行时间:30000ms
+BR12 problem 37 : 0.9547879634239316
+运行时间:30000ms
+BR15 problem 38 : 0.9500682627430987
+运行时间:30000ms
+BR13 problem 37 : 0.9495779275378021
+Guillotine Blocks块生成完毕:9412块
+生成时间3227ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2008ms
+Guillotine Blocks块生成完毕:6270块
+生成时间1768ms
+Guillotine Blocks块生成完毕:9011块
+生成时间3968ms
+运行时间:30000ms
+BR9 problem 37 : 0.9546915182046167
+Guillotine Blocks块生成完毕:8033块
+生成时间2750ms
+运行时间:30000ms
+BR14 problem 38 : 0.9442035492638325
+运行时间:30000ms
+BR8 problem 37 : 0.9595590107153231
+Guillotine Blocks块生成完毕:10000块
+生成时间970ms
+运行时间:30000ms
+BR11 problem 38 : 0.9480611253980609
+Guillotine Blocks块生成完毕:10000块
+生成时间3561ms
+运行时间:30000ms
+BR10 problem 38 : 0.9518384080623151
+Guillotine Blocks块生成完毕:10000块
+生成时间3535ms
+运行时间:30000ms
+BR15 problem 39 : 0.94478467989958
+运行时间:30000ms
+BR13 problem 38 : 0.9438877260663312
+运行时间:30010ms
+BR12 problem 38 : 0.9527027592904131
+Guillotine Blocks块生成完毕:10000块
+生成时间658ms
+Guillotine Blocks块生成完毕:4550块
+生成时间575ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1657ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2169ms
+运行时间:30000ms
+BR9 problem 38 : 0.9488656220982519
+运行时间:30000ms
+BR8 problem 38 : 0.949230000245932
+运行时间:30000ms
+BR14 problem 39 : 0.9507990795496919
+Guillotine Blocks块生成完毕:10000块
+生成时间16849ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2230ms
+运行时间:30000ms
+BR11 problem 39 : 0.9436733996640702
+运行时间:30001ms
+BR10 problem 39 : 0.9526781993258805
+Guillotine Blocks块生成完毕:5456块
+生成时间917ms
+Guillotine Blocks块生成完毕:10000块
+生成时间7614ms
+运行时间:30000ms
+BR15 problem 40 : 0.9426278231496443
+运行时间:30001ms
+BR13 problem 39 : 0.9502303784494454
+运行时间:30000ms
+BR12 problem 39 : 0.9475333021819484
+Guillotine Blocks块生成完毕:10000块
+生成时间2783ms
+Guillotine Blocks块生成完毕:7296块
+生成时间1930ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1945ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2349ms
+运行时间:30000ms
+BR9 problem 39 : 0.9573755999577263
+运行时间:30000ms
+BR14 problem 40 : 0.941880522253189
+Guillotine Blocks块生成完毕:10000块
+生成时间1943ms
+Guillotine Blocks块生成完毕:8117块
+生成时间1823ms
+运行时间:30000ms
+BR11 problem 40 : 0.9495899914987295
+运行时间:30001ms
+BR8 problem 39 : 0.9568089593687126
+Guillotine Blocks块生成完毕:10000块
+生成时间1161ms
+运行时间:30001ms
+BR10 problem 40 : 0.9512508964885565
+运行时间:30001ms
+BR15 problem 41 : 0.9404482010739916
+Guillotine Blocks块生成完毕:10000块
+生成时间3336ms
+运行时间:30000ms
+BR13 problem 40 : 0.9469836774276312
+运行时间:30000ms
+BR12 problem 40 : 0.9466840392135228
+Guillotine Blocks块生成完毕:10000块
+生成时间2282ms
+Guillotine Blocks块生成完毕:8762块
+生成时间2839ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1690ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2899ms
+运行时间:30000ms
+BR9 problem 40 : 0.9544317940871304
+运行时间:30001ms
+BR14 problem 41 : 0.9452384244134688
+Guillotine Blocks块生成完毕:6609块
+生成时间1169ms
+运行时间:30001ms
+BR11 problem 41 : 0.9487348461030748
+Guillotine Blocks块生成完毕:10000块
+生成时间2868ms
+运行时间:30000ms
+BR8 problem 40 : 0.9609584301829003
+运行时间:30001ms
+BR10 problem 41 : 0.9543060031997745
+Guillotine Blocks块生成完毕:10000块
+生成时间4413ms
+运行时间:30001ms
+BR15 problem 42 : 0.942289234626426
+运行时间:30001ms
+BR13 problem 41 : 0.9498518425955529
+Guillotine Blocks块生成完毕:10000块
+生成时间988ms
+运行时间:30000ms
+BR12 problem 41 : 0.9513731978004375
+Guillotine Blocks块生成完毕:4177块
+生成时间653ms
+Guillotine Blocks块生成完毕:10000块
+生成时间5596ms
+Guillotine Blocks块生成完毕:9227块
+生成时间2385ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4050ms
+运行时间:30000ms
+BR14 problem 42 : 0.950482890777617
+运行时间:30000ms
+BR9 problem 41 : 0.956038594040071
+Guillotine Blocks块生成完毕:7337块
+生成时间1400ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1047ms
+运行时间:30000ms
+BR11 problem 42 : 0.9531630509125738
+运行时间:30000ms
+BR10 problem 42 : 0.9578996677259467
+运行时间:30001ms
+BR15 problem 43 : 0.9436210227978951
+运行时间:30000ms
+BR8 problem 41 : 0.9612479320111055
+Guillotine Blocks块生成完毕:10000块
+生成时间1687ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1427ms
+运行时间:30000ms
+BR13 problem 42 : 0.9471273814690914
+Guillotine Blocks块生成完毕:10000块
+生成时间2847ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2678ms
+Guillotine Blocks块生成完毕:6605块
+生成时间1183ms
+运行时间:30000ms
+BR12 problem 42 : 0.9504852171612669
+Guillotine Blocks块生成完毕:7833块
+生成时间2157ms
+运行时间:30000ms
+BR14 problem 43 : 0.9452032627863031
+运行时间:30001ms
+BR9 problem 42 : 0.9535332117853267
+Guillotine Blocks块生成完毕:10000块
+生成时间2884ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1800ms
+运行时间:30000ms
+BR11 problem 43 : 0.9536010424857476
+运行时间:30000ms
+BR10 problem 43 : 0.9542660891031525
+Guillotine Blocks块生成完毕:10000块
+生成时间1276ms
+运行时间:30001ms
+BR15 problem 44 : 0.9418351577720158
+运行时间:30000ms
+BR8 problem 42 : 0.9571093619660201
+运行时间:30001ms
+BR13 problem 43 : 0.9538127433978894
+Guillotine Blocks块生成完毕:10000块
+生成时间2507ms
+Guillotine Blocks块生成完毕:6593块
+生成时间1636ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2240ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2854ms
+运行时间:30001ms
+BR12 problem 43 : 0.949513586412856
+Guillotine Blocks块生成完毕:10000块
+生成时间2164ms
+运行时间:30000ms
+BR14 problem 44 : 0.9507295206785595
+运行时间:30001ms
+BR9 problem 43 : 0.9483138703645975
+Guillotine Blocks块生成完毕:10000块
+生成时间2473ms
+运行时间:30000ms
+BR11 problem 44 : 0.950210803592734
+运行时间:30001ms
+BR10 problem 44 : 0.9574681567929405
+Guillotine Blocks块生成完毕:10000块
+生成时间7277ms
+运行时间:30000ms
+BR15 problem 45 : 0.9431211826536859
+运行时间:30001ms
+BR13 problem 44 : 0.9537832315595877
+运行时间:30001ms
+BR8 problem 43 : 0.949410062340435
+Guillotine Blocks块生成完毕:10000块
+生成时间4620ms
+Guillotine Blocks块生成完毕:5472块
+生成时间580ms
+Guillotine Blocks块生成完毕:10000块
+生成时间5395ms
+运行时间:30000ms
+BR12 problem 44 : 0.9505130672969615
+Guillotine Blocks块生成完毕:10000块
+生成时间2930ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2764ms
+Guillotine Blocks块生成完毕:10000块
+生成时间7663ms
+运行时间:30000ms
+BR14 problem 45 : 0.9429330114504604
+Guillotine Blocks块生成完毕:10000块
+生成时间1985ms
+运行时间:30001ms
+BR9 problem 44 : 0.9551374527162523
+运行时间:30000ms
+BR11 problem 45 : 0.9470061104128268
+Guillotine Blocks块生成完毕:10000块
+生成时间936ms
+运行时间:30000ms
+BR15 problem 46 : 0.9415077026562648
+运行时间:30001ms
+BR10 problem 45 : 0.9557161572661934
+Guillotine Blocks块生成完毕:5660块
+生成时间1008ms
+运行时间:30000ms
+BR13 problem 45 : 0.9400658100700507
+Guillotine Blocks块生成完毕:10000块
+生成时间3246ms
+运行时间:30000ms
+BR12 problem 45 : 0.946607534425493
+运行时间:30000ms
+BR8 problem 44 : 0.9597270088488987
+Guillotine Blocks块生成完毕:10000块
+生成时间3485ms
+Guillotine Blocks块生成完毕:10000块
+生成时间5070ms
+Guillotine Blocks块生成完毕:6565块
+生成时间1981ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2689ms
+运行时间:30000ms
+BR14 problem 46 : 0.94375362666594
+Guillotine Blocks块生成完毕:7587块
+生成时间1549ms
+运行时间:30000ms
+BR9 problem 45 : 0.9566007480320456
+Guillotine Blocks块生成完毕:10000块
+生成时间1443ms
+运行时间:30000ms
+BR15 problem 47 : 0.9466416657970423
+运行时间:30000ms
+BR11 problem 46 : 0.9454477324738564
+Guillotine Blocks块生成完毕:7818块
+生成时间2206ms
+运行时间:30001ms
+BR13 problem 46 : 0.9449573640345076
+运行时间:30000ms
+BR10 problem 46 : 0.9478754135146937
+Guillotine Blocks块生成完毕:10000块
+生成时间4947ms
+运行时间:30000ms
+BR12 problem 46 : 0.9478142960928054
+Guillotine Blocks块生成完毕:10000块
+生成时间2163ms
+运行时间:30000ms
+BR8 problem 45 : 0.9533842567636281
+Guillotine Blocks块生成完毕:10000块
+生成时间2236ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3186ms
+Guillotine Blocks块生成完毕:10000块
+生成时间6414ms
+运行时间:30001ms
+BR14 problem 47 : 0.9438082302136086
+运行时间:30000ms
+BR9 problem 46 : 0.9467929139683385
+Guillotine Blocks块生成完毕:6667块
+生成时间1772ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1542ms
+运行时间:30001ms
+BR15 problem 48 : 0.9541035745881803
+Guillotine Blocks块生成完毕:10000块
+生成时间2024ms
+运行时间:30000ms
+BR11 problem 47 : 0.9425821263279497
+运行时间:30001ms
+BR13 problem 47 : 0.9504171538224809
+运行时间:30001ms
+BR10 problem 47 : 0.9488655556301475
+Guillotine Blocks块生成完毕:10000块
+生成时间1065ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1357ms
+运行时间:30001ms
+BR12 problem 47 : 0.9469041483408565
+Guillotine Blocks块生成完毕:10000块
+生成时间1353ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1208ms
+运行时间:30001ms
+BR8 problem 46 : 0.9506777420253231
+Guillotine Blocks块生成完毕:10000块
+生成时间8372ms
+运行时间:30000ms
+BR14 problem 48 : 0.9473692256665255
+运行时间:30000ms
+BR9 problem 47 : 0.945609615541838
+Guillotine Blocks块生成完毕:6797块
+生成时间1695ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1253ms
+运行时间:30001ms
+BR15 problem 49 : 0.9428248013766873
+运行时间:30000ms
+BR11 problem 48 : 0.9498256873965175
+运行时间:30000ms
+BR13 problem 48 : 0.9465360147452843
+Guillotine Blocks块生成完毕:10000块
+生成时间3375ms
+运行时间:30000ms
+BR10 problem 48 : 0.950748397620176
+Guillotine Blocks块生成完毕:10000块
+生成时间2814ms
+Guillotine Blocks块生成完毕:5624块
+生成时间831ms
+运行时间:30000ms
+BR12 problem 48 : 0.9453432446139234
+Guillotine Blocks块生成完毕:10000块
+生成时间4776ms
+Guillotine Blocks块生成完毕:9800块
+生成时间3836ms
+运行时间:30001ms
+BR8 problem 47 : 0.9525125275759547
+Guillotine Blocks块生成完毕:10000块
+生成时间1198ms
+运行时间:30000ms
+BR14 problem 49 : 0.9427262624120877
+运行时间:30001ms
+BR9 problem 48 : 0.9515619672166016
+Guillotine Blocks块生成完毕:10000块
+生成时间2098ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4917ms
+运行时间:30000ms
+BR15 problem 50 : 0.9460725658881701
+运行时间:30000ms
+BR11 problem 49 : 0.9479408181293084
+运行时间:30010ms
+BR13 problem 49 : 0.948207189057223
+Guillotine Blocks块生成完毕:10000块
+生成时间802ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3870ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2830ms
+运行时间:30000ms
+BR10 problem 49 : 0.9493606433049004
+运行时间:30000ms
+BR12 problem 49 : 0.9480894740445376
+Guillotine Blocks块生成完毕:10000块
+生成时间1091ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1673ms
+运行时间:30001ms
+BR8 problem 48 : 0.9485406263023595
+Guillotine Blocks块生成完毕:10000块
+生成时间829ms
+运行时间:30000ms
+BR14 problem 50 : 0.9469300376674747
+Guillotine Blocks块生成完毕:10000块
+生成时间2210ms
+运行时间:30000ms
+BR9 problem 49 : 0.9572023840779644
+Guillotine Blocks块生成完毕:10000块
+生成时间2019ms
+运行时间:30000ms
+BR13 problem 50 : 0.9460717682709187
+运行时间:30000ms
+BR15 problem 51 : 0.947723101853729
+运行时间:30001ms
+BR11 problem 50 : 0.9469076711503834
+Guillotine Blocks块生成完毕:10000块
+生成时间1397ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2273ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1229ms
+运行时间:30001ms
+BR10 problem 50 : 0.9515381716352682
+运行时间:30000ms
+BR12 problem 50 : 0.946898432083888
+Guillotine Blocks块生成完毕:10000块
+生成时间1068ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1348ms
+运行时间:30001ms
+BR8 problem 49 : 0.9564798757844067
+Guillotine Blocks块生成完毕:10000块
+生成时间1100ms
+运行时间:30000ms
+BR14 problem 51 : 0.950153508086842
+Guillotine Blocks块生成完毕:10000块
+生成时间2805ms
+运行时间:30000ms
+BR9 problem 50 : 0.9542621674849998
+运行时间:30000ms
+BR13 problem 51 : 0.9471147857633296
+Guillotine Blocks块生成完毕:10000块
+生成时间3123ms
+运行时间:30000ms
+BR15 problem 52 : 0.9423977770407204
+运行时间:30000ms
+BR11 problem 51 : 0.9503926603260526
+Guillotine Blocks块生成完毕:10000块
+生成时间1619ms
+Guillotine Blocks块生成完毕:10000块
+生成时间984ms
+运行时间:30001ms
+BR10 problem 51 : 0.9552010959261035
+Guillotine Blocks块生成完毕:10000块
+生成时间1987ms
+运行时间:30000ms
+BR12 problem 51 : 0.9504868456298219
+Guillotine Blocks块生成完毕:10000块
+生成时间3260ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1668ms
+运行时间:30001ms
+BR8 problem 50 : 0.9570084633837184
+Guillotine Blocks块生成完毕:10000块
+生成时间2258ms
+运行时间:30000ms
+BR14 problem 52 : 0.9521928159943529
+Guillotine Blocks块生成完毕:10000块
+生成时间1654ms
+运行时间:30001ms
+BR9 problem 51 : 0.9559523184407115
+运行时间:30001ms
+BR13 problem 52 : 0.9466767609561038
+Guillotine Blocks块生成完毕:10000块
+生成时间2524ms
+运行时间:30000ms
+BR11 problem 52 : 0.952498037529221
+运行时间:30000ms
+BR15 problem 53 : 0.9494901896401483
+Guillotine Blocks块生成完毕:10000块
+生成时间2317ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1854ms
+运行时间:30000ms
+BR10 problem 52 : 0.9490165379290267
+Guillotine Blocks块生成完毕:10000块
+生成时间3674ms
+运行时间:30001ms
+BR12 problem 52 : 0.9520671580432056
+Guillotine Blocks块生成完毕:10000块
+生成时间2056ms
+Guillotine Blocks块生成完毕:10000块
+生成时间939ms
+运行时间:30000ms
+BR8 problem 51 : 0.9630065118801766
+Guillotine Blocks块生成完毕:10000块
+生成时间2456ms
+运行时间:30000ms
+BR14 problem 53 : 0.9481084839223626
+Guillotine Blocks块生成完毕:10000块
+生成时间1961ms
+运行时间:30000ms
+BR9 problem 52 : 0.9516099239538419
+运行时间:30000ms
+BR13 problem 53 : 0.9521333935091237
+Guillotine Blocks块生成完毕:10000块
+生成时间1389ms
+运行时间:30000ms
+BR11 problem 53 : 0.9505958533208462
+运行时间:30001ms
+BR15 problem 54 : 0.9456576719812347
+Guillotine Blocks块生成完毕:10000块
+生成时间1524ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1558ms
+运行时间:30000ms
+BR10 problem 53 : 0.9541029099071374
+运行时间:30020ms
+BR12 problem 53 : 0.9469126894922568
+Guillotine Blocks块生成完毕:10000块
+生成时间3353ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1069ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1902ms
+运行时间:30000ms
+BR8 problem 52 : 0.9582751460470421
+Guillotine Blocks块生成完毕:10000块
+生成时间3331ms
+运行时间:30000ms
+BR14 problem 54 : 0.951680845421112
+Guillotine Blocks块生成完毕:9623块
+生成时间2429ms
+运行时间:30001ms
+BR9 problem 53 : 0.950212930572071
+运行时间:30000ms
+BR13 problem 54 : 0.9490222209519429
+运行时间:30000ms
+BR11 problem 54 : 0.9510942976348654
+Guillotine Blocks块生成完毕:10000块
+生成时间2279ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1417ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1015ms
+运行时间:30000ms
+BR15 problem 55 : 0.9461245771797716
+运行时间:30001ms
+BR12 problem 54 : 0.9469626735066777
+运行时间:30000ms
+BR10 problem 54 : 0.9491290351955259
+Guillotine Blocks块生成完毕:5198块
+生成时间843ms
+Guillotine Blocks块生成完毕:10000块
+生成时间708ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1676ms
+运行时间:30000ms
+BR8 problem 53 : 0.9545600110602925
+Guillotine Blocks块生成完毕:10000块
+生成时间1791ms
+运行时间:30001ms
+BR14 problem 55 : 0.9518043099248179
+Guillotine Blocks块生成完毕:7557块
+生成时间1480ms
+运行时间:30000ms
+BR9 problem 54 : 0.9524374186181148
+运行时间:30000ms
+BR13 problem 55 : 0.9470756028158548
+运行时间:30000ms
+BR11 problem 55 : 0.9468980665093145
+Guillotine Blocks块生成完毕:10000块
+生成时间1480ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1493ms
+Guillotine Blocks块生成完毕:8703块
+生成时间2146ms
+运行时间:30001ms
+BR15 problem 56 : 0.9461420582911981
+运行时间:30001ms
+BR12 problem 55 : 0.9484498641059608
+运行时间:30000ms
+BR10 problem 55 : 0.9495752688136307
+Guillotine Blocks块生成完毕:6381块
+生成时间1350ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1283ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2231ms
+运行时间:30001ms
+BR8 problem 54 : 0.950048588184231
+Guillotine Blocks块生成完毕:10000块
+生成时间3682ms
+运行时间:30000ms
+BR14 problem 56 : 0.9459032383925088
+Guillotine Blocks块生成完毕:7730块
+生成时间1358ms
+运行时间:30000ms
+BR9 problem 55 : 0.9474849134020303
+运行时间:30001ms
+BR11 problem 56 : 0.9521734073079022
+运行时间:30000ms
+BR13 problem 56 : 0.9548259167114772
+Guillotine Blocks块生成完毕:10000块
+生成时间3515ms
+运行时间:30000ms
+BR15 problem 57 : 0.9390363853049656
+Guillotine Blocks块生成完毕:10000块
+生成时间1719ms
+Guillotine Blocks块生成完毕:7116块
+生成时间2273ms
+运行时间:30001ms
+BR12 problem 56 : 0.945827697391991
+Guillotine Blocks块生成完毕:6284块
+生成时间1223ms
+运行时间:30001ms
+BR10 problem 56 : 0.9553079434037386
+Guillotine Blocks块生成完毕:10000块
+生成时间2542ms
+Guillotine Blocks块生成完毕:6825块
+生成时间2379ms
+运行时间:30001ms
+BR8 problem 55 : 0.9518952050574251
+运行时间:30000ms
+BR14 problem 57 : 0.9471260188729536
+Guillotine Blocks块生成完毕:10000块
+生成时间5396ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2165ms
+运行时间:30001ms
+BR9 problem 56 : 0.9573312657321694
+运行时间:30000ms
+BR13 problem 57 : 0.943833222220819
+运行时间:30000ms
+BR11 problem 57 : 0.946984109470309
+Guillotine Blocks块生成完毕:10000块
+生成时间796ms
+运行时间:30000ms
+BR15 problem 58 : 0.9483217800690071
+Guillotine Blocks块生成完毕:10000块
+生成时间843ms
+运行时间:30001ms
+BR12 problem 57 : 0.9483195866215658
+Guillotine Blocks块生成完毕:10000块
+生成时间3745ms
+运行时间:30000ms
+BR10 problem 57 : 0.9525817541065656
+Guillotine Blocks块生成完毕:10000块
+生成时间989ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3194ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3330ms
+运行时间:30000ms
+BR8 problem 56 : 0.950827527898325
+运行时间:30000ms
+BR14 problem 58 : 0.954088951605238
+Guillotine Blocks块生成完毕:10000块
+生成时间2412ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4755ms
+运行时间:30000ms
+BR9 problem 57 : 0.956129688576991
+运行时间:30000ms
+BR11 problem 58 : 0.9513837329949664
+运行时间:30000ms
+BR13 problem 58 : 0.9423508837931486
+Guillotine Blocks块生成完毕:10000块
+生成时间2079ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4516ms
+运行时间:30000ms
+BR12 problem 58 : 0.9529239651414674
+运行时间:30003ms
+BR15 problem 59 : 0.9477652758658967
+Guillotine Blocks块生成完毕:8141块
+生成时间2883ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1198ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2105ms
+运行时间:30000ms
+BR10 problem 58 : 0.9592960961288312
+Guillotine Blocks块生成完毕:10000块
+生成时间2595ms
+运行时间:30001ms
+BR14 problem 59 : 0.953457006103766
+运行时间:30000ms
+BR8 problem 57 : 0.957270380948646
+Guillotine Blocks块生成完毕:10000块
+生成时间681ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1908ms
+运行时间:30000ms
+BR11 problem 59 : 0.9527169502306776
+运行时间:30000ms
+BR9 problem 58 : 0.9601678585505566
+Guillotine Blocks块生成完毕:10000块
+生成时间1158ms
+运行时间:30001ms
+BR13 problem 59 : 0.9487695092194584
+Guillotine Blocks块生成完毕:10000块
+生成时间1442ms
+运行时间:30001ms
+BR15 problem 60 : 0.9422639767467984
+运行时间:30000ms
+BR12 problem 59 : 0.9520933464762932
+Guillotine Blocks块生成完毕:7804块
+生成时间2017ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1685ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3750ms
+运行时间:30000ms
+BR10 problem 59 : 0.9599308665247351
+Guillotine Blocks块生成完毕:10000块
+生成时间2449ms
+运行时间:30000ms
+BR14 problem 60 : 0.9431190224402967
+运行时间:30001ms
+BR8 problem 58 : 0.9591324848901382
+Guillotine Blocks块生成完毕:7379块
+生成时间1275ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1747ms
+运行时间:30001ms
+BR11 problem 60 : 0.9530689653109611
+运行时间:30000ms
+BR9 problem 59 : 0.9594374073185371
+Guillotine Blocks块生成完毕:6736块
+生成时间1981ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1519ms
+运行时间:30000ms
+BR15 problem 61 : 0.9461794798339095
+运行时间:30000ms
+BR12 problem 60 : 0.9501255250149387
+运行时间:30000ms
+BR13 problem 60 : 0.9526909279678507
+Guillotine Blocks块生成完毕:6784块
+生成时间1314ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3614ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3545ms
+运行时间:30000ms
+BR10 problem 60 : 0.9480511884164705
+Guillotine Blocks块生成完毕:10000块
+生成时间1951ms
+运行时间:30000ms
+BR14 problem 61 : 0.9523857729010868
+运行时间:30001ms
+BR8 problem 59 : 0.9567671509311184
+Guillotine Blocks块生成完毕:10000块
+生成时间1343ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1862ms
+运行时间:30000ms
+BR11 problem 61 : 0.9507546788560307
+运行时间:30000ms
+BR9 problem 60 : 0.95372460669161
+运行时间:30000ms
+BR15 problem 62 : 0.9490095255440248
+Guillotine Blocks块生成完毕:10000块
+生成时间2751ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2568ms
+Guillotine Blocks块生成完毕:4401块
+生成时间465ms
+运行时间:30001ms
+BR12 problem 61 : 0.9521153474188109
+运行时间:30000ms
+BR13 problem 61 : 0.9468922173161376
+运行时间:30001ms
+BR10 problem 61 : 0.9517932762195069
+Guillotine Blocks块生成完毕:10000块
+生成时间2674ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2803ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2153ms
+运行时间:30001ms
+BR14 problem 62 : 0.9452580657382845
+Guillotine Blocks块生成完毕:5773块
+生成时间803ms
+运行时间:30000ms
+BR8 problem 60 : 0.9534969534344402
+Guillotine Blocks块生成完毕:10000块
+生成时间781ms
+运行时间:30000ms
+BR11 problem 62 : 0.9504082803305591
+运行时间:30000ms
+BR9 problem 61 : 0.9527969113601301
+运行时间:30000ms
+BR15 problem 63 : 0.9504931268656766
+Guillotine Blocks块生成完毕:10000块
+生成时间2912ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3413ms
+Guillotine Blocks块生成完毕:8603块
+生成时间1977ms
+运行时间:30000ms
+BR12 problem 62 : 0.9449106369571966
+运行时间:30001ms
+BR13 problem 62 : 0.9474831519972668
+运行时间:30001ms
+BR10 problem 62 : 0.9506494930810027
+Guillotine Blocks块生成完毕:10000块
+生成时间2500ms
+Guillotine Blocks块生成完毕:7856块
+生成时间2832ms
+Guillotine Blocks块生成完毕:9340块
+生成时间3465ms
+运行时间:30000ms
+BR14 problem 63 : 0.9440588814348603
+运行时间:30000ms
+BR8 problem 61 : 0.955143235441325
+Guillotine Blocks块生成完毕:8639块
+生成时间2065ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1773ms
+运行时间:30000ms
+BR11 problem 63 : 0.9532923646094567
+运行时间:30000ms
+BR9 problem 62 : 0.9467734388137836
+运行时间:30000ms
+BR15 problem 64 : 0.9374057897706917
+Guillotine Blocks块生成完毕:10000块
+生成时间1681ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1964ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3602ms
+运行时间:30000ms
+BR12 problem 63 : 0.9566511973231965
+运行时间:30000ms
+BR13 problem 63 : 0.9464288016930755
+Guillotine Blocks块生成完毕:10000块
+生成时间1277ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2036ms
+运行时间:30000ms
+BR10 problem 63 : 0.9548594498700881
+Guillotine Blocks块生成完毕:10000块
+生成时间3259ms
+运行时间:30000ms
+BR14 problem 64 : 0.9401152623396374
+运行时间:30001ms
+BR8 problem 62 : 0.9471753714403838
+Guillotine Blocks块生成完毕:10000块
+生成时间1547ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4206ms
+运行时间:30000ms
+BR9 problem 63 : 0.9512908438192307
+运行时间:30000ms
+BR15 problem 65 : 0.9425983113113425
+运行时间:30000ms
+BR11 problem 64 : 0.9454550107312755
+Guillotine Blocks块生成完毕:10000块
+生成时间792ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1659ms
+运行时间:30000ms
+BR12 problem 64 : 0.950231475173166
+运行时间:30000ms
+BR13 problem 64 : 0.9467442593160034
+Guillotine Blocks块生成完毕:10000块
+生成时间1020ms
+Guillotine Blocks块生成完毕:10000块
+生成时间5615ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1598ms
+运行时间:30001ms
+BR10 problem 64 : 0.9561126727422945
+Guillotine Blocks块生成完毕:10000块
+生成时间1248ms
+运行时间:30000ms
+BR14 problem 65 : 0.9514505002057188
+Guillotine Blocks块生成完毕:7815块
+生成时间1730ms
+运行时间:30000ms
+BR8 problem 63 : 0.9566820052895317
+运行时间:30000ms
+BR9 problem 64 : 0.9473461612343392
+Guillotine Blocks块生成完毕:10000块
+生成时间4699ms
+运行时间:30000ms
+BR15 problem 66 : 0.9426363310669925
+Guillotine Blocks块生成完毕:3571块
+生成时间383ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2986ms
+运行时间:30000ms
+BR12 problem 65 : 0.9465147117178615
+运行时间:30000ms
+BR11 problem 65 : 0.9538831995884295
+运行时间:30001ms
+BR13 problem 65 : 0.9526179792234
+Guillotine Blocks块生成完毕:10000块
+生成时间2632ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4119ms
+Guillotine Blocks块生成完毕:7973块
+生成时间2522ms
+运行时间:30000ms
+BR10 problem 65 : 0.9506952896048537
+Guillotine Blocks块生成完毕:10000块
+生成时间3047ms
+运行时间:30000ms
+BR14 problem 66 : 0.9493818133961147
+Guillotine Blocks块生成完毕:7205块
+生成时间1243ms
+运行时间:30000ms
+BR8 problem 64 : 0.954375827943324
+运行时间:30000ms
+BR15 problem 67 : 0.9379193888124875
+Guillotine Blocks块生成完毕:10000块
+生成时间2581ms
+运行时间:30000ms
+BR9 problem 65 : 0.9582401505901371
+Guillotine Blocks块生成完毕:8682块
+生成时间2772ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3076ms
+运行时间:30000ms
+BR12 problem 66 : 0.9541523289426719
+运行时间:30001ms
+BR11 problem 66 : 0.9561906398286186
+运行时间:30000ms
+BR13 problem 66 : 0.9525235945153179
+Guillotine Blocks块生成完毕:6355块
+生成时间1739ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1888ms
+Guillotine Blocks块生成完毕:6548块
+生成时间1658ms
+运行时间:30000ms
+BR10 problem 66 : 0.9487844645429221
+Guillotine Blocks块生成完毕:10000块
+生成时间4276ms
+运行时间:30001ms
+BR14 problem 67 : 0.945688247309205
+Guillotine Blocks块生成完毕:6523块
+生成时间1473ms
+运行时间:30000ms
+BR8 problem 65 : 0.9557494577864393
+运行时间:30000ms
+BR15 problem 68 : 0.9494758657636753
+运行时间:30001ms
+BR9 problem 66 : 0.9556093762566626
+Guillotine Blocks块生成完毕:10000块
+生成时间3867ms
+运行时间:30001ms
+BR12 problem 67 : 0.9496548643685098
+Guillotine Blocks块生成完毕:9997块
+生成时间3626ms
+运行时间:30000ms
+BR11 problem 67 : 0.9496233252530275
+运行时间:30000ms
+BR13 problem 67 : 0.9410838023211991
+Guillotine Blocks块生成完毕:10000块
+生成时间4869ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3677ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2128ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2665ms
+运行时间:30000ms
+BR10 problem 67 : 0.9484736264532421
+Guillotine Blocks块生成完毕:10000块
+生成时间949ms
+运行时间:30000ms
+BR14 problem 68 : 0.9437236827849604
+Guillotine Blocks块生成完毕:10000块
+生成时间1828ms
+运行时间:30000ms
+BR8 problem 66 : 0.9568196607335021
+Guillotine Blocks块生成完毕:10000块
+生成时间1503ms
+运行时间:30000ms
+BR15 problem 69 : 0.947354070938749
+运行时间:30005ms
+BR9 problem 67 : 0.9525364228594445
+Guillotine Blocks块生成完毕:5404块
+生成时间708ms
+运行时间:30001ms
+BR12 problem 68 : 0.9456349066555177
+运行时间:30000ms
+BR13 problem 68 : 0.9457546489453839
+运行时间:30000ms
+BR11 problem 68 : 0.9462794810968035
+Guillotine Blocks块生成完毕:8924块
+生成时间3597ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1618ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3141ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3732ms
+运行时间:30001ms
+BR10 problem 68 : 0.9572599786903258
+运行时间:30001ms
+BR14 problem 69 : 0.9479028648417627
+Guillotine Blocks块生成完毕:10000块
+生成时间3271ms
+Guillotine Blocks块生成完毕:7930块
+生成时间2584ms
+运行时间:30001ms
+BR8 problem 67 : 0.9486303250090895
+运行时间:30000ms
+BR15 problem 70 : 0.9443142518915161
+Guillotine Blocks块生成完毕:10000块
+生成时间4738ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1864ms
+运行时间:30001ms
+BR9 problem 68 : 0.9511100838096327
+运行时间:30001ms
+BR11 problem 69 : 0.9585302506312808
+运行时间:30000ms
+BR13 problem 69 : 0.943156643387321
+运行时间:30000ms
+BR12 problem 69 : 0.9550414727736675
+Guillotine Blocks块生成完毕:10000块
+生成时间2870ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3855ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2806ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3413ms
+运行时间:30000ms
+BR10 problem 69 : 0.9532229386745329
+运行时间:30000ms
+BR14 problem 70 : 0.9420127605466603
+Guillotine Blocks块生成完毕:10000块
+生成时间2086ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2260ms
+运行时间:30000ms
+BR8 problem 68 : 0.9512550839791264
+运行时间:30000ms
+BR15 problem 71 : 0.9477038925715912
+Guillotine Blocks块生成完毕:8523块
+生成时间1552ms
+运行时间:30001ms
+BR9 problem 69 : 0.9495944780957686
+Guillotine Blocks块生成完毕:9809块
+生成时间5645ms
+运行时间:30000ms
+BR11 problem 70 : 0.9505989108536432
+运行时间:30000ms
+BR13 problem 70 : 0.9515200923109032
+运行时间:30000ms
+BR12 problem 70 : 0.9453082159229661
+Guillotine Blocks块生成完毕:10000块
+生成时间1746ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1423ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1298ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3505ms
+运行时间:30000ms
+BR10 problem 70 : 0.9507025013941685
+Guillotine Blocks块生成完毕:10000块
+生成时间1959ms
+运行时间:30000ms
+BR14 problem 71 : 0.9530071167399256
+Guillotine Blocks块生成完毕:9163块
+生成时间2956ms
+运行时间:30000ms
+BR15 problem 72 : 0.9458346100748365
+Guillotine Blocks块生成完毕:5595块
+生成时间1076ms
+运行时间:30000ms
+BR8 problem 69 : 0.9521184714197122
+运行时间:30000ms
+BR9 problem 70 : 0.9533162931269986
+Guillotine Blocks块生成完毕:10000块
+生成时间2306ms
+运行时间:30001ms
+BR11 problem 71 : 0.9557142629252214
+运行时间:30000ms
+BR12 problem 71 : 0.9538467418332301
+运行时间:30000ms
+BR13 problem 71 : 0.9487369730824118
+Guillotine Blocks块生成完毕:10000块
+生成时间2777ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2659ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3674ms
+运行时间:30000ms
+BR10 problem 71 : 0.9525863736398134
+Guillotine Blocks块生成完毕:10000块
+生成时间4138ms
+运行时间:30000ms
+BR14 problem 72 : 0.9424586950582958
+Guillotine Blocks块生成完毕:10000块
+生成时间3546ms
+Guillotine Blocks块生成完毕:8010块
+生成时间2615ms
+运行时间:30000ms
+BR15 problem 73 : 0.9481925328402286
+Guillotine Blocks块生成完毕:5866块
+生成时间1067ms
+运行时间:30000ms
+BR8 problem 70 : 0.9474384854311886
+运行时间:30001ms
+BR9 problem 71 : 0.9549538345781702
+Guillotine Blocks块生成完毕:10000块
+生成时间1543ms
+运行时间:30000ms
+BR12 problem 72 : 0.9464210581589265
+运行时间:30000ms
+BR11 problem 72 : 0.9498961768211097
+运行时间:30000ms
+BR13 problem 72 : 0.9459815378193543
+Guillotine Blocks块生成完毕:10000块
+生成时间4014ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2715ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4043ms
+运行时间:30001ms
+BR10 problem 72 : 0.9493397058520513
+Guillotine Blocks块生成完毕:10000块
+生成时间2753ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1056ms
+运行时间:30001ms
+BR14 problem 73 : 0.9536644198231815
+Guillotine Blocks块生成完毕:8440块
+生成时间2870ms
+运行时间:30000ms
+BR15 problem 74 : 0.9484013423898341
+Guillotine Blocks块生成完毕:7077块
+生成时间1697ms
+运行时间:30001ms
+BR8 problem 71 : 0.9569124834411336
+Guillotine Blocks块生成完毕:10000块
+生成时间3313ms
+运行时间:30000ms
+BR9 problem 72 : 0.9473559652797211
+运行时间:30000ms
+BR11 problem 73 : 0.9469670604015604
+运行时间:30000ms
+BR12 problem 73 : 0.9519208285116263
+运行时间:30000ms
+BR13 problem 73 : 0.9522338268146956
+Guillotine Blocks块生成完毕:10000块
+生成时间2685ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2003ms
+运行时间:30000ms
+BR10 problem 73 : 0.9527877719957912
+Guillotine Blocks块生成完毕:10000块
+生成时间3451ms
+Guillotine Blocks块生成完毕:6374块
+生成时间1488ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2239ms
+运行时间:30000ms
+BR14 problem 74 : 0.9484480029990409
+Guillotine Blocks块生成完毕:10000块
+生成时间3342ms
+运行时间:30000ms
+BR15 problem 75 : 0.9456226432902776
+Guillotine Blocks块生成完毕:4563块
+生成时间703ms
+运行时间:30000ms
+BR8 problem 72 : 0.9514423910969962
+Guillotine Blocks块生成完毕:10000块
+生成时间2028ms
+运行时间:30000ms
+BR9 problem 73 : 0.953990379406586
+运行时间:30000ms
+BR12 problem 74 : 0.9397958498645048
+运行时间:30001ms
+BR11 problem 74 : 0.9445724140085517
+运行时间:30000ms
+BR13 problem 74 : 0.9436490391038505
+Guillotine Blocks块生成完毕:10000块
+生成时间1741ms
+Guillotine Blocks块生成完毕:10000块
+生成时间759ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1194ms
+运行时间:30000ms
+BR10 problem 74 : 0.9482916367837148
+Guillotine Blocks块生成完毕:10000块
+生成时间4547ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2530ms
+运行时间:30001ms
+BR14 problem 75 : 0.9466019843387853
+Guillotine Blocks块生成完毕:6527块
+生成时间1723ms
+运行时间:30001ms
+BR15 problem 76 : 0.9420338974038223
+Guillotine Blocks块生成完毕:10000块
+生成时间3459ms
+运行时间:30000ms
+BR8 problem 73 : 0.9581853476381557
+Guillotine Blocks块生成完毕:10000块
+生成时间2583ms
+运行时间:30000ms
+BR9 problem 74 : 0.9494575870349975
+运行时间:30001ms
+BR12 problem 75 : 0.9495581532767778
+运行时间:30000ms
+BR13 problem 75 : 0.9416597152107604
+Guillotine Blocks块生成完毕:10000块
+生成时间2262ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1004ms
+运行时间:30000ms
+BR11 problem 75 : 0.9488366420047843
+Guillotine Blocks块生成完毕:10000块
+生成时间1782ms
+运行时间:30000ms
+BR10 problem 75 : 0.9511959938344187
+Guillotine Blocks块生成完毕:10000块
+生成时间2966ms
+运行时间:30000ms
+BR14 problem 76 : 0.9475960480723917
+Guillotine Blocks块生成完毕:9463块
+生成时间4914ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3184ms
+运行时间:30000ms
+BR15 problem 77 : 0.9422452327413906
+Guillotine Blocks块生成完毕:10000块
+生成时间3192ms
+运行时间:30000ms
+BR8 problem 74 : 0.9493205298039656
+运行时间:30000ms
+BR9 problem 75 : 0.9579263879038685
+运行时间:30000ms
+BR12 problem 76 : 0.9504166553116988
+Guillotine Blocks块生成完毕:10000块
+生成时间2752ms
+运行时间:30000ms
+BR13 problem 76 : 0.9558796355686778
+Guillotine Blocks块生成完毕:10000块
+生成时间883ms
+运行时间:30000ms
+BR11 problem 76 : 0.9544766268234693
+Guillotine Blocks块生成完毕:10000块
+生成时间4976ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2769ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1652ms
+运行时间:30001ms
+BR10 problem 76 : 0.954242492926132
+Guillotine Blocks块生成完毕:10000块
+生成时间1789ms
+运行时间:30000ms
+BR14 problem 77 : 0.9504640803041049
+Guillotine Blocks块生成完毕:10000块
+生成时间4790ms
+运行时间:30001ms
+BR15 problem 78 : 0.944540044041766
+Guillotine Blocks块生成完毕:10000块
+生成时间882ms
+运行时间:30000ms
+BR8 problem 75 : 0.9489068323229074
+运行时间:30000ms
+BR12 problem 77 : 0.9498852760520073
+Guillotine Blocks块生成完毕:10000块
+生成时间2726ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1246ms
+运行时间:30000ms
+BR9 problem 76 : 0.9603318685978752
+运行时间:30000ms
+BR13 problem 77 : 0.9492424630154851
+运行时间:30001ms
+BR11 problem 77 : 0.9487538227468476
+Guillotine Blocks块生成完毕:10000块
+生成时间3266ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1505ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4313ms
+运行时间:30000ms
+BR10 problem 77 : 0.9495817826878505
+Guillotine Blocks块生成完毕:10000块
+生成时间1085ms
+运行时间:30000ms
+BR14 problem 78 : 0.9425231026513462
+运行时间:30000ms
+BR15 problem 79 : 0.9479697982227758
+Guillotine Blocks块生成完毕:10000块
+生成时间4695ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1587ms
+运行时间:30000ms
+BR8 problem 76 : 0.949071307646956
+运行时间:30000ms
+BR12 problem 78 : 0.9520282077340957
+Guillotine Blocks块生成完毕:10000块
+生成时间1623ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4482ms
+运行时间:30000ms
+BR9 problem 77 : 0.9537282624373455
+运行时间:30000ms
+BR11 problem 78 : 0.9463625994612096
+运行时间:30000ms
+BR13 problem 78 : 0.9446978393213341
+运行时间:30001ms
+BR10 problem 78 : 0.9577185421417751
+Guillotine Blocks块生成完毕:10000块
+生成时间1940ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2116ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3433ms
+Guillotine Blocks块生成完毕:10000块
+生成时间8610ms
+运行时间:30001ms
+BR14 problem 79 : 0.9512442829121803
+运行时间:30000ms
+BR15 problem 80 : 0.9398224703402701
+Guillotine Blocks块生成完毕:2565块
+生成时间215ms
+Guillotine Blocks块生成完毕:10000块
+生成时间5244ms
+运行时间:30000ms
+BR12 problem 79 : 0.9490966984627921
+运行时间:30001ms
+BR8 problem 77 : 0.9521583855163342
+Guillotine Blocks块生成完毕:10000块
+生成时间710ms
+运行时间:30000ms
+BR11 problem 79 : 0.954003274218817
+运行时间:30000ms
+BR13 problem 79 : 0.9478317772042318
+Guillotine Blocks块生成完毕:10000块
+生成时间6516ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2131ms
+运行时间:30000ms
+BR10 problem 79 : 0.9497175105567967
+运行时间:30000ms
+BR9 problem 78 : 0.9528992722407262
+Guillotine Blocks块生成完毕:10000块
+生成时间3926ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2631ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2368ms
+运行时间:30000ms
+BR15 problem 81 : 0.9355958300570097
+Guillotine Blocks块生成完毕:3355块
+生成时间281ms
+运行时间:30001ms
+BR14 problem 80 : 0.9487412270410859
+Guillotine Blocks块生成完毕:3383块
+生成时间346ms
+运行时间:30000ms
+BR12 problem 80 : 0.9543693805372085
+Guillotine Blocks块生成完毕:3715块
+生成时间481ms
+运行时间:30001ms
+BR8 problem 78 : 0.9578844465300659
+运行时间:30001ms
+BR11 problem 80 : 0.9471584220737915
+运行时间:30000ms
+BR13 problem 80 : 0.9465473143230124
+Guillotine Blocks块生成完毕:5226块
+生成时间1187ms
+Guillotine Blocks块生成完毕:4779块
+生成时间708ms
+运行时间:30000ms
+BR10 problem 80 : 0.9537158329018446
+运行时间:30000ms
+BR9 problem 79 : 0.9544345525134581
+Guillotine Blocks块生成完毕:10000块
+生成时间5671ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2499ms
+Guillotine Blocks块生成完毕:8530块
+生成时间4594ms
+运行时间:30000ms
+BR15 problem 82 : 0.9343546379116785
+运行时间:30001ms
+BR14 problem 81 : 0.9370233322986465
+Guillotine Blocks块生成完毕:10000块
+生成时间2613ms
+Guillotine Blocks块生成完毕:5748块
+生成时间1149ms
+运行时间:30001ms
+BR12 problem 81 : 0.9484871859465158
+Guillotine Blocks块生成完毕:7322块
+生成时间1737ms
+运行时间:30000ms
+BR11 problem 81 : 0.948288413080657
+运行时间:30001ms
+BR13 problem 81 : 0.942053771367003
+运行时间:30000ms
+BR8 problem 79 : 0.9554379882497686
+Guillotine Blocks块生成完毕:10000块
+生成时间2406ms
+Guillotine Blocks块生成完毕:5371块
+生成时间931ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1737ms
+运行时间:30000ms
+BR9 problem 80 : 0.9552180452926956
+运行时间:30000ms
+BR10 problem 81 : 0.9425792349654133
+运行时间:30000ms
+BR15 problem 83 : 0.9457299892786948
+Guillotine Blocks块生成完毕:7897块
+生成时间4965ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4406ms
+运行时间:30001ms
+BR14 problem 82 : 0.9411140120745958
+Guillotine Blocks块生成完毕:10000块
+生成时间2321ms
+Guillotine Blocks块生成完毕:10000块
+生成时间5487ms
+运行时间:30000ms
+BR12 problem 82 : 0.945293626174076
+Guillotine Blocks块生成完毕:10000块
+生成时间1802ms
+运行时间:30000ms
+BR11 problem 82 : 0.9522125902553771
+运行时间:30000ms
+BR13 problem 82 : 0.9427283229233204
+运行时间:30000ms
+BR8 problem 80 : 0.9567695770169248
+Guillotine Blocks块生成完毕:10000块
+生成时间975ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2396ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1571ms
+运行时间:30000ms
+BR9 problem 81 : 0.9480635847179193
+运行时间:30000ms
+BR10 problem 82 : 0.9515228839712832
+Guillotine Blocks块生成完毕:10000块
+生成时间1283ms
+运行时间:30000ms
+BR15 problem 84 : 0.9478167554126639
+运行时间:30001ms
+BR14 problem 83 : 0.9519448234972725
+Guillotine Blocks块生成完毕:10000块
+生成时间6467ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4243ms
+运行时间:30000ms
+BR12 problem 83 : 0.958115257022189
+Guillotine Blocks块生成完毕:10000块
+生成时间3573ms
+Guillotine Blocks块生成完毕:10000块
+生成时间834ms
+运行时间:30001ms
+BR13 problem 83 : 0.9478670717676062
+运行时间:30001ms
+BR11 problem 83 : 0.9517848015362108
+运行时间:30001ms
+BR8 problem 81 : 0.9509543822753495
+Guillotine Blocks块生成完毕:10000块
+生成时间2332ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1245ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1347ms
+运行时间:30000ms
+BR9 problem 82 : 0.9515310927821621
+运行时间:30000ms
+BR10 problem 83 : 0.9514110846198789
+运行时间:30000ms
+BR15 problem 85 : 0.9495574553616829
+Guillotine Blocks块生成完毕:10000块
+生成时间6408ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1620ms
+Guillotine Blocks块生成完毕:9306块
+生成时间1898ms
+运行时间:30001ms
+BR14 problem 84 : 0.9459656519424307
+运行时间:30000ms
+BR12 problem 84 : 0.9499877034007076
+Guillotine Blocks块生成完毕:10000块
+生成时间959ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3376ms
+运行时间:30000ms
+BR13 problem 84 : 0.9444737088736913
+运行时间:30000ms
+BR11 problem 84 : 0.9514756251491379
+运行时间:30001ms
+BR8 problem 82 : 0.9555733837781932
+Guillotine Blocks块生成完毕:10000块
+生成时间1050ms
+Guillotine Blocks块生成完毕:10000块
+生成时间841ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2274ms
+运行时间:30001ms
+BR9 problem 83 : 0.9555933242094782
+运行时间:30000ms
+BR10 problem 84 : 0.9512001480909363
+运行时间:30000ms
+BR15 problem 86 : 0.948642422204069
+Guillotine Blocks块生成完毕:10000块
+生成时间2882ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1313ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1726ms
+运行时间:30000ms
+BR14 problem 85 : 0.9444942142838627
+运行时间:30001ms
+BR12 problem 85 : 0.9504879755875947
+Guillotine Blocks块生成完毕:10000块
+生成时间2173ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4338ms
+运行时间:30001ms
+BR13 problem 85 : 0.9516292329381362
+运行时间:30000ms
+BR11 problem 85 : 0.9555915628047147
+运行时间:30000ms
+BR8 problem 83 : 0.9576562615280618
+Guillotine Blocks块生成完毕:10000块
+生成时间2492ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2804ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4747ms
+运行时间:30000ms
+BR9 problem 84 : 0.9541808769934615
+运行时间:30001ms
+BR10 problem 85 : 0.9578223653206654
+运行时间:30001ms
+BR15 problem 87 : 0.9455262313050148
+Guillotine Blocks块生成完毕:10000块
+生成时间1776ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2359ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2183ms
+运行时间:30001ms
+BR14 problem 86 : 0.9513237787649029
+Guillotine Blocks块生成完毕:10000块
+生成时间3252ms
+运行时间:30000ms
+BR12 problem 86 : 0.9492264109683007
+Guillotine Blocks块生成完毕:10000块
+生成时间1198ms
+运行时间:30000ms
+BR13 problem 86 : 0.9499919573593817
+运行时间:30000ms
+BR11 problem 86 : 0.9528985743256312
+Guillotine Blocks块生成完毕:10000块
+生成时间1099ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1591ms
+运行时间:30000ms
+BR8 problem 84 : 0.9596996904580384
+Guillotine Blocks块生成完毕:10000块
+生成时间1963ms
+运行时间:30000ms
+BR9 problem 85 : 0.9533117068278031
+运行时间:30000ms
+BR10 problem 86 : 0.9524687250952322
+运行时间:30000ms
+BR15 problem 88 : 0.945756343882043
+Guillotine Blocks块生成完毕:10000块
+生成时间2504ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1900ms
+Guillotine Blocks块生成完毕:8839块
+生成时间1843ms
+运行时间:30000ms
+BR14 problem 87 : 0.9454776098867317
+Guillotine Blocks块生成完毕:6683块
+生成时间1729ms
+运行时间:30000ms
+BR12 problem 87 : 0.9484079892002624
+Guillotine Blocks块生成完毕:10000块
+生成时间1664ms
+运行时间:30000ms
+BR13 problem 87 : 0.950069957679758
+运行时间:30000ms
+BR11 problem 87 : 0.951365088691715
+Guillotine Blocks块生成完毕:10000块
+生成时间3050ms
+运行时间:30000ms
+BR8 problem 85 : 0.9536500294786042
+Guillotine Blocks块生成完毕:10000块
+生成时间4727ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3314ms
+运行时间:30000ms
+BR9 problem 86 : 0.9505675046743695
+运行时间:30000ms
+BR10 problem 87 : 0.955967473168488
+运行时间:30000ms
+BR15 problem 89 : 0.9460377366015257
+Guillotine Blocks块生成完毕:4418块
+生成时间384ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1604ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1939ms
+运行时间:30001ms
+BR14 problem 88 : 0.9438926779401002
+运行时间:30000ms
+BR12 problem 88 : 0.9488198255744007
+Guillotine Blocks块生成完毕:6907块
+生成时间2012ms
+Guillotine Blocks块生成完毕:8987块
+生成时间2578ms
+运行时间:30001ms
+BR13 problem 88 : 0.9461770869821553
+运行时间:30001ms
+BR11 problem 88 : 0.9491199290652391
+Guillotine Blocks块生成完毕:8467块
+生成时间2023ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1124ms
+运行时间:30001ms
+BR8 problem 86 : 0.9577775990524307
+Guillotine Blocks块生成完毕:10000块
+生成时间2242ms
+运行时间:30001ms
+BR15 problem 90 : 0.9490769574358201
+运行时间:30018ms
+BR9 problem 87 : 0.96210959128098
+运行时间:30001ms
+BR10 problem 88 : 0.9498657011952959
+Guillotine Blocks块生成完毕:3706块
+生成时间267ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1934ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3772ms
+运行时间:30000ms
+BR14 problem 89 : 0.9491169380005464
+运行时间:30000ms
+BR12 problem 89 : 0.9541379385980946
+Guillotine Blocks块生成完毕:8340块
+生成时间2573ms
+Guillotine Blocks块生成完毕:8668块
+生成时间2128ms
+运行时间:30000ms
+BR13 problem 89 : 0.9491896873406842
+运行时间:30001ms
+BR11 problem 89 : 0.9545652952745831
+Guillotine Blocks块生成完毕:10000块
+生成时间2475ms
+运行时间:30000ms
+BR8 problem 87 : 0.9614928005072846
+Guillotine Blocks块生成完毕:7718块
+生成时间3398ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4414ms
+运行时间:30000ms
+BR15 problem 91 : 0.9395803270363667
+运行时间:30001ms
+BR10 problem 89 : 0.9537349757158781
+运行时间:30001ms
+BR9 problem 88 : 0.9481837922845154
+Guillotine Blocks块生成完毕:8854块
+生成时间1882ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3844ms
+运行时间:30000ms
+BR14 problem 90 : 0.9447397142270324
+Guillotine Blocks块生成完毕:10000块
+生成时间4669ms
+Guillotine Blocks块生成完毕:5144块
+生成时间828ms
+运行时间:30000ms
+BR12 problem 90 : 0.9501234645037059
+Guillotine Blocks块生成完毕:10000块
+生成时间1838ms
+运行时间:30000ms
+BR13 problem 90 : 0.9426350017049069
+运行时间:30000ms
+BR11 problem 90 : 0.9537216820950215
+Guillotine Blocks块生成完毕:6983块
+生成时间1861ms
+Guillotine Blocks块生成完毕:7833块
+生成时间2876ms
+运行时间:30001ms
+BR8 problem 88 : 0.9531647790832852
+运行时间:30001ms
+BR15 problem 92 : 0.9515697439848028
+Guillotine Blocks块生成完毕:10000块
+生成时间2721ms
+Guillotine Blocks块生成完毕:4407块
+生成时间418ms
+运行时间:30000ms
+BR10 problem 90 : 0.9492655606817235
+运行时间:30001ms
+BR9 problem 89 : 0.9493135506530159
+Guillotine Blocks块生成完毕:10000块
+生成时间1372ms
+运行时间:30001ms
+BR14 problem 91 : 0.94209345282526
+Guillotine Blocks块生成完毕:10000块
+生成时间2795ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2836ms
+运行时间:30000ms
+BR12 problem 91 : 0.9428315478892721
+Guillotine Blocks块生成完毕:10000块
+生成时间1059ms
+运行时间:30001ms
+BR13 problem 91 : 0.9458850593659873
+运行时间:30000ms
+BR11 problem 91 : 0.9493166081858129
+Guillotine Blocks块生成完毕:10000块
+生成时间1812ms
+Guillotine Blocks块生成完毕:10000块
+生成时间5461ms
+运行时间:30000ms
+BR8 problem 89 : 0.9547957069580806
+运行时间:30000ms
+BR15 problem 93 : 0.9461540557840212
+Guillotine Blocks块生成完毕:10000块
+生成时间1848ms
+运行时间:30000ms
+BR10 problem 91 : 0.945844846162896
+Guillotine Blocks块生成完毕:10000块
+生成时间5202ms
+运行时间:30000ms
+BR9 problem 90 : 0.9500207712825884
+运行时间:30000ms
+BR14 problem 92 : 0.9536822332751295
+Guillotine Blocks块生成完毕:10000块
+生成时间3788ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1187ms
+Guillotine Blocks块生成完毕:3364块
+生成时间337ms
+运行时间:30000ms
+BR12 problem 92 : 0.9505794689331404
+Guillotine Blocks块生成完毕:4503块
+生成时间539ms
+运行时间:30000ms
+BR11 problem 92 : 0.9557433759548974
+运行时间:30000ms
+BR13 problem 92 : 0.949619702741344
+Guillotine Blocks块生成完毕:5610块
+生成时间1154ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4136ms
+运行时间:30007ms
+BR15 problem 94 : 0.9552632436036081
+运行时间:30001ms
+BR8 problem 90 : 0.9600523037512604
+Guillotine Blocks块生成完毕:6987块
+生成时间1055ms
+运行时间:30000ms
+BR10 problem 92 : 0.9551943161794665
+运行时间:30000ms
+BR9 problem 91 : 0.9531303486052666
+Guillotine Blocks块生成完毕:10000块
+生成时间5209ms
+运行时间:30000ms
+BR14 problem 93 : 0.9470151168409571
+Guillotine Blocks块生成完毕:10000块
+生成时间1928ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2279ms
+运行时间:30001ms
+BR12 problem 93 : 0.9474374551755722
+Guillotine Blocks块生成完毕:10000块
+生成时间3282ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1846ms
+运行时间:30000ms
+BR13 problem 93 : 0.9535845583958854
+运行时间:30000ms
+BR11 problem 93 : 0.9480543124173718
+Guillotine Blocks块生成完毕:10000块
+生成时间1409ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1424ms
+运行时间:30000ms
+BR15 problem 95 : 0.9407664171232472
+Guillotine Blocks块生成完毕:7413块
+生成时间1441ms
+运行时间:30000ms
+BR8 problem 91 : 0.9540961633945527
+运行时间:30000ms
+BR10 problem 93 : 0.9532680705173412
+运行时间:30000ms
+BR9 problem 92 : 0.953957510929018
+Guillotine Blocks块生成完毕:10000块
+生成时间2928ms
+运行时间:30001ms
+BR14 problem 94 : 0.9494599466526995
+Guillotine Blocks块生成完毕:10000块
+生成时间1793ms
+运行时间:30000ms
+BR12 problem 94 : 0.9536160975113677
+Guillotine Blocks块生成完毕:10000块
+生成时间2994ms
+Guillotine Blocks块生成完毕:8240块
+生成时间2545ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1863ms
+运行时间:30005ms
+BR13 problem 94 : 0.9491881253402336
+运行时间:30000ms
+BR11 problem 94 : 0.9529550722142719
+Guillotine Blocks块生成完毕:10000块
+生成时间2485ms
+运行时间:30000ms
+BR15 problem 96 : 0.9442114589682422
+Guillotine Blocks块生成完毕:10000块
+生成时间2976ms
+Guillotine Blocks块生成完毕:5504块
+生成时间670ms
+运行时间:30000ms
+BR8 problem 92 : 0.9602363871660725
+运行时间:30001ms
+BR10 problem 94 : 0.9566863921844144
+运行时间:30000ms
+BR9 problem 93 : 0.9551225306268407
+Guillotine Blocks块生成完毕:6097块
+生成时间2421ms
+运行时间:30001ms
+BR14 problem 95 : 0.9473860420969091
+Guillotine Blocks块生成完毕:10000块
+生成时间2778ms
+运行时间:30000ms
+BR12 problem 95 : 0.9467184364574893
+Guillotine Blocks块生成完毕:10000块
+生成时间1764ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3614ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4009ms
+运行时间:30000ms
+BR13 problem 95 : 0.943154084365306
+运行时间:30000ms
+BR11 problem 95 : 0.9504267252294978
+Guillotine Blocks块生成完毕:10000块
+生成时间2342ms
+运行时间:30000ms
+BR15 problem 97 : 0.9499760382484059
+Guillotine Blocks块生成完毕:10000块
+生成时间1829ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1783ms
+运行时间:30000ms
+BR8 problem 93 : 0.9499272838939142
+运行时间:30000ms
+BR10 problem 95 : 0.9528868427052253
+运行时间:30000ms
+BR9 problem 94 : 0.9535509255351181
+Guillotine Blocks块生成完毕:10000块
+生成时间1263ms
+运行时间:30001ms
+BR14 problem 96 : 0.9446051163158591
+Guillotine Blocks块生成完毕:10000块
+生成时间2380ms
+运行时间:30000ms
+BR12 problem 96 : 0.9550563616290269
+Guillotine Blocks块生成完毕:10000块
+生成时间6718ms
+Guillotine Blocks块生成完毕:8207块
+生成时间1937ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2005ms
+运行时间:30000ms
+BR13 problem 96 : 0.948226896850143
+运行时间:30001ms
+BR11 problem 96 : 0.946281242501567
+Guillotine Blocks块生成完毕:7286块
+生成时间1603ms
+运行时间:30000ms
+BR15 problem 98 : 0.9462943699521629
+Guillotine Blocks块生成完毕:7873块
+生成时间2335ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1493ms
+运行时间:30000ms
+BR10 problem 96 : 0.9508327124104592
+运行时间:30000ms
+BR9 problem 95 : 0.9535202505049915
+Guillotine Blocks块生成完毕:10000块
+生成时间955ms
+运行时间:30000ms
+BR8 problem 94 : 0.9621367435015796
+运行时间:30000ms
+BR14 problem 97 : 0.9506383929075874
+运行时间:30000ms
+BR12 problem 97 : 0.9497016579139251
+Guillotine Blocks块生成完毕:10000块
+生成时间2903ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3029ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1812ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4264ms
+运行时间:30000ms
+BR13 problem 97 : 0.9464335541625318
+运行时间:30000ms
+BR11 problem 97 : 0.947637191828943
+Guillotine Blocks块生成完毕:10000块
+生成时间2961ms
+运行时间:30000ms
+BR15 problem 99 : 0.9500584254636649
+Guillotine Blocks块生成完毕:10000块
+生成时间1818ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2319ms
+运行时间:30000ms
+BR10 problem 97 : 0.9489036086198497
+运行时间:30000ms
+BR9 problem 96 : 0.951061329455141
+运行时间:30000ms
+BR8 problem 95 : 0.9569202934433868
+运行时间:30000ms
+BR14 problem 98 : 0.9464445878678428
+Guillotine Blocks块生成完毕:10000块
+生成时间5133ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1832ms
+运行时间:30000ms
+BR12 problem 98 : 0.9467087985823682
+Guillotine Blocks块生成完毕:10000块
+生成时间5498ms
+Guillotine Blocks块生成完毕:10000块
+生成时间4146ms
+Guillotine Blocks块生成完毕:10000块
+生成时间1704ms
+运行时间:30000ms
+BR13 problem 98 : 0.9481068222197555
+运行时间:30000ms
+BR11 problem 98 : 0.9487036725621659
+运行时间:30000ms
+BR15 problem 100 : 0.9476128312687232
+BR15平均填充率为:0.945669512609332
+Guillotine Blocks块生成完毕:10000块
+生成时间3718ms
+Guillotine Blocks块生成完毕:10000块
+生成时间2604ms
+运行时间:30000ms
+BR10 problem 98 : 0.9526354935688786
+运行时间:30000ms
+BR8 problem 96 : 0.9604005301495998
+Guillotine Blocks块生成完毕:10000块
+生成时间2118ms
+运行时间:30000ms
+BR9 problem 97 : 0.9485851599322291
+运行时间:30001ms
+BR14 problem 99 : 0.9462078949484906
+Guillotine Blocks块生成完毕:10000块
+生成时间2311ms
+运行时间:30000ms
+BR12 problem 99 : 0.9515312589524227
+Guillotine Blocks块生成完毕:10000块
+生成时间2162ms
+Guillotine Blocks块生成完毕:10000块
+生成时间742ms
+Guillotine Blocks块生成完毕:10000块
+生成时间8047ms
+运行时间:30000ms
+BR13 problem 99 : 0.9534085176216914
+运行时间:30000ms
+BR11 problem 99 : 0.9522756352522896
+Guillotine Blocks块生成完毕:10000块
+生成时间1215ms
+Guillotine Blocks块生成完毕:10000块
+生成时间3706ms
+运行时间:30001ms
+BR10 problem 99 : 0.9531270252000523
+Guillotine Blocks块生成完毕:10000块
+生成时间894ms
+运行时间:30000ms
+BR8 problem 97 : 0.9545203960701398
+运行时间:30000ms
+BR14 problem 100 : 0.946195565115146
+BR14平均填充率为:0.9467954580350298
+运行时间:30000ms
+BR12 problem 100 : 0.9445805563513264
+BR12平均填充率为:0.9494352497638725
+Guillotine Blocks块生成完毕:10000块
+生成时间4067ms
+运行时间:30000ms
+BR9 problem 98 : 0.954640404232423
+Guillotine Blocks块生成完毕:10000块
+生成时间2691ms
+运行时间:30000ms
+BR11 problem 100 : 0.9461576782957046
+BR11平均填充率为:0.9503144356758245
+运行时间:30000ms
+BR13 problem 100 : 0.9457209828505644
+BR13平均填充率为:0.9476785117259706
+运行时间:30000ms
+BR10 problem 100 : 0.9456598321946239
+BR10平均填充率为:0.9518789655701861
+运行时间:30000ms
+BR8 problem 98 : 0.9592094217208459
+Guillotine Blocks块生成完毕:10000块
+生成时间2848ms
+运行时间:30001ms
+BR9 problem 99 : 0.9574548299380318
+Guillotine Blocks块生成完毕:10000块
+生成时间4256ms
+运行时间:30000ms
+BR8 problem 99 : 0.9636135650765946
+Guillotine Blocks块生成完毕:10000块
+生成时间1772ms
+运行时间:30001ms
+BR9 problem 100 : 0.9524520748351093
+BR9平均填充率为:0.9530596039431543
+运行时间:30000ms
+BR8 problem 100 : 0.9510388964699454
+BR8平均填充率为:0.9553464480442089

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BSGI_Add_Rotated_Blocks:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BSGI_Add_Rotated_Blocks_jar</output-path>
+    <root id="archive" name="BSGI_Add_Rotated_Blocks.jar">
+      <element id="module-output" name="BSGI_Add_Rotated_Blocks" />
+    </root>
+  </artifact>
+</component>

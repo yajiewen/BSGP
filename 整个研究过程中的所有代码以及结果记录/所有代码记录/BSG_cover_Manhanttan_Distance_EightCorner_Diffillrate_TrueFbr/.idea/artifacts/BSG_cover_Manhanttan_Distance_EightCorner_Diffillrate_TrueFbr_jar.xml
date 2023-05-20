@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BSG_cover_Manhanttan_Distance_EightCorner_Diffillrate_TrueFbr:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BSG_cover_Manhanttan_Distance_EightCorner_Diffillrate_TrueFbr_jar</output-path>
+    <root id="archive" name="BSG_cover_Manhanttan_Distance_EightCorner_Diffillrate_TrueFbr.jar">
+      <element id="module-output" name="BSG_cover_Manhanttan_Distance_EightCorner_Diffillrate_TrueFbr" />
+    </root>
+  </artifact>
+</component>
